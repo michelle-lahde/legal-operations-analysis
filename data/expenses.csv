@@ -1,0 +1,2190 @@
+expense_id,matter_id,expense_date,expense_type,amount,vendor
+1,1,2024-07-29,Mediation Services,14653.79,Martinez Group
+2,1,2024-10-03,Expert Witness,28015.28,"Brown, West and Cox"
+3,1,2024-10-16,Filing Fees,3232.1,Gordon-Dougherty
+4,1,2024-07-05,Court Fees,3940.21,"Boyd, Ellis and Maynard"
+5,1,2024-07-08,Research/Legal Database,12531.59,Boone-Simmons
+6,1,2024-07-17,Travel,4430.2,"Browning, Jones and Miller"
+7,2,2024-09-24,Expert Witness,27112.65,Martinez PLC
+8,2,2024-09-30,Research/Legal Database,6248.17,"Joseph, James and Harper"
+9,2,2024-07-08,Deposition,6803.26,"Jacobs, Garcia and Miles"
+10,2,2024-11-24,Mediation Services,3722.79,"Rich, Arnold and Glenn"
+11,2,2024-08-11,Mediation Services,10327.68,Gutierrez Group
+12,2,2024-08-03,Research/Legal Database,10738.26,"Davis, Simmons and Ortega"
+13,2,2024-07-28,Investigation,10160.2,Mcdaniel Group
+14,2,2024-05-12,Filing Fees,4653.69,Davis Inc
+15,3,2024-07-06,Mediation Services,12963.17,Cain-Hawkins
+16,3,2024-03-18,Filing Fees,2653.14,"Hoffman, Santiago and Jenkins"
+17,3,2024-10-04,Deposition,4983.55,Parrish-Griffith
+18,3,2024-12-09,Document Review,2399.85,"Edwards, Garcia and Romero"
+19,3,2023-05-22,Travel,9817.1,Walker-Rodriguez
+20,3,2024-09-14,Travel,9839.37,Wilson-Ramirez
+21,3,2023-07-11,Research/Legal Database,2553.7,Bruce-Villegas
+22,3,2024-08-26,Research/Legal Database,13834.82,"Leonard, Hawkins and Lynch"
+23,3,2024-05-06,Mediation Services,744.87,"Adams, White and Park"
+24,3,2023-09-07,Court Fees,3894.72,Bell-White
+25,3,2023-05-14,Document Review,4179.47,"Morales, Thomas and Schultz"
+26,3,2023-02-25,Research/Legal Database,5518.54,"Moreno, Bennett and Chavez"
+27,3,2023-05-24,Transcript Services,2737.1,Griffith-Frank
+28,4,2023-12-04,Research/Legal Database,3090.25,Ware and Sons
+29,4,2022-11-26,Deposition,4645.25,"Williams, Miller and Ramos"
+30,4,2023-07-27,Filing Fees,1323.68,"Ramos, Nelson and Fischer"
+31,4,2022-10-18,Transcript Services,14897.09,Rodriguez-Gregory
+32,4,2023-12-27,Deposition,2899.57,"Estrada, Williams and Foster"
+33,4,2024-01-02,Expert Witness,45509.82,Harris and Sons
+34,4,2024-06-02,Travel,8498.05,Roberts-Wilson
+35,4,2023-10-01,Investigation,13035.15,Thompson-James
+36,4,2024-04-05,Travel,1600.02,"Hansen, Barnett and Gomez"
+37,4,2023-07-02,Court Fees,2892.08,"Williams, Smith and Morse"
+38,4,2024-08-27,Document Review,6253.89,"Patterson, Sullivan and Bowman"
+39,4,2023-03-26,Investigation,4498.81,Smith-Nguyen
+40,4,2024-07-03,Travel,1056.82,"Stevens, Norris and Cox"
+41,4,2023-08-07,Deposition,3062.04,Sanchez PLC
+42,4,2023-07-05,Mediation Services,14271.78,Foster LLC
+43,4,2024-05-14,Court Fees,3439.41,Cook and Sons
+44,4,2022-09-14,Deposition,2336.47,"Wilson, Hicks and Bullock"
+45,4,2023-05-20,Court Fees,1488.88,"Mullen, Brewer and Hernandez"
+46,4,2022-10-08,Filing Fees,1285.32,Gonzalez-Morrison
+47,4,2024-05-27,Expert Witness,27892.31,"Jones, Bean and Burton"
+48,4,2023-09-01,Document Review,10127.57,"Wolf, Cole and Glass"
+49,4,2023-12-01,Travel,6138.2,"Downs, Morris and Maddox"
+50,4,2023-04-20,Investigation,10024.34,Jones-Ramos
+51,4,2023-04-07,Filing Fees,784.66,Vargas-Bell
+52,4,2022-09-12,Document Review,11965.94,Hayes-Brown
+53,5,2024-11-18,Deposition,3865.78,Newman Inc
+54,5,2024-09-24,Transcript Services,1554.46,"Cruz, Carpenter and Best"
+55,5,2024-10-25,Research/Legal Database,14083.36,Cole PLC
+56,5,2024-10-03,Court Fees,2157.29,Jacobs-Mason
+57,5,2024-12-20,Filing Fees,4898.09,Garcia-Nolan
+58,5,2024-07-17,Document Review,1544.3,"Miller, Lucas and Williams"
+59,6,2024-12-02,Deposition,3969.53,Warren-Bishop
+60,6,2024-10-30,Document Review,745.15,Hughes-Schroeder
+61,6,2024-11-30,Court Fees,3093.04,Mccormick Ltd
+62,6,2024-10-28,Filing Fees,3165.91,Davis-Gregory
+63,6,2024-10-23,Travel,6318.41,"York, Brandt and Morrison"
+64,6,2024-10-10,Investigation,8433.27,Aguilar and Sons
+65,6,2024-12-23,Deposition,8243.68,Ponce-Hale
+66,6,2024-11-02,Expert Witness,26472.22,"Fletcher, Miller and Hansen"
+67,6,2024-11-26,Expert Witness,41504.16,Li-Santiago
+68,6,2024-12-14,Expert Witness,16412.94,"Osborn, Gaines and Davis"
+69,6,2024-11-29,Filing Fees,4893.77,"Cox, Cox and White"
+70,6,2024-10-16,Expert Witness,8200.43,Lee-Cooke
+71,6,2024-10-10,Investigation,1893.36,Richard-Garcia
+72,6,2024-12-09,Court Fees,1173.52,"Stephenson, Johnson and Rogers"
+73,6,2024-12-08,Court Fees,4733.6,Harper and Sons
+74,6,2024-10-11,Transcript Services,4032.94,"Wise, Lamb and Martin"
+75,6,2024-11-07,Filing Fees,4576.72,Diaz-Ball
+76,6,2024-12-28,Transcript Services,6351.24,"Mitchell, Goodman and Cole"
+77,6,2024-11-16,Mediation Services,8714.68,Sheppard-Mueller
+78,6,2024-12-21,Investigation,6386.76,Richardson PLC
+79,6,2024-12-29,Transcript Services,14345.92,Hammond-Strickland
+80,6,2024-11-13,Investigation,3626.48,Burch-Montoya
+81,6,2024-12-11,Research/Legal Database,6682.26,Salas Inc
+82,7,2022-10-10,Travel,1719.13,Spencer-Garcia
+83,7,2022-11-19,Transcript Services,14783.8,Mitchell and Sons
+84,7,2022-07-29,Research/Legal Database,2411.85,"Hernandez, Kim and Potts"
+85,7,2022-07-19,Filing Fees,3537.28,Wilkerson-Arias
+86,7,2022-08-26,Expert Witness,25717.2,Shaw-Young
+87,7,2022-12-18,Deposition,7259.08,Walker-Flores
+88,7,2022-06-25,Mediation Services,8254.09,"Santos, Moody and Taylor"
+89,7,2022-08-01,Investigation,9906.85,Horton-Taylor
+90,7,2022-10-22,Filing Fees,2085.88,Gilbert-Bullock
+91,7,2022-06-09,Travel,9466.34,Conley PLC
+92,7,2022-12-08,Transcript Services,13551.58,"Rose, Rodriguez and Roberts"
+93,7,2022-08-04,Document Review,3443.72,Allen Ltd
+94,7,2022-11-09,Transcript Services,1829.58,Brown-Copeland
+95,7,2022-09-12,Filing Fees,1979.67,"Smith, Robertson and Allen"
+96,7,2022-07-04,Travel,1277.89,Smith-Gomez
+97,7,2022-09-26,Mediation Services,10245.65,Beck Inc
+98,7,2022-09-17,Transcript Services,9735.55,Jones-Fox
+99,7,2022-09-13,Research/Legal Database,3881.04,"Spencer, Myers and Harrison"
+100,7,2022-10-09,Research/Legal Database,1162.37,King-Smith
+101,7,2022-11-08,Court Fees,3137.42,Allen-Sandoval
+102,8,2023-04-10,Expert Witness,39856.81,"Moss, Cook and Williams"
+103,8,2023-08-05,Investigation,12209.54,"Thompson, Maxwell and Marshall"
+104,8,2023-09-13,Document Review,14901.22,"White, Taylor and Baldwin"
+105,8,2023-11-18,Transcript Services,9781.22,Carter Inc
+106,8,2023-10-08,Document Review,7459.1,Stewart LLC
+107,8,2023-07-28,Expert Witness,5053.58,"Kennedy, Johnson and Lucas"
+108,8,2023-05-28,Filing Fees,4856.76,Glenn LLC
+109,8,2023-05-25,Investigation,6236.83,Kim-Ross
+110,8,2023-07-08,Document Review,8398.96,Morgan-Lopez
+111,8,2023-09-12,Filing Fees,2733.85,Glass-Stone
+112,8,2023-10-11,Document Review,8799.74,"Coleman, Jordan and Carney"
+113,8,2023-04-30,Transcript Services,7027.01,Morris-Miller
+114,8,2023-09-04,Document Review,13329.8,Griffin-Robbins
+115,8,2023-04-26,Court Fees,2389.05,Bell-Williams
+116,8,2023-10-29,Travel,4470.91,Mendez-Graham
+117,8,2023-08-29,Deposition,4839.67,Jones Ltd
+118,9,2022-09-25,Document Review,12939.56,"Owen, Shelton and Cisneros"
+119,9,2022-07-22,Expert Witness,6037.41,"Gregory, Kim and Martinez"
+120,9,2022-08-14,Travel,4177.03,"Diaz, Reyes and Bradley"
+121,9,2022-11-13,Travel,5232.34,"Cole, Watson and Wallace"
+122,9,2022-07-05,Expert Witness,31498.85,Moreno Group
+123,9,2022-09-02,Filing Fees,4887.73,Wright-Wilson
+124,10,2023-12-07,Filing Fees,3274.06,Holmes-Mcintyre
+125,10,2023-08-23,Investigation,6900.0,Padilla-Lewis
+126,10,2023-11-16,Court Fees,4472.29,"Hendricks, Henry and Martinez"
+127,10,2023-12-27,Transcript Services,9926.07,Thompson-Reeves
+128,10,2024-01-21,Research/Legal Database,8754.99,"Ponce, Downs and Contreras"
+129,10,2023-12-03,Filing Fees,1502.33,"Daniels, Vance and York"
+130,10,2023-12-03,Travel,1445.91,"Little, Leon and Hicks"
+131,10,2023-08-23,Deposition,6342.08,Conner and Sons
+132,10,2023-12-16,Expert Witness,13066.08,Ward PLC
+133,10,2023-10-05,Deposition,1991.1,"Anderson, Henson and Jones"
+134,10,2023-10-10,Mediation Services,2835.98,"Higgins, Fox and Hammond"
+135,10,2023-12-22,Filing Fees,3534.9,Martinez LLC
+136,10,2023-11-21,Filing Fees,1848.69,Owens-Holmes
+137,10,2023-08-25,Court Fees,4339.96,"Bowman, White and Burch"
+138,10,2023-10-16,Transcript Services,4704.72,Guerra PLC
+139,10,2023-08-29,Mediation Services,9501.09,Martin Ltd
+140,10,2023-09-10,Mediation Services,12687.19,"Jacobson, Singleton and King"
+141,10,2023-11-20,Deposition,6505.52,"Hill, Weber and Mendez"
+142,10,2023-08-19,Deposition,9303.43,"Jackson, David and Moore"
+143,10,2023-11-24,Filing Fees,3458.57,"Winters, Morgan and Bradshaw"
+144,10,2023-08-10,Travel,3686.83,Miller Ltd
+145,10,2023-12-13,Deposition,7783.47,Curtis-Wang
+146,10,2023-10-13,Document Review,11307.27,"Johnson, Small and Gardner"
+147,11,2024-04-16,Document Review,11890.69,Webb-Ballard
+148,11,2024-05-17,Document Review,9373.81,Chavez-Barker
+149,11,2023-05-02,Filing Fees,3062.23,Washington-Harris
+150,11,2024-03-21,Transcript Services,9041.78,Hensley-Flores
+151,11,2024-12-22,Transcript Services,4015.64,Hester-Anderson
+152,11,2023-10-02,Document Review,4498.93,"Rodriguez, Allen and Martinez"
+153,11,2023-11-29,Investigation,4633.79,Davis LLC
+154,11,2024-11-21,Transcript Services,13273.3,"Barnes, Estes and Barrera"
+155,11,2024-08-18,Filing Fees,1687.07,"Griffith, Lee and Moore"
+156,11,2024-12-28,Mediation Services,11506.52,Jimenez-Parker
+157,11,2023-01-24,Mediation Services,2984.39,Wagner-Levy
+158,11,2023-06-12,Travel,1429.7,Williams-Campbell
+159,11,2024-03-15,Deposition,5504.54,"Chambers, Mitchell and Smith"
+160,11,2023-03-26,Research/Legal Database,9278.86,Khan Ltd
+161,12,2023-05-04,Travel,9894.94,Diaz-Morales
+162,12,2023-10-15,Mediation Services,9816.91,Cox LLC
+163,12,2022-09-12,Mediation Services,8948.24,"Cole, Pierce and Bryan"
+164,12,2023-11-27,Document Review,1946.5,"Wilson, Hester and Long"
+165,12,2024-04-13,Research/Legal Database,2002.36,Grant-Diaz
+166,12,2022-11-07,Expert Witness,49896.79,"Hicks, Porter and Williams"
+167,12,2022-11-02,Transcript Services,6960.37,Brock-Stone
+168,12,2022-11-11,Expert Witness,36107.24,"Taylor, Velazquez and Flores"
+169,12,2023-05-26,Court Fees,4371.9,"Stevenson, Evans and Rogers"
+170,12,2024-05-10,Expert Witness,26551.86,"Burns, Hart and Wells"
+171,12,2022-07-28,Document Review,13538.95,Nunez-Whitney
+172,12,2023-10-26,Mediation Services,5542.34,"Wiggins, Soto and Carlson"
+173,12,2023-02-13,Document Review,9639.31,"Patton, Parsons and Lane"
+174,12,2024-02-14,Filing Fees,2167.45,"Castillo, Warren and Griffith"
+175,12,2024-03-28,Investigation,12105.12,Hernandez-Becker
+176,12,2022-08-09,Research/Legal Database,12957.58,"Rodriguez, Smith and Edwards"
+177,12,2022-11-13,Research/Legal Database,1040.74,"Harris, Shaw and Carr"
+178,12,2023-07-28,Expert Witness,6930.98,"Luna, Thornton and Stone"
+179,12,2023-10-08,Document Review,8716.93,"Mendoza, Bennett and Frye"
+180,12,2023-07-19,Document Review,6031.77,"Peterson, Gomez and Ingram"
+181,13,2023-09-30,Research/Legal Database,10991.25,"Lara, Baker and Washington"
+182,13,2024-02-28,Travel,6099.16,Grant-Walker
+183,13,2024-03-09,Expert Witness,11364.58,Wise-Bush
+184,13,2023-09-10,Deposition,1959.72,Stewart-Bailey
+185,13,2024-02-13,Court Fees,1418.18,"Hill, Martinez and Rhodes"
+186,13,2023-02-24,Investigation,5333.12,Cardenas-Blevins
+187,13,2023-11-22,Filing Fees,4389.44,Williams-Moses
+188,14,2022-11-24,Transcript Services,6178.29,Douglas-Burgess
+189,14,2023-03-17,Deposition,6241.15,"Nelson, Hoffman and Nelson"
+190,14,2022-12-19,Investigation,14475.71,"Matthews, Sanchez and Santiago"
+191,14,2023-12-06,Mediation Services,14128.85,"Hall, Garcia and Rivera"
+192,14,2023-10-18,Court Fees,4652.14,"Townsend, Smith and Pierce"
+193,14,2024-11-01,Transcript Services,3666.81,Delgado-Gilmore
+194,14,2023-10-21,Court Fees,1674.91,"Gonzalez, Maynard and Morris"
+195,14,2024-03-11,Deposition,5972.95,Pearson and Sons
+196,14,2023-12-09,Travel,3334.37,"Jefferson, Johnson and Dorsey"
+197,14,2023-09-03,Deposition,4568.94,Peck Inc
+198,14,2024-12-28,Travel,1761.78,French-Lopez
+199,14,2024-06-04,Travel,9410.94,Mcdowell-Smith
+200,14,2024-01-06,Mediation Services,5879.31,Hebert LLC
+201,14,2023-05-15,Travel,3669.61,"Daniels, Snyder and Mays"
+202,14,2024-08-28,Research/Legal Database,3262.16,Nelson-Lamb
+203,14,2023-06-22,Filing Fees,1209.07,"Stevens, Scott and Lopez"
+204,14,2024-05-25,Research/Legal Database,985.54,Bradley-Todd
+205,14,2023-02-13,Travel,2754.13,"Prince, Wilcox and Robertson"
+206,14,2022-12-01,Investigation,4744.95,"Davis, Holden and Woods"
+207,14,2024-11-07,Document Review,6395.37,Green and Sons
+208,14,2023-09-27,Court Fees,584.22,Finley-Turner
+209,15,2024-12-24,Investigation,10855.98,Green LLC
+210,15,2024-12-23,Filing Fees,2769.96,Contreras Group
+211,15,2024-12-13,Filing Fees,4016.44,Parks-Leblanc
+212,15,2024-12-28,Mediation Services,12552.33,Vaughn-Fowler
+213,15,2024-12-29,Expert Witness,29847.6,Mendez-Robinson
+214,15,2024-12-09,Deposition,7396.8,Gibson PLC
+215,15,2024-12-15,Research/Legal Database,8751.67,"Dunn, Ruiz and Medina"
+216,15,2024-12-22,Document Review,6030.72,Gill Ltd
+217,15,2024-12-24,Transcript Services,14409.32,Fox PLC
+218,15,2024-12-23,Research/Legal Database,13348.75,Stark Inc
+219,15,2024-12-07,Court Fees,3409.85,"Leach, Harris and Herrera"
+220,15,2024-12-10,Investigation,6853.24,"Ramos, Frazier and Love"
+221,16,2024-12-10,Court Fees,2596.17,"Griffin, Brown and Anderson"
+222,16,2024-12-07,Travel,9941.92,"Brown, Ford and Roman"
+223,16,2024-12-19,Document Review,3513.67,Scott-Smith
+224,16,2024-11-29,Deposition,1526.01,Williams LLC
+225,16,2024-12-19,Travel,5829.05,"Mcknight, Michael and Jones"
+226,16,2024-12-28,Deposition,9525.24,Mitchell and Sons
+227,16,2024-12-21,Research/Legal Database,2848.81,"Good, Brewer and Fisher"
+228,16,2024-12-30,Mediation Services,9337.78,West-Stark
+229,16,2024-12-06,Document Review,6620.8,Vega Ltd
+230,16,2024-12-25,Deposition,2630.57,Valdez LLC
+231,16,2024-11-25,Deposition,7568.49,"Long, Anderson and Irwin"
+232,16,2024-12-24,Research/Legal Database,3385.07,Good Group
+233,16,2024-12-17,Research/Legal Database,8044.55,"Coleman, Gray and Hall"
+234,16,2024-12-09,Research/Legal Database,9542.32,Hill Ltd
+235,17,2024-08-08,Expert Witness,11133.15,Pacheco Group
+236,17,2024-05-07,Research/Legal Database,5287.74,Allen Inc
+237,17,2023-06-26,Transcript Services,14876.84,Griffin Ltd
+238,17,2024-07-01,Travel,2839.7,Sanchez Inc
+239,17,2023-12-28,Expert Witness,15337.48,Fernandez Inc
+240,17,2023-07-20,Travel,2775.42,Young-Hendricks
+241,17,2024-04-13,Filing Fees,2608.01,"Harper, Chambers and Flores"
+242,17,2023-10-27,Court Fees,3803.28,Odom PLC
+243,17,2023-09-08,Court Fees,3516.47,Hill-Hawkins
+244,17,2024-04-23,Filing Fees,4024.91,"Buck, Garrett and Simmons"
+245,17,2024-02-24,Deposition,9395.33,David-Powers
+246,17,2024-08-21,Expert Witness,24689.28,Horton-Russell
+247,18,2024-02-19,Research/Legal Database,11750.63,Webster Group
+248,18,2024-01-23,Transcript Services,9344.44,Turner Ltd
+249,18,2023-12-11,Deposition,3242.11,Melendez-Hart
+250,18,2024-12-16,Expert Witness,12810.24,"Moreno, Price and Scott"
+251,18,2024-03-03,Deposition,2895.48,Nielsen LLC
+252,18,2023-11-17,Court Fees,4737.03,"Calderon, Williams and Bennett"
+253,18,2024-07-05,Research/Legal Database,13698.41,Russo and Sons
+254,18,2024-10-03,Transcript Services,8563.86,"Ramsey, Hansen and Mendoza"
+255,18,2024-11-02,Document Review,12332.94,Turner-Stout
+256,18,2024-01-10,Research/Legal Database,3907.32,Hayden Inc
+257,18,2024-09-07,Travel,3437.68,Rocha-Dominguez
+258,18,2024-08-19,Research/Legal Database,1176.67,Herman-Arnold
+259,18,2024-09-20,Mediation Services,4792.07,Owens-Wong
+260,18,2024-02-23,Court Fees,4759.47,Hunt-Crawford
+261,18,2023-11-20,Transcript Services,12237.74,"Harrison, Franco and Rocha"
+262,18,2024-03-22,Expert Witness,9089.01,Williams-Shields
+263,18,2024-09-05,Research/Legal Database,14385.37,Green PLC
+264,18,2024-06-24,Research/Legal Database,4743.77,Phillips-Gonzalez
+265,19,2024-09-03,Expert Witness,24770.6,"Whitaker, Porter and Pena"
+266,19,2024-11-12,Filing Fees,4623.31,Hines-Burns
+267,19,2024-11-18,Document Review,10078.03,"Henry, Jackson and Norton"
+268,19,2024-08-25,Mediation Services,7207.26,"Payne, White and Preston"
+269,19,2024-12-29,Court Fees,4242.64,Warren Inc
+270,19,2024-12-22,Investigation,9811.8,"Williams, Smith and Taylor"
+271,19,2024-11-04,Investigation,5156.17,Mann Inc
+272,19,2024-09-01,Document Review,6501.84,Brooks-Williamson
+273,19,2024-11-09,Transcript Services,11906.57,"Durham, Hopkins and Smith"
+274,19,2024-10-19,Transcript Services,14067.87,Smith-Moreno
+275,19,2024-09-10,Research/Legal Database,13922.06,Smith-Li
+276,19,2024-11-10,Expert Witness,22384.28,Rodriguez Inc
+277,19,2024-10-18,Mediation Services,3797.16,Lee PLC
+278,19,2024-09-06,Investigation,2734.25,Adams-Sanders
+279,19,2024-09-25,Investigation,9619.37,Stevens-Sanchez
+280,19,2024-11-14,Deposition,5552.1,Sutton-Abbott
+281,20,2024-11-16,Research/Legal Database,2755.5,"Malone, Davis and Gray"
+282,20,2024-11-03,Transcript Services,1081.5,Walsh Ltd
+283,20,2024-09-15,Transcript Services,11838.15,Bruce-Newman
+284,20,2024-10-05,Deposition,4467.5,Jacobson Inc
+285,20,2024-09-22,Mediation Services,4585.34,"Clay, Alvarez and Williams"
+286,20,2024-09-02,Document Review,13765.44,Lam-Elliott
+287,20,2024-08-28,Research/Legal Database,14233.74,Smith-Clark
+288,21,2023-07-16,Travel,6644.81,"Nicholson, Hickman and Evans"
+289,21,2024-04-03,Investigation,8814.35,"Davenport, Price and Mosley"
+290,21,2023-11-10,Court Fees,4074.93,"Taylor, Hinton and Ramsey"
+291,21,2024-02-23,Court Fees,1084.96,Brown-Kim
+292,21,2024-09-21,Court Fees,4906.97,Jacobs-Austin
+293,21,2024-04-23,Court Fees,2889.12,Johnson-Nelson
+294,21,2024-12-26,Mediation Services,1108.47,Perez-Tran
+295,21,2023-12-07,Deposition,9842.68,Frazier Ltd
+296,21,2023-12-10,Mediation Services,6530.97,"Phillips, Wright and Jones"
+297,21,2023-10-01,Transcript Services,1224.95,Dawson-Walters
+298,21,2024-07-21,Court Fees,2544.87,Ward-Davis
+299,21,2024-11-25,Expert Witness,43832.92,Ward-Nelson
+300,21,2023-07-09,Investigation,4724.55,Jordan PLC
+301,21,2024-03-28,Expert Witness,40907.2,Garcia-Davis
+302,21,2024-03-28,Travel,6384.38,"George, Nguyen and Cruz"
+303,21,2023-10-16,Deposition,1932.12,Maxwell-Hardy
+304,21,2024-03-31,Transcript Services,9450.13,Armstrong and Sons
+305,21,2024-06-17,Deposition,2603.83,Taylor LLC
+306,21,2023-10-02,Deposition,7616.97,Brown Group
+307,21,2023-10-06,Court Fees,2722.96,Washington-Jones
+308,22,2022-06-22,Research/Legal Database,2560.52,Le Group
+309,22,2022-09-19,Investigation,14207.52,Ellis and Sons
+310,22,2022-07-06,Document Review,4121.71,Cook-Oliver
+311,22,2022-11-13,Mediation Services,7088.85,Alexander-Jordan
+312,22,2022-11-18,Research/Legal Database,811.23,"Mccann, Taylor and Flores"
+313,22,2022-12-20,Document Review,2669.98,Mendoza and Sons
+314,22,2022-12-24,Court Fees,2190.56,Carter-Neal
+315,22,2022-08-23,Filing Fees,3556.07,"Casey, Nguyen and Ramirez"
+316,22,2022-11-08,Document Review,9070.99,Wilson-Elliott
+317,22,2022-09-18,Filing Fees,4324.99,"White, Saunders and Johnson"
+318,23,2024-02-18,Travel,7660.34,"Clark, Salinas and Guerra"
+319,23,2023-08-29,Expert Witness,36156.02,Chambers-Taylor
+320,23,2023-10-29,Travel,2821.21,Hopkins-Espinoza
+321,23,2024-03-06,Document Review,4769.2,Cole PLC
+322,23,2023-12-15,Investigation,13219.53,Ferguson-Mclean
+323,23,2024-03-27,Expert Witness,18713.0,Stephens-Gibbs
+324,23,2023-11-13,Mediation Services,7736.89,"Wheeler, Rocha and Rodriguez"
+325,23,2023-10-15,Transcript Services,8911.6,"Kelly, Holland and Williams"
+326,23,2024-04-26,Deposition,1105.69,"Lucas, Rasmussen and Rivera"
+327,23,2024-03-08,Investigation,801.74,Smith LLC
+328,23,2023-10-08,Research/Legal Database,649.7,"Stone, Carpenter and Johnston"
+329,24,2023-08-19,Transcript Services,10405.19,Ford-Frazier
+330,24,2023-10-19,Mediation Services,10423.14,Cooper Inc
+331,24,2023-08-29,Court Fees,3254.35,Perry-Nixon
+332,24,2023-05-29,Deposition,2705.2,"Thomas, Collins and Gibson"
+333,24,2023-06-21,Investigation,7704.11,Bailey-Davis
+334,24,2023-10-27,Transcript Services,10678.87,Flores-Evans
+335,24,2023-11-18,Research/Legal Database,6260.28,Johnson LLC
+336,24,2023-10-09,Travel,2439.62,"Marsh, Spears and Yang"
+337,24,2023-09-06,Transcript Services,11245.67,"Moore, Castro and Mullen"
+338,24,2023-06-27,Filing Fees,1549.27,Soto-Lopez
+339,24,2023-10-11,Research/Legal Database,7059.08,Johnson-Mendez
+340,24,2023-06-19,Investigation,7375.4,"Jordan, Smith and Lewis"
+341,24,2023-07-09,Research/Legal Database,2820.26,"Stokes, Brown and Garcia"
+342,24,2023-12-04,Deposition,6105.15,Diaz and Sons
+343,24,2023-08-22,Expert Witness,23826.24,Lambert-Burns
+344,24,2023-12-27,Filing Fees,2071.8,Harper-Carr
+345,25,2023-11-02,Research/Legal Database,12238.06,Bell-Ellis
+346,25,2022-11-22,Research/Legal Database,902.77,"Mccarthy, Evans and Mendez"
+347,25,2022-09-10,Deposition,6154.34,Edwards and Sons
+348,25,2023-03-13,Research/Legal Database,2688.19,Brooks and Sons
+349,25,2023-08-31,Document Review,2196.87,Carlson-Andrews
+350,25,2023-06-19,Deposition,9316.54,Reid-Steele
+351,25,2023-12-21,Filing Fees,1482.65,Peters Group
+352,26,2024-12-18,Transcript Services,5107.32,Edwards Group
+353,26,2024-12-24,Transcript Services,6332.24,Crane-Washington
+354,26,2024-12-17,Filing Fees,1599.64,Maynard-Wagner
+355,26,2024-12-22,Research/Legal Database,9863.41,"Vasquez, Mckinney and Wallace"
+356,26,2024-12-16,Research/Legal Database,12486.69,"Johnson, Juarez and Carter"
+357,26,2024-12-18,Document Review,10129.16,"Roberts, Norman and Cunningham"
+358,26,2024-12-27,Research/Legal Database,1119.81,Dunn-Wilson
+359,26,2024-12-15,Filing Fees,841.99,"Morrow, Richardson and Carson"
+360,26,2024-12-14,Document Review,9540.78,"Alexander, Robinson and Coleman"
+361,27,2024-12-29,Mediation Services,5424.82,"Potter, Evans and Kidd"
+362,27,2024-12-27,Travel,2842.86,Atkins-Miller
+363,27,2024-12-30,Court Fees,1503.66,Rowe and Sons
+364,27,2024-12-26,Mediation Services,11524.11,"Matthews, Bell and Page"
+365,27,2024-12-28,Expert Witness,6962.42,Jensen and Sons
+366,28,2024-11-06,Mediation Services,12849.18,Hudson PLC
+367,28,2024-06-05,Travel,7339.35,"Jackson, Werner and Carter"
+368,28,2024-08-29,Research/Legal Database,1431.37,"Duke, Shelton and Davis"
+369,28,2024-12-20,Court Fees,1295.51,Sellers-Riddle
+370,28,2024-11-22,Research/Legal Database,1868.24,Miles and Sons
+371,28,2024-05-27,Research/Legal Database,11840.61,"Morris, Wright and Bridges"
+372,28,2024-07-07,Deposition,7742.65,Ray LLC
+373,28,2024-09-14,Mediation Services,10109.82,Hayes-Schultz
+374,28,2024-11-26,Court Fees,3700.53,Powell Ltd
+375,28,2024-06-04,Mediation Services,2727.98,Gibson-Freeman
+376,28,2024-08-31,Filing Fees,2945.48,"Davis, Stanton and Reid"
+377,28,2024-10-04,Mediation Services,7742.8,Flynn Group
+378,28,2024-05-18,Filing Fees,1840.79,Summers-Simpson
+379,28,2024-06-17,Expert Witness,9679.15,Morgan-Lane
+380,28,2024-08-27,Transcript Services,2091.16,Kramer-Shannon
+381,28,2024-10-23,Deposition,3359.29,Garcia Group
+382,28,2024-03-20,Mediation Services,1348.07,Alexander Inc
+383,28,2024-12-28,Document Review,14837.92,Harris-Barker
+384,28,2024-04-23,Research/Legal Database,12638.99,"Turner, Baxter and Mcdowell"
+385,28,2024-04-12,Expert Witness,6916.11,Wright-Watson
+386,28,2024-12-03,Filing Fees,1299.48,Williams Ltd
+387,28,2024-06-12,Mediation Services,13775.71,"Fischer, Patterson and Davis"
+388,28,2024-04-12,Investigation,6912.54,Woods and Sons
+389,29,2024-11-24,Investigation,4046.0,"Frazier, Smith and Dominguez"
+390,29,2024-12-14,Deposition,5687.03,Benson-Woods
+391,29,2024-10-23,Filing Fees,3370.13,Cross Inc
+392,29,2024-10-12,Document Review,14213.11,Ibarra-Taylor
+393,29,2024-12-10,Filing Fees,3870.2,May Ltd
+394,29,2024-10-15,Court Fees,3181.07,"Elliott, Bishop and Martin"
+395,29,2024-11-03,Research/Legal Database,3656.82,Fuller and Sons
+396,29,2024-12-23,Research/Legal Database,2121.0,"Parks, Heath and Miller"
+397,29,2024-10-11,Research/Legal Database,10865.46,Lawrence Group
+398,29,2024-11-03,Filing Fees,4138.98,Edwards-Taylor
+399,29,2024-10-27,Research/Legal Database,1589.0,Wright PLC
+400,29,2024-11-25,Research/Legal Database,748.06,"Mitchell, Pugh and Johnson"
+401,29,2024-12-17,Court Fees,704.62,Harris-Lawson
+402,29,2024-10-19,Research/Legal Database,9370.15,Phillips-Brown
+403,29,2024-12-21,Mediation Services,3645.89,Simpson Inc
+404,29,2024-10-24,Court Fees,1766.32,"Wheeler, Rice and Levine"
+405,29,2024-12-29,Investigation,14096.08,Anderson-Valencia
+406,29,2024-11-22,Transcript Services,11701.04,Payne-Thompson
+407,29,2024-11-13,Court Fees,905.21,Smith Inc
+408,29,2024-10-04,Transcript Services,6974.45,Williams Inc
+409,29,2024-12-26,Filing Fees,3146.57,Hunter-Fuller
+410,30,2024-07-06,Transcript Services,4526.43,Henderson-Morales
+411,30,2024-08-25,Mediation Services,1899.76,"Jensen, Ramirez and Collins"
+412,30,2024-07-10,Research/Legal Database,7948.47,Mccann and Sons
+413,30,2024-07-18,Travel,1998.04,Willis-Hines
+414,30,2024-08-28,Mediation Services,788.58,"Jones, Hale and Blair"
+415,30,2024-11-06,Travel,8876.65,Sanchez Group
+416,30,2024-02-20,Filing Fees,2344.2,"Lynch, Parker and Harmon"
+417,30,2024-09-29,Research/Legal Database,10740.34,Smith and Sons
+418,30,2024-09-15,Expert Witness,5242.22,Crawford LLC
+419,30,2024-07-14,Travel,7731.96,"Green, Watson and Brady"
+420,30,2024-11-15,Mediation Services,5381.58,"Tanner, Wise and Johnson"
+421,30,2024-10-23,Mediation Services,6242.43,Warren-Baker
+422,30,2024-12-22,Court Fees,517.32,"Jones, Gibson and Ward"
+423,30,2024-07-05,Expert Witness,19698.69,"Jackson, Moore and Ayala"
+424,30,2024-11-23,Research/Legal Database,4417.22,"Sharp, Perez and Hicks"
+425,30,2024-01-25,Mediation Services,13537.59,Sanchez Group
+426,30,2024-05-18,Mediation Services,10791.87,White Inc
+427,30,2024-07-24,Deposition,5978.36,"Yang, Barnes and Morris"
+428,30,2024-06-06,Research/Legal Database,13911.12,"Flores, Mckenzie and Duncan"
+429,30,2024-02-21,Transcript Services,2978.28,"Winters, White and Brock"
+430,30,2024-12-24,Transcript Services,11625.94,Jones-Marshall
+431,30,2024-04-19,Expert Witness,7683.86,Murphy-Tran
+432,30,2024-01-12,Filing Fees,2902.92,Carter LLC
+433,30,2024-09-29,Filing Fees,1238.06,Marshall PLC
+434,31,2024-08-28,Filing Fees,4701.03,Oconnor PLC
+435,31,2024-06-25,Travel,2595.79,Hernandez Group
+436,31,2023-11-17,Mediation Services,14897.68,"Reed, Franco and Wiley"
+437,31,2024-08-22,Travel,8938.13,Blake Group
+438,31,2024-07-22,Mediation Services,9336.5,"Parker, Harris and Bird"
+439,31,2024-03-15,Filing Fees,3529.29,Kaufman and Sons
+440,31,2024-06-11,Travel,2930.41,Williams and Sons
+441,31,2024-08-06,Investigation,6408.88,"Gutierrez, Huang and Ellis"
+442,31,2024-06-22,Court Fees,2775.46,"Davis, Anderson and Wilkins"
+443,31,2023-12-02,Court Fees,4474.73,"Brown, Bates and Anderson"
+444,31,2024-02-05,Mediation Services,13739.24,Howe-Long
+445,31,2024-07-17,Filing Fees,1296.65,Stewart-Nelson
+446,31,2023-12-02,Investigation,2018.95,Taylor PLC
+447,31,2023-12-12,Filing Fees,2984.67,Martin Group
+448,31,2024-02-12,Court Fees,503.69,Herrera and Sons
+449,31,2024-03-25,Court Fees,1354.42,Baker-Wilson
+450,31,2023-12-27,Mediation Services,11970.98,"Torres, Bush and Morrison"
+451,31,2024-01-13,Travel,9100.62,Hernandez-Dawson
+452,31,2024-08-27,Transcript Services,2709.14,Palmer-Byrd
+453,32,2024-04-12,Mediation Services,11100.8,Johnson Group
+454,32,2024-08-02,Travel,4143.95,"Adkins, Wright and Murray"
+455,32,2024-07-24,Research/Legal Database,7185.76,Martinez Inc
+456,32,2024-07-29,Transcript Services,11060.68,Anderson Group
+457,32,2024-05-03,Court Fees,2877.6,"Pace, Miller and Willis"
+458,32,2024-08-14,Deposition,7374.22,Johnson Inc
+459,32,2024-04-01,Expert Witness,23272.73,"Ramos, Anderson and Stein"
+460,32,2024-07-28,Investigation,7648.62,Martinez-Dunlap
+461,32,2024-03-04,Court Fees,3427.89,"Hamilton, Ramsey and Crawford"
+462,32,2024-05-05,Filing Fees,3899.83,Thompson-Lewis
+463,32,2024-03-30,Deposition,8429.7,Griffin-Hernandez
+464,32,2024-06-18,Research/Legal Database,590.97,"Sanchez, Phillips and Jenkins"
+465,32,2024-06-06,Mediation Services,8078.38,Miller Group
+466,32,2024-03-20,Document Review,4086.75,Day PLC
+467,32,2024-04-10,Court Fees,3295.26,"Norton, Mayo and Casey"
+468,32,2024-05-01,Investigation,9297.13,"Harrington, Cooper and Cunningham"
+469,32,2024-04-24,Filing Fees,1025.5,White-Flores
+470,32,2024-04-05,Mediation Services,10574.51,Brown-Frey
+471,32,2024-06-02,Deposition,9729.43,"Key, Dickson and Garcia"
+472,32,2024-06-26,Filing Fees,3108.0,Ferguson-Moody
+473,32,2024-07-11,Mediation Services,9827.15,Johnston Group
+474,32,2024-04-30,Mediation Services,10545.3,Thompson PLC
+475,33,2024-11-12,Investigation,3083.83,"Wolfe, Sloan and Johnson"
+476,33,2024-12-09,Expert Witness,49580.41,"Elliott, Hart and Lopez"
+477,33,2024-12-30,Research/Legal Database,10671.68,Weaver-Thompson
+478,33,2024-10-23,Filing Fees,2158.88,Hall and Sons
+479,33,2024-10-22,Filing Fees,2902.4,Smith-Hardin
+480,33,2024-11-04,Research/Legal Database,9368.72,Peterson and Sons
+481,33,2024-12-25,Deposition,6172.72,Brown-Hernandez
+482,33,2024-12-10,Court Fees,1122.65,Schroeder PLC
+483,33,2024-12-21,Investigation,3460.03,Brooks Ltd
+484,33,2024-11-18,Transcript Services,7854.83,Rogers LLC
+485,33,2024-10-30,Transcript Services,13421.08,Oconnor Group
+486,33,2024-12-16,Research/Legal Database,5479.71,Banks-Thompson
+487,33,2024-12-28,Travel,6421.1,"Preston, Austin and Kelly"
+488,33,2024-12-07,Filing Fees,3327.24,Gray Ltd
+489,33,2024-12-08,Expert Witness,39379.83,Thompson Inc
+490,33,2024-12-27,Document Review,13355.62,"Myers, Gamble and Sanford"
+491,34,2023-07-25,Transcript Services,825.88,"Flores, Lamb and Carr"
+492,34,2024-06-18,Document Review,9597.32,Zuniga and Sons
+493,34,2024-01-03,Research/Legal Database,11590.07,Young LLC
+494,34,2023-10-06,Filing Fees,2403.73,Underwood Ltd
+495,34,2024-06-18,Document Review,1412.47,Griffin-Baker
+496,34,2023-11-20,Investigation,8824.37,Bell Inc
+497,34,2024-08-01,Filing Fees,2679.94,Cruz Ltd
+498,34,2024-02-20,Mediation Services,555.78,Wilkerson Group
+499,34,2024-10-27,Transcript Services,7130.62,Payne-Garcia
+500,34,2024-03-23,Investigation,4196.2,"Curtis, Mcdaniel and Martin"
+501,34,2023-08-16,Deposition,7170.26,Phillips LLC
+502,34,2023-11-26,Transcript Services,4621.29,Jones and Sons
+503,34,2024-10-31,Document Review,1591.39,Dennis PLC
+504,34,2024-11-29,Mediation Services,3306.35,Morgan PLC
+505,34,2024-11-03,Transcript Services,12128.75,"Johnson, Dunlap and Martin"
+506,34,2024-11-01,Document Review,2131.9,Brown LLC
+507,34,2023-10-27,Investigation,4016.71,Ortiz PLC
+508,34,2024-08-02,Investigation,8025.32,"Fernandez, Guerrero and Evans"
+509,34,2023-08-28,Deposition,2856.32,Armstrong-Larsen
+510,34,2023-09-29,Transcript Services,8278.3,Smith-Miller
+511,34,2024-09-26,Mediation Services,2048.86,"Greene, Gonzalez and Johnson"
+512,34,2023-10-08,Filing Fees,1818.35,Rowland-Wells
+513,34,2023-09-08,Transcript Services,8238.71,Ruiz-Jacobson
+514,35,2023-10-04,Document Review,5082.54,"Stephens, Lopez and Mcclure"
+515,35,2023-12-07,Transcript Services,2916.65,Williams-Gonzales
+516,35,2023-10-03,Mediation Services,12189.95,Elliott-Hernandez
+517,35,2024-06-24,Expert Witness,19700.02,Miller LLC
+518,35,2024-09-01,Research/Legal Database,2214.88,Arellano-Lawrence
+519,35,2024-03-29,Expert Witness,12381.19,Cardenas-Barnes
+520,35,2024-03-18,Research/Legal Database,14437.1,Armstrong-Young
+521,35,2023-10-25,Expert Witness,22851.84,Orr-Klein
+522,35,2024-02-26,Document Review,8516.72,"Mcbride, Byrd and Oliver"
+523,35,2023-07-07,Expert Witness,5813.52,Thompson-Joyce
+524,35,2024-12-10,Mediation Services,3097.55,Martinez Group
+525,35,2023-06-12,Mediation Services,12586.68,"Graham, Osborn and Burton"
+526,35,2024-09-17,Deposition,5680.75,Flores-Acosta
+527,36,2024-12-16,Expert Witness,30032.69,Hughes Group
+528,36,2024-11-27,Mediation Services,8810.45,Stone-Stark
+529,36,2024-10-17,Travel,8874.41,"Dean, Mills and Barnes"
+530,36,2024-11-17,Expert Witness,19844.6,Knight PLC
+531,36,2024-12-12,Document Review,10167.98,Buckley PLC
+532,36,2024-12-14,Mediation Services,8490.45,Dillon-Beard
+533,36,2024-12-21,Transcript Services,9127.56,Reyes-Washington
+534,36,2024-12-01,Investigation,4297.72,Jackson Group
+535,36,2024-10-27,Court Fees,2989.99,"Becker, Morales and Foster"
+536,36,2024-12-21,Filing Fees,4929.12,"Young, Reese and Mccall"
+537,36,2024-12-23,Travel,1131.12,Morgan LLC
+538,36,2024-11-09,Investigation,11930.39,Garrison-Cohen
+539,37,2024-10-25,Expert Witness,5028.43,Taylor Ltd
+540,37,2024-03-08,Expert Witness,35584.57,Adams-Butler
+541,37,2024-06-04,Filing Fees,3918.98,Alexander Group
+542,37,2024-07-16,Filing Fees,958.2,"Camacho, Nicholson and Robertson"
+543,37,2023-11-06,Transcript Services,5660.42,Mckinney-Powell
+544,38,2024-03-19,Expert Witness,46002.22,"Suarez, Johnson and Lee"
+545,38,2024-04-23,Deposition,4486.62,Wright Group
+546,38,2022-11-19,Court Fees,3010.81,Bush-Hill
+547,38,2024-04-17,Transcript Services,3277.94,"Sanders, Leblanc and Maldonado"
+548,38,2023-03-27,Investigation,14691.84,Wheeler-Thompson
+549,38,2024-05-18,Document Review,6763.9,"Arnold, Cooper and Monroe"
+550,38,2023-04-07,Transcript Services,1250.9,"Davis, Johnson and Williams"
+551,38,2024-05-07,Investigation,13752.72,Vincent Ltd
+552,38,2023-03-15,Expert Witness,34413.25,Adams Group
+553,38,2023-09-23,Mediation Services,7345.51,"Smith, Buck and Holland"
+554,38,2023-11-21,Filing Fees,4451.84,Walker PLC
+555,39,2024-11-24,Expert Witness,10084.94,Marquez-Fletcher
+556,39,2024-08-17,Travel,4849.54,York-Stevens
+557,39,2024-08-06,Court Fees,714.22,Byrd-Holloway
+558,39,2024-09-09,Document Review,13824.54,Smith Ltd
+559,39,2024-12-24,Document Review,14270.56,Hoffman-Wheeler
+560,39,2024-08-18,Document Review,2407.14,"Rodriguez, Brown and Mcneil"
+561,40,2024-09-05,Expert Witness,22702.76,Green-Dawson
+562,40,2024-11-26,Document Review,10146.34,Lopez-Holmes
+563,40,2024-04-29,Filing Fees,3013.82,Trujillo PLC
+564,40,2024-06-21,Filing Fees,4183.25,Becker-Griffith
+565,40,2024-09-10,Deposition,2483.51,Green-Barnes
+566,40,2024-06-16,Expert Witness,22002.34,Aguilar PLC
+567,40,2024-11-01,Research/Legal Database,2194.02,Barber-Walker
+568,40,2024-08-02,Deposition,6501.54,Knox-Powers
+569,40,2024-07-24,Filing Fees,4425.09,Pittman PLC
+570,40,2024-04-10,Research/Legal Database,5073.68,Ruiz Ltd
+571,40,2024-05-05,Filing Fees,3956.53,"Hines, White and Frazier"
+572,40,2024-05-30,Research/Legal Database,14114.64,Walker and Sons
+573,40,2024-10-09,Research/Legal Database,2310.82,Fisher-Eaton
+574,40,2024-06-11,Expert Witness,19930.33,"Carter, York and Ruiz"
+575,40,2024-11-17,Travel,9386.83,"Carpenter, Oliver and Kennedy"
+576,40,2024-04-14,Document Review,6873.86,Dillon Group
+577,40,2024-08-01,Expert Witness,16637.89,Brown-Dickerson
+578,40,2024-03-27,Document Review,7465.8,Cooper PLC
+579,40,2024-11-26,Filing Fees,1866.08,Thomas-Huffman
+580,40,2024-04-10,Document Review,10428.65,Freeman Ltd
+581,40,2024-12-26,Deposition,4351.29,Walters-Smith
+582,40,2024-05-10,Travel,6407.04,Johnston and Sons
+583,40,2024-07-19,Deposition,2536.5,Anderson Group
+584,40,2024-09-03,Travel,5809.4,Patterson-Woods
+585,41,2023-09-30,Expert Witness,27009.45,"Gonzalez, Watson and Smith"
+586,41,2023-11-22,Court Fees,4862.52,"Lee, Rhodes and Sims"
+587,41,2023-11-10,Document Review,5328.75,"Wiley, Collins and Garcia"
+588,41,2023-12-23,Deposition,2963.45,Jackson-Colon
+589,41,2023-11-18,Research/Legal Database,10671.99,Bryant-Meyer
+590,41,2023-12-26,Transcript Services,1317.17,Barron-Cowan
+591,41,2023-11-26,Travel,4549.48,Howard-Lopez
+592,41,2024-03-06,Research/Legal Database,14224.32,Smith-Walker
+593,41,2024-03-12,Court Fees,4681.83,Gross PLC
+594,41,2023-12-23,Investigation,3934.01,Richardson Ltd
+595,41,2024-02-09,Research/Legal Database,9682.96,Mcdowell-Scott
+596,41,2023-12-28,Investigation,7672.48,Wheeler Inc
+597,41,2024-01-18,Filing Fees,3975.8,"Huff, Williams and Wilson"
+598,41,2023-12-13,Mediation Services,9816.8,Kelley Group
+599,41,2024-01-25,Travel,6557.37,Neal Ltd
+600,42,2024-11-30,Deposition,7411.29,Stanley-Bates
+601,42,2024-12-08,Deposition,5987.29,"Haynes, Barnes and Roach"
+602,42,2024-12-15,Research/Legal Database,3123.7,"Wilson, Wilson and Rodriguez"
+603,42,2024-12-06,Document Review,2969.51,Strickland PLC
+604,42,2024-12-30,Deposition,2259.49,Warner-Phillips
+605,42,2024-12-01,Deposition,1912.63,Lozano-Watts
+606,42,2024-12-14,Court Fees,4898.74,Smith Ltd
+607,42,2024-12-02,Deposition,5403.28,Conley Ltd
+608,42,2024-12-15,Transcript Services,1718.48,Chan Inc
+609,42,2024-12-22,Court Fees,746.33,Conway Ltd
+610,42,2024-12-07,Expert Witness,28809.19,Baker-Williams
+611,42,2024-12-25,Expert Witness,21347.28,Phelps LLC
+612,42,2024-12-24,Transcript Services,1844.82,Simmons-Wilson
+613,42,2024-12-26,Investigation,7084.57,Smith and Sons
+614,42,2024-12-20,Document Review,7338.43,Murphy Group
+615,42,2024-12-29,Deposition,6747.66,Johns-Davis
+616,42,2024-12-25,Deposition,7951.4,Wilson Group
+617,42,2024-12-29,Document Review,6856.23,Houston-Vaughn
+618,42,2024-12-14,Mediation Services,11111.1,Banks-Robles
+619,42,2024-12-03,Document Review,2125.96,"Barber, Jarvis and Richard"
+620,42,2024-12-03,Investigation,2226.7,"Webb, Carroll and Kim"
+621,42,2024-12-18,Transcript Services,4854.06,Carr-Huffman
+622,43,2024-12-13,Investigation,3391.86,"Mcpherson, Anderson and Knapp"
+623,43,2024-09-09,Document Review,12787.38,Alexander-Brown
+624,43,2024-11-15,Transcript Services,3446.03,Bush Ltd
+625,43,2024-10-30,Deposition,3082.31,"Ray, Cunningham and Levine"
+626,43,2024-11-17,Mediation Services,8247.58,Stone-Watts
+627,43,2024-11-10,Travel,2757.12,Stanley-Wright
+628,43,2024-10-07,Mediation Services,3657.71,"Davidson, Hernandez and Serrano"
+629,43,2024-12-14,Court Fees,4432.31,"Brown, Schneider and Moore"
+630,43,2024-12-09,Court Fees,3597.71,Booth-Jones
+631,43,2024-10-25,Travel,8429.48,Rivera LLC
+632,43,2024-09-01,Mediation Services,13817.44,Pierce Group
+633,43,2024-10-15,Research/Legal Database,6693.3,Miller Group
+634,43,2024-12-03,Expert Witness,28084.09,Miller-Jimenez
+635,43,2024-10-04,Mediation Services,8256.74,Mcgee-Smith
+636,43,2024-10-15,Research/Legal Database,12275.23,Hawkins Inc
+637,43,2024-12-06,Mediation Services,1490.6,"Richmond, Walsh and Wu"
+638,43,2024-11-03,Research/Legal Database,7458.83,"Powers, Clements and Cox"
+639,43,2024-09-01,Investigation,3346.34,Richard LLC
+640,43,2024-11-03,Document Review,12494.54,"Greene, Moran and Cox"
+641,43,2024-10-21,Filing Fees,1327.8,Malone and Sons
+642,43,2024-08-26,Court Fees,1910.57,Gallegos-Brandt
+643,43,2024-10-01,Court Fees,2503.27,"Brooks, Rodriguez and Prince"
+644,43,2024-10-26,Document Review,6424.61,"Newton, Ortiz and King"
+645,44,2024-09-17,Deposition,7560.45,Conrad Group
+646,44,2024-09-20,Investigation,12276.43,Love Inc
+647,44,2024-11-29,Mediation Services,1225.04,House Ltd
+648,44,2024-11-07,Mediation Services,8685.61,Ellis-Lawrence
+649,44,2024-10-27,Court Fees,2103.08,Smith-Fitzgerald
+650,44,2024-11-02,Investigation,3225.88,Roberson-Webb
+651,44,2024-10-28,Document Review,13105.67,Holt and Sons
+652,44,2024-11-25,Investigation,1770.52,Garcia Ltd
+653,44,2024-11-09,Investigation,6919.05,Gordon-Cruz
+654,44,2024-12-28,Filing Fees,4700.82,"Farmer, Hill and Stuart"
+655,44,2024-12-27,Transcript Services,12231.55,Ballard-Taylor
+656,45,2024-10-09,Court Fees,4941.22,"Hunt, Cameron and Kelley"
+657,45,2024-08-10,Travel,2889.1,"Walls, Chen and Harris"
+658,45,2024-10-13,Filing Fees,1114.48,Parks-Morse
+659,45,2024-07-03,Transcript Services,8846.08,"Santos, Mullen and Gordon"
+660,45,2024-10-28,Filing Fees,3330.97,Page-Hodges
+661,45,2024-09-30,Filing Fees,1678.97,"Duncan, Contreras and Butler"
+662,45,2024-11-08,Deposition,1473.92,"Mitchell, Boone and Stokes"
+663,45,2024-09-22,Transcript Services,8839.18,James Inc
+664,45,2024-10-23,Expert Witness,36027.22,Adams and Sons
+665,45,2024-12-27,Court Fees,717.01,"King, Franco and Vaughn"
+666,45,2024-08-06,Transcript Services,8534.5,"Johnson, Cervantes and Garcia"
+667,45,2024-12-03,Investigation,3804.19,"Hoffman, Walker and Holland"
+668,45,2024-08-25,Expert Witness,28908.13,"Mueller, Lindsey and Roberts"
+669,45,2024-10-22,Travel,8493.94,Hughes-Frye
+670,45,2024-12-25,Deposition,2473.53,Church-Brown
+671,45,2024-11-07,Court Fees,2931.36,Oliver Group
+672,45,2024-11-25,Filing Fees,3486.07,"Bush, Holland and Fischer"
+673,45,2024-09-27,Document Review,13616.73,"Gonzalez, Hardy and Lee"
+674,45,2024-09-07,Research/Legal Database,9932.99,"Jones, Rivers and Moss"
+675,45,2024-06-30,Filing Fees,1746.21,Patterson PLC
+676,45,2024-07-30,Mediation Services,11758.95,Silva LLC
+677,45,2024-06-07,Document Review,9479.17,Mckinney-Moore
+678,45,2024-07-07,Transcript Services,11000.86,Carlson-Ayala
+679,46,2023-04-04,Deposition,4942.36,"Turner, Tyler and Pierce"
+680,46,2022-09-26,Mediation Services,13707.16,"Stewart, Robinson and White"
+681,46,2022-09-24,Deposition,8414.97,"Moore, Daniels and Powell"
+682,46,2022-12-30,Investigation,5264.6,Alvarado LLC
+683,46,2023-01-03,Transcript Services,5553.68,Clements PLC
+684,46,2023-03-03,Mediation Services,2333.07,"Colon, Zavala and Smith"
+685,46,2023-04-19,Mediation Services,11257.51,Allen-May
+686,46,2023-07-14,Transcript Services,1244.46,Haley Ltd
+687,46,2023-07-03,Research/Legal Database,1536.13,Moon-Landry
+688,46,2023-01-12,Transcript Services,7210.03,"Ramsey, Johnson and Black"
+689,46,2023-05-24,Mediation Services,9333.44,"Lang, Griffin and Williams"
+690,46,2023-07-07,Court Fees,4190.01,Flores Inc
+691,46,2023-07-25,Document Review,8167.84,Bonilla PLC
+692,46,2023-03-03,Travel,6753.68,"Jones, Santiago and Ayala"
+693,46,2023-06-26,Investigation,13531.35,Houston-Harris
+694,46,2023-06-13,Investigation,708.64,"Rowe, Lucas and Case"
+695,46,2023-05-16,Deposition,7755.51,Johnson Ltd
+696,46,2022-12-24,Mediation Services,4839.11,Jones and Sons
+697,46,2023-06-02,Document Review,13918.89,"Jones, Underwood and Bartlett"
+698,46,2023-01-19,Court Fees,4054.58,Mccoy-Hamilton
+699,46,2022-09-06,Travel,4829.09,"Wilson, Smith and Cortez"
+700,46,2022-09-22,Research/Legal Database,8084.55,"Richards, Haynes and Jones"
+701,46,2023-07-18,Filing Fees,4919.19,Roberts Ltd
+702,47,2022-11-26,Court Fees,1320.01,Campbell Group
+703,47,2022-12-27,Travel,6743.76,"Johnson, Moore and Robinson"
+704,47,2023-05-19,Travel,5753.47,"Phillips, Walters and Evans"
+705,47,2023-07-13,Deposition,7767.87,"Wong, Bernard and Smith"
+706,47,2023-07-08,Mediation Services,2154.12,Martinez Inc
+707,47,2023-03-12,Court Fees,3101.55,Medina-Arroyo
+708,47,2022-11-27,Transcript Services,14798.04,"Figueroa, Swanson and Lewis"
+709,47,2023-07-21,Investigation,12597.24,"Thomas, White and Jensen"
+710,48,2024-04-12,Document Review,14206.27,White PLC
+711,48,2024-11-09,Deposition,6187.94,"Murray, Dunn and Roberts"
+712,48,2024-02-07,Expert Witness,38204.98,Gonzalez PLC
+713,48,2024-07-04,Transcript Services,10022.02,Howard-Lambert
+714,48,2024-04-06,Transcript Services,9638.99,Harvey-Mccullough
+715,48,2024-05-05,Research/Legal Database,12584.22,Murphy-Hopkins
+716,48,2024-09-14,Investigation,7286.15,Cunningham LLC
+717,49,2023-09-23,Deposition,3840.61,Jackson-Edwards
+718,49,2023-09-13,Mediation Services,12990.92,"Singh, Graham and Larsen"
+719,49,2022-12-13,Filing Fees,3133.41,"Rivera, Castillo and Griffin"
+720,49,2023-09-09,Travel,8408.01,Arnold-Thompson
+721,49,2023-06-30,Deposition,1804.87,Trevino-Taylor
+722,49,2023-06-01,Deposition,7700.62,Gross-Sims
+723,50,2022-11-10,Expert Witness,38954.49,Atkinson Ltd
+724,50,2022-05-15,Investigation,14437.18,"Riley, Hammond and Lewis"
+725,50,2022-05-16,Expert Witness,39596.1,Stephens-Lutz
+726,50,2022-09-05,Deposition,2756.43,Diaz and Sons
+727,50,2022-12-22,Filing Fees,589.89,"Quinn, Carter and Marshall"
+728,50,2022-09-15,Court Fees,1048.37,Cox-Smith
+729,50,2022-07-07,Travel,8085.38,"Sutton, Todd and Taylor"
+730,50,2022-06-17,Court Fees,546.96,"Fry, Hopkins and Faulkner"
+731,50,2022-11-12,Mediation Services,2321.93,Crosby-Williams
+732,50,2022-11-19,Transcript Services,14779.0,Brown LLC
+733,50,2022-07-06,Document Review,2448.82,"Clark, Velez and Ward"
+734,50,2022-09-05,Deposition,4146.06,Keith-Williams
+735,50,2022-10-21,Travel,7511.56,Padilla PLC
+736,50,2022-10-17,Expert Witness,30828.55,Davenport-Baker
+737,50,2022-09-24,Mediation Services,5257.31,Bennett Group
+738,50,2022-08-09,Mediation Services,12065.22,"Villanueva, Miller and King"
+739,50,2023-01-12,Mediation Services,10899.09,Black LLC
+740,50,2022-12-03,Expert Witness,17753.32,Tucker-Olson
+741,50,2022-10-09,Expert Witness,44569.38,"Macias, Gonzales and Hall"
+742,50,2022-09-16,Document Review,3576.57,Lewis-Lopez
+743,50,2022-08-08,Investigation,3495.47,"Montoya, Guerrero and Perry"
+744,50,2022-07-31,Court Fees,4576.0,Olson Group
+745,51,2024-08-05,Investigation,3481.8,"Martin, Whitaker and Johnson"
+746,51,2024-04-04,Filing Fees,1129.37,"Vargas, Taylor and Hunt"
+747,51,2024-11-30,Investigation,1643.56,Brown LLC
+748,51,2024-12-09,Deposition,5586.91,"Mullen, Greene and Elliott"
+749,51,2024-03-28,Transcript Services,6313.68,"Luna, Nicholson and Valentine"
+750,51,2024-05-23,Travel,2880.87,"Haney, Dillon and Jackson"
+751,51,2024-11-12,Travel,8186.31,"Thomas, Aguilar and Saunders"
+752,51,2024-09-15,Expert Witness,36694.15,"Baker, Ramsey and Cooper"
+753,51,2024-07-29,Deposition,5900.97,"Jones, Gray and Anderson"
+754,51,2024-03-27,Filing Fees,906.56,"Heath, Gordon and Barnes"
+755,51,2024-05-04,Document Review,7030.26,Thompson PLC
+756,51,2024-09-08,Travel,1773.53,"Gordon, Wilson and Olson"
+757,51,2024-04-28,Deposition,8746.97,"Ryan, Smith and Pace"
+758,51,2024-10-01,Filing Fees,1577.34,Boyd-Wood
+759,51,2024-04-04,Investigation,8737.45,"Patterson, Mays and Olson"
+760,51,2024-10-26,Deposition,4120.46,Chapman-Figueroa
+761,51,2024-10-24,Court Fees,955.68,"Johnston, Coleman and Scott"
+762,51,2024-10-25,Document Review,4068.44,Campbell PLC
+763,51,2024-07-16,Transcript Services,1117.52,Smith Ltd
+764,51,2024-11-01,Research/Legal Database,12655.63,"Mills, Meyer and Brooks"
+765,51,2024-05-20,Travel,5243.83,Ortiz-Rodriguez
+766,52,2022-08-15,Investigation,908.51,"King, Wyatt and Henderson"
+767,52,2022-08-02,Research/Legal Database,8398.18,Braun-Sanders
+768,52,2022-06-29,Filing Fees,4985.46,"Bowers, Olson and Wood"
+769,52,2022-09-11,Filing Fees,2344.37,Hinton-Lane
+770,52,2022-10-28,Deposition,9227.01,Fitzgerald-Wyatt
+771,52,2022-10-03,Document Review,3067.79,"Hall, Logan and Avery"
+772,52,2022-06-07,Court Fees,2199.7,"Morales, Morgan and Pierce"
+773,52,2022-10-11,Document Review,4218.16,"Williams, Price and Fields"
+774,52,2022-11-03,Filing Fees,844.45,Ruiz PLC
+775,52,2022-08-17,Court Fees,3305.53,Baker LLC
+776,53,2022-07-21,Deposition,6711.45,Ramsey Group
+777,53,2023-09-08,Travel,4012.86,"Mitchell, Stuart and Brown"
+778,53,2024-01-10,Document Review,6439.12,Bowman Group
+779,53,2022-05-28,Document Review,1121.38,"Galvan, Holmes and Lee"
+780,53,2024-01-18,Deposition,9670.01,"Black, Hall and Jackson"
+781,53,2022-06-16,Expert Witness,13500.92,Pena and Sons
+782,53,2022-07-26,Mediation Services,8429.51,Chan-Gomez
+783,53,2023-03-22,Research/Legal Database,7611.02,"Gonzalez, Smith and Padilla"
+784,53,2024-05-02,Travel,1074.45,"Mitchell, Gallegos and Herman"
+785,53,2023-02-14,Research/Legal Database,7555.79,Perez-Mccarty
+786,53,2023-05-07,Travel,4799.99,Andrews-Green
+787,53,2023-03-31,Mediation Services,13149.26,Hansen PLC
+788,53,2023-01-03,Document Review,9689.52,Pratt LLC
+789,53,2024-03-29,Document Review,7072.67,"Wright, Ramos and Bennett"
+790,53,2023-05-30,Mediation Services,11447.18,Todd Group
+791,53,2023-10-30,Travel,6327.8,"Atkins, Olson and Scott"
+792,53,2023-03-12,Travel,9339.09,Rhodes and Sons
+793,53,2024-01-30,Transcript Services,6470.54,Moses-Black
+794,53,2022-05-27,Expert Witness,23827.51,Wright-Davis
+795,54,2024-03-05,Document Review,10580.0,Jones-Velazquez
+796,54,2024-01-08,Transcript Services,9587.09,Robinson-Berry
+797,54,2023-10-15,Expert Witness,30635.05,"Vega, Browning and Porter"
+798,54,2023-10-19,Research/Legal Database,7832.02,"Allen, Baker and Perez"
+799,54,2024-04-21,Document Review,14108.02,"Kelly, Maxwell and Wilson"
+800,54,2023-09-14,Mediation Services,7088.0,"Vasquez, Smith and Vincent"
+801,54,2024-05-26,Document Review,13131.95,Watson-Stewart
+802,54,2024-05-09,Deposition,2006.97,"Melton, Henry and Joyce"
+803,54,2024-05-14,Travel,8480.42,Sanders-Christensen
+804,54,2023-09-29,Deposition,5838.74,"Lloyd, Mendoza and Fernandez"
+805,54,2024-01-15,Investigation,2468.88,Dalton-Parsons
+806,54,2024-01-02,Investigation,2287.65,Wolfe Group
+807,54,2023-11-22,Document Review,13379.86,Smith and Sons
+808,54,2023-12-11,Expert Witness,33881.16,Nguyen PLC
+809,54,2024-04-28,Filing Fees,4127.2,Dunn and Sons
+810,54,2023-11-09,Mediation Services,14784.23,"Cooper, White and Coleman"
+811,54,2023-12-22,Court Fees,3909.02,Diaz-Morales
+812,55,2023-10-16,Expert Witness,14139.28,"Anderson, Johnston and Perez"
+813,55,2023-02-23,Travel,6315.83,Brock-Peters
+814,55,2024-07-13,Mediation Services,13566.61,Thomas Ltd
+815,55,2023-03-28,Mediation Services,7654.56,Thompson Group
+816,55,2023-03-18,Mediation Services,7313.45,"Holmes, Le and Floyd"
+817,55,2023-07-07,Deposition,9656.21,"Garrison, Williams and Garcia"
+818,55,2023-04-07,Travel,7590.68,Cervantes Group
+819,55,2024-07-01,Travel,4642.33,Cole LLC
+820,55,2023-06-10,Investigation,7017.85,Castro-Frederick
+821,55,2023-06-09,Document Review,1867.25,Jenkins LLC
+822,55,2024-07-20,Expert Witness,32226.93,"Gonzalez, Johnston and Banks"
+823,55,2023-04-14,Transcript Services,13740.59,Kelly-Nunez
+824,55,2023-11-09,Deposition,2737.01,"Griffin, Miller and Austin"
+825,56,2024-07-28,Filing Fees,4861.96,Oneill Ltd
+826,56,2024-11-05,Research/Legal Database,8401.79,Fisher-Salazar
+827,56,2024-07-11,Filing Fees,1099.58,Miller LLC
+828,56,2024-05-21,Document Review,11919.1,Delgado-Page
+829,56,2024-09-07,Expert Witness,46572.34,Nelson-Wallace
+830,56,2024-11-21,Court Fees,3448.44,Adkins-Meyer
+831,56,2024-07-24,Research/Legal Database,13004.17,White Inc
+832,56,2024-04-21,Travel,9049.95,Stanley Ltd
+833,56,2024-10-05,Transcript Services,1005.33,Clark Group
+834,56,2024-04-14,Deposition,5051.89,Zuniga Group
+835,56,2024-08-22,Research/Legal Database,606.18,Wise PLC
+836,56,2024-10-23,Document Review,1461.13,Garcia PLC
+837,56,2024-04-30,Expert Witness,36827.42,"Huynh, Price and Perez"
+838,56,2024-10-15,Investigation,10497.27,Sims-Anderson
+839,56,2024-11-14,Document Review,1945.72,Johnson LLC
+840,56,2024-11-20,Travel,2436.05,Lin-Mcdonald
+841,56,2024-11-23,Deposition,9980.48,Dunn-Taylor
+842,56,2024-12-16,Travel,8561.7,"Thompson, Harper and Welch"
+843,56,2024-09-16,Court Fees,767.74,"Graham, Bowman and Ferguson"
+844,56,2024-12-04,Investigation,10861.51,Fernandez-Ballard
+845,56,2024-07-22,Document Review,1932.46,Gutierrez-Moore
+846,56,2024-03-19,Research/Legal Database,2590.88,"Ochoa, Charles and Cooper"
+847,56,2024-07-30,Document Review,8387.8,Watts Group
+848,56,2024-12-15,Investigation,908.34,Evans-Cannon
+849,56,2024-11-02,Mediation Services,7382.71,"Hall, Smith and Brooks"
+850,57,2023-07-09,Document Review,13050.48,"Kim, Wright and Espinoza"
+851,57,2023-12-26,Transcript Services,6399.67,Walker-Miller
+852,57,2023-12-11,Research/Legal Database,3073.11,"Duran, Kent and Aguirre"
+853,57,2024-01-22,Court Fees,4963.35,Wong-Patel
+854,57,2023-03-28,Document Review,12005.04,Castaneda and Sons
+855,57,2022-12-22,Research/Legal Database,4699.38,Walsh PLC
+856,57,2023-08-08,Document Review,12569.54,"Dean, Lopez and Smith"
+857,57,2022-10-20,Travel,2551.52,"Johnson, Compton and Campbell"
+858,57,2022-12-14,Court Fees,985.47,Acosta-Hall
+859,57,2023-01-01,Transcript Services,1248.46,Robinson-Fisher
+860,57,2024-04-05,Travel,3749.31,Bolton-Ford
+861,57,2024-04-09,Mediation Services,6758.51,Miller-Christensen
+862,57,2022-12-29,Filing Fees,1468.01,Rowe-Jones
+863,57,2023-08-20,Investigation,673.99,Huang LLC
+864,57,2024-04-27,Mediation Services,6290.67,Martinez Ltd
+865,57,2023-03-13,Research/Legal Database,1313.31,Wright-Vang
+866,57,2023-02-06,Research/Legal Database,11796.02,"Wise, Boyd and Hendrix"
+867,58,2024-04-10,Transcript Services,5360.71,"Ali, Mayer and Moore"
+868,58,2024-07-06,Travel,4518.31,"Pineda, Meyer and King"
+869,58,2024-06-05,Filing Fees,3746.49,Ward Inc
+870,58,2024-08-21,Court Fees,3070.59,Mcpherson and Sons
+871,58,2024-06-03,Travel,4683.43,Smith-Bauer
+872,58,2024-05-18,Mediation Services,8959.19,Mccormick-Smith
+873,59,2022-10-18,Deposition,5183.62,"Alvarez, Carlson and Watson"
+874,59,2022-11-13,Transcript Services,5038.33,Porter Ltd
+875,59,2023-09-02,Expert Witness,9310.09,"Brown, Kelly and Moore"
+876,59,2023-07-18,Travel,2229.05,Martinez and Sons
+877,59,2023-03-19,Transcript Services,14502.6,"Kramer, Sherman and Trujillo"
+878,60,2023-08-12,Investigation,3634.72,Smith Group
+879,60,2023-05-31,Investigation,1797.39,King Inc
+880,60,2023-09-23,Expert Witness,34445.68,Hansen-Daniels
+881,60,2023-09-27,Research/Legal Database,2823.59,"Lopez, Bailey and Oconnor"
+882,60,2023-03-17,Court Fees,1418.87,"Rocha, Spencer and Jones"
+883,61,2024-01-28,Transcript Services,1098.22,Weiss-Weaver
+884,61,2024-03-22,Mediation Services,7352.9,"Hunter, Gross and Andrade"
+885,61,2024-04-21,Court Fees,3447.89,Parsons-Allen
+886,61,2024-05-09,Investigation,2566.76,"Coffey, Fuentes and Lee"
+887,61,2024-05-02,Court Fees,612.28,"Moore, Campbell and Ortiz"
+888,61,2024-02-27,Document Review,5085.09,Mills Inc
+889,61,2024-01-08,Document Review,11280.48,White Inc
+890,61,2024-02-06,Court Fees,4994.57,Lee-Johnson
+891,61,2024-04-25,Court Fees,3062.66,Barrett-Fox
+892,61,2024-05-06,Mediation Services,12212.27,Williams-Walker
+893,61,2024-05-09,Court Fees,2632.82,Conrad and Sons
+894,61,2024-04-28,Expert Witness,25465.47,Mcdonald Ltd
+895,61,2024-01-11,Document Review,4050.74,"Paul, Zamora and Short"
+896,61,2024-05-22,Expert Witness,49246.27,Colon LLC
+897,61,2024-04-05,Research/Legal Database,12463.26,"Jones, Torres and Blackburn"
+898,61,2024-06-21,Document Review,4750.47,Garcia and Sons
+899,61,2024-04-05,Research/Legal Database,3163.17,Lee Ltd
+900,62,2024-10-15,Court Fees,3415.76,"Meza, Hansen and Grant"
+901,62,2024-12-05,Expert Witness,11483.18,"Ray, Craig and Park"
+902,62,2024-11-02,Research/Legal Database,3612.77,Jackson and Sons
+903,62,2024-11-15,Transcript Services,4413.23,"Morgan, Moore and Murillo"
+904,62,2024-11-04,Court Fees,1138.62,Orr-Pierce
+905,62,2024-12-30,Expert Witness,31250.35,Gutierrez-Schultz
+906,62,2024-12-13,Document Review,11257.66,Franklin-Hart
+907,62,2024-10-11,Investigation,12068.63,"Howe, King and Nixon"
+908,62,2024-11-04,Investigation,13307.88,Smith-Johnson
+909,63,2024-08-27,Transcript Services,827.76,Holmes LLC
+910,63,2024-07-09,Research/Legal Database,6599.66,Lewis LLC
+911,63,2024-07-11,Deposition,3842.26,"Short, Ellison and Dixon"
+912,63,2024-10-16,Travel,9306.54,"Moore, Johnson and Kelly"
+913,63,2024-08-01,Investigation,6430.14,Preston-Wright
+914,63,2024-08-22,Investigation,9238.83,Davis-Ross
+915,63,2024-12-16,Document Review,10942.9,"Jones, Nguyen and Olson"
+916,63,2024-10-01,Expert Witness,48673.01,"Warner, Weiss and Davis"
+917,63,2024-10-29,Research/Legal Database,4420.05,Cross PLC
+918,63,2024-09-13,Deposition,8444.45,Weeks LLC
+919,63,2024-09-07,Deposition,6259.12,Butler-Parrish
+920,63,2024-12-08,Deposition,2007.52,Adkins PLC
+921,63,2024-12-18,Expert Witness,10913.6,"Waters, Reyes and Torres"
+922,63,2024-07-15,Court Fees,3087.38,"Cunningham, Murphy and Wolfe"
+923,63,2024-08-03,Court Fees,1938.51,"Dennis, Long and Griffin"
+924,63,2024-10-20,Mediation Services,8930.91,"Davis, Reynolds and Hartman"
+925,63,2024-08-03,Court Fees,1268.28,Miller-Duncan
+926,64,2022-10-25,Mediation Services,13272.21,Baker-Ross
+927,64,2023-09-13,Document Review,11121.35,"Anderson, Taylor and Hansen"
+928,64,2023-10-28,Mediation Services,13330.99,"Duncan, Hoffman and Shea"
+929,64,2023-11-27,Document Review,7445.06,Jones Group
+930,64,2023-06-12,Filing Fees,4060.24,"Davis, Powers and Henderson"
+931,64,2023-07-03,Mediation Services,10279.74,Cooper-Rios
+932,64,2024-06-20,Research/Legal Database,3601.46,Huerta PLC
+933,64,2024-08-03,Filing Fees,4996.07,Hanson-Alexander
+934,64,2024-10-28,Expert Witness,27508.99,Gonzalez LLC
+935,64,2023-01-22,Document Review,5023.44,"Farrell, Rodriguez and Brown"
+936,64,2024-11-18,Document Review,842.72,Melton LLC
+937,64,2022-09-25,Travel,4944.9,"Brock, Torres and Ruiz"
+938,64,2023-06-19,Mediation Services,14658.11,"Medina, Harris and Mills"
+939,64,2023-04-19,Transcript Services,2088.26,Dean-Gay
+940,64,2024-04-19,Expert Witness,27081.31,"Smith, Aguilar and Alvarado"
+941,64,2022-10-20,Transcript Services,12772.38,Brown and Sons
+942,64,2024-07-07,Research/Legal Database,1743.43,"Nelson, Marshall and Landry"
+943,64,2022-11-08,Document Review,1132.38,"Nelson, Christian and Keller"
+944,65,2024-11-15,Transcript Services,11186.17,Carter Ltd
+945,65,2024-06-07,Mediation Services,14032.7,Romero-Mckinney
+946,65,2024-11-28,Travel,4537.34,Delacruz-Schmidt
+947,65,2024-04-01,Research/Legal Database,12587.28,"Rasmussen, Castro and Marquez"
+948,65,2024-02-12,Deposition,9816.83,"Torres, Burns and Garner"
+949,65,2024-02-05,Document Review,8334.82,"Bell, Garrett and Young"
+950,65,2024-12-23,Mediation Services,6837.17,"Hill, Brown and Scott"
+951,65,2024-06-08,Investigation,14195.96,Raymond LLC
+952,65,2024-04-14,Expert Witness,27687.64,Prince-Sandoval
+953,65,2024-02-28,Court Fees,1508.01,Meyer-Gregory
+954,65,2024-11-18,Mediation Services,6448.17,"Perez, Allen and Hernandez"
+955,65,2024-12-21,Document Review,6759.56,"Murphy, Daniels and Clark"
+956,65,2024-03-16,Research/Legal Database,10859.03,"Sutton, Harris and Taylor"
+957,65,2024-09-17,Expert Witness,12567.76,"Browning, Jordan and Stout"
+958,65,2024-10-14,Research/Legal Database,3389.88,"Fitzpatrick, Stark and Stewart"
+959,65,2024-08-04,Investigation,10451.63,"Wilson, Stewart and Hobbs"
+960,65,2024-09-30,Research/Legal Database,13060.19,Beard-Gutierrez
+961,66,2023-10-24,Deposition,1013.41,Reese-Underwood
+962,66,2024-02-12,Travel,7852.26,"Hill, Maxwell and Rodriguez"
+963,66,2023-07-05,Expert Witness,7743.18,"Jensen, Obrien and Salazar"
+964,66,2024-01-23,Expert Witness,29684.47,Mcdaniel LLC
+965,66,2023-05-14,Filing Fees,1619.0,Anderson-Mathis
+966,66,2023-11-21,Document Review,11284.76,"Brooks, Christian and Henry"
+967,66,2023-06-12,Filing Fees,2540.47,Perez Group
+968,66,2024-04-14,Transcript Services,2112.83,Schaefer Group
+969,66,2023-07-24,Expert Witness,5151.14,"Mcneil, Todd and Jones"
+970,66,2024-07-03,Mediation Services,8790.19,Camacho-Burns
+971,66,2023-09-12,Transcript Services,14989.45,Clay-Patterson
+972,66,2024-04-20,Court Fees,1634.55,"Moss, James and Edwards"
+973,66,2024-01-30,Filing Fees,4092.45,"Armstrong, Herrera and Davidson"
+974,66,2024-03-16,Expert Witness,31084.03,Meyer Group
+975,66,2023-11-15,Court Fees,2230.17,Rich and Sons
+976,66,2023-12-16,Research/Legal Database,12395.8,Terrell-Williams
+977,67,2024-07-18,Investigation,3422.35,"Estes, Lee and Gonzales"
+978,67,2024-11-29,Investigation,11261.39,Murray-Henderson
+979,67,2024-09-17,Transcript Services,10262.18,Vaughn and Sons
+980,67,2024-08-08,Transcript Services,11037.96,"Hayes, Sharp and Wilson"
+981,67,2024-11-01,Transcript Services,1148.58,"Payne, Long and Morris"
+982,67,2024-04-11,Expert Witness,29379.97,Garza-Marquez
+983,67,2024-05-29,Deposition,3701.81,Davis-Nguyen
+984,67,2024-09-27,Court Fees,4742.61,"Hogan, Higgins and Martinez"
+985,67,2024-05-05,Mediation Services,6666.23,Walters-Miller
+986,68,2023-10-14,Filing Fees,1602.25,"Moody, Hunt and Herring"
+987,68,2023-08-19,Expert Witness,6037.6,Williams-Jackson
+988,68,2023-08-12,Transcript Services,12331.07,"Huffman, Martin and Thomas"
+989,68,2023-10-25,Transcript Services,7968.22,Barnes LLC
+990,68,2023-10-18,Travel,3241.37,Roberts-White
+991,68,2023-11-16,Court Fees,4506.43,Smith LLC
+992,68,2023-06-18,Travel,9577.83,Foley-Stephens
+993,68,2023-06-16,Court Fees,4683.06,Young-Chapman
+994,68,2023-09-05,Mediation Services,13294.52,Ramos-Burke
+995,68,2023-06-17,Deposition,1832.2,"Ramirez, Fuller and Wilkins"
+996,68,2023-07-21,Transcript Services,8551.79,Hernandez Ltd
+997,68,2023-08-14,Deposition,7248.73,Nash Ltd
+998,68,2023-09-22,Deposition,5511.24,"Evans, Knapp and Williams"
+999,69,2024-11-09,Document Review,2676.18,Martin LLC
+1000,69,2024-11-26,Expert Witness,13510.07,"Graves, Armstrong and Hart"
+1001,69,2024-12-28,Document Review,12171.34,"Riley, Huynh and Davis"
+1002,69,2024-10-29,Expert Witness,8078.61,Merritt-Wilkins
+1003,69,2024-12-09,Travel,3915.48,"Brown, Ruiz and Martinez"
+1004,69,2024-12-18,Travel,3499.61,Rose-Warren
+1005,69,2024-12-03,Filing Fees,634.87,"Brown, Duncan and Krause"
+1006,69,2024-11-19,Deposition,4375.56,Webb Ltd
+1007,69,2024-11-25,Transcript Services,9304.54,"Mitchell, Lynch and Stewart"
+1008,69,2024-11-18,Document Review,4609.06,"Gomez, Anderson and Hart"
+1009,69,2024-11-18,Document Review,13016.84,"Jimenez, Morton and Stephenson"
+1010,69,2024-10-23,Filing Fees,2487.28,Krause-Smith
+1011,69,2024-10-05,Expert Witness,9297.07,"Robles, Mclaughlin and Clark"
+1012,69,2024-11-26,Mediation Services,2500.25,Gutierrez-Cook
+1013,69,2024-11-21,Expert Witness,41455.1,"Lewis, Davidson and Vaughn"
+1014,69,2024-10-25,Mediation Services,13698.62,Parker PLC
+1015,69,2024-11-20,Mediation Services,2707.01,Wilson LLC
+1016,69,2024-11-02,Research/Legal Database,9962.96,"Carroll, Choi and Collier"
+1017,69,2024-10-20,Mediation Services,6977.71,Nielsen-Mendoza
+1018,69,2024-11-14,Document Review,14538.12,Brewer Group
+1019,69,2024-10-16,Research/Legal Database,14434.1,Mcclain-Herrera
+1020,69,2024-11-01,Filing Fees,1133.32,Reilly-Brown
+1021,69,2024-11-18,Mediation Services,5526.43,"Hardy, Stewart and Herrera"
+1022,70,2023-09-20,Investigation,4300.16,"Rivera, Hendricks and Flynn"
+1023,70,2023-06-29,Deposition,9143.51,Ramirez Inc
+1024,70,2023-12-07,Investigation,3797.32,Sims-Kirby
+1025,70,2024-04-21,Deposition,6734.56,Lopez-Wilson
+1026,70,2024-08-24,Travel,4704.27,Thornton-Edwards
+1027,70,2023-06-08,Research/Legal Database,14290.01,Miller-Wiley
+1028,70,2023-12-26,Travel,4099.97,Robinson-Turner
+1029,71,2024-05-12,Expert Witness,5378.96,Strickland Inc
+1030,71,2024-08-07,Court Fees,1217.62,Lloyd PLC
+1031,71,2024-05-23,Court Fees,4966.21,Mclean-Oconnor
+1032,71,2024-08-28,Mediation Services,14281.06,Thomas-Wiggins
+1033,71,2024-11-14,Mediation Services,10667.68,"Rhodes, Anderson and Hardy"
+1034,71,2024-08-11,Court Fees,2970.28,"Hancock, Wilson and Collins"
+1035,71,2024-04-24,Filing Fees,4722.21,"Wiggins, Cook and Small"
+1036,71,2024-05-10,Research/Legal Database,11901.38,"Reese, Johnson and Blake"
+1037,71,2024-09-27,Deposition,4113.56,Flores and Sons
+1038,71,2024-06-27,Expert Witness,17908.91,"Flores, Alexander and Wilson"
+1039,71,2024-05-22,Filing Fees,1014.9,Wilson-Mullen
+1040,71,2024-09-06,Expert Witness,7737.45,Clark LLC
+1041,71,2024-09-03,Transcript Services,3006.95,Thomas-Bush
+1042,71,2024-06-26,Expert Witness,16902.6,Jackson LLC
+1043,71,2024-09-20,Filing Fees,605.89,Fernandez-Williams
+1044,71,2024-04-20,Court Fees,1075.04,"Williams, Reyes and Miller"
+1045,71,2024-07-24,Travel,5701.34,"Carlson, Watkins and Huff"
+1046,71,2024-10-13,Investigation,1756.66,"Kelly, Cook and Gonzalez"
+1047,71,2024-10-28,Court Fees,3755.33,"Miller, Livingston and Duran"
+1048,72,2022-10-19,Travel,9852.48,Hess Ltd
+1049,72,2022-09-01,Research/Legal Database,8733.08,Collins-Newman
+1050,72,2023-01-21,Filing Fees,808.9,Hall-Walker
+1051,72,2023-03-07,Court Fees,1062.92,"Scott, Cox and White"
+1052,72,2023-04-03,Document Review,14224.31,Mccormick-Khan
+1053,72,2022-08-25,Deposition,1103.76,Jones Inc
+1054,72,2022-07-08,Filing Fees,2458.52,Singleton-Campbell
+1055,72,2022-07-06,Deposition,3019.5,"Anderson, Garcia and Roth"
+1056,72,2023-02-05,Document Review,5024.82,Hawkins-Jones
+1057,72,2022-06-14,Expert Witness,48679.03,Morales-Gutierrez
+1058,73,2023-08-20,Research/Legal Database,13460.59,"Moore, Olson and Jones"
+1059,73,2022-08-18,Investigation,6574.95,"Garza, Mueller and Graham"
+1060,73,2024-01-15,Travel,8669.17,"Benson, Thompson and Caldwell"
+1061,73,2023-12-04,Document Review,6050.88,"Andrews, Tucker and Vargas"
+1062,73,2023-04-01,Expert Witness,9818.19,"Davis, Wallace and Parker"
+1063,73,2023-02-10,Court Fees,1998.03,"Rodriguez, Cervantes and Wise"
+1064,73,2023-01-17,Expert Witness,21467.79,Newman-Brown
+1065,73,2022-08-26,Travel,9676.35,Clay Ltd
+1066,73,2024-02-04,Document Review,7631.36,Guerrero Group
+1067,73,2023-06-01,Research/Legal Database,4262.36,Gilbert-West
+1068,73,2022-08-16,Deposition,6025.01,Evans-Bauer
+1069,73,2023-10-11,Filing Fees,873.83,Robbins-Herman
+1070,73,2024-07-14,Filing Fees,2906.41,"Smith, Downs and Powell"
+1071,73,2022-06-07,Research/Legal Database,14132.92,Brown-Santana
+1072,74,2022-09-07,Research/Legal Database,12477.73,Warner LLC
+1073,74,2022-05-31,Research/Legal Database,6216.5,Glenn-Young
+1074,74,2022-08-07,Expert Witness,27922.46,Garrett-Joseph
+1075,74,2022-07-04,Filing Fees,3666.17,Gardner-Bates
+1076,74,2022-07-12,Filing Fees,4707.26,Peters LLC
+1077,74,2022-08-23,Filing Fees,4787.17,Roberts Ltd
+1078,74,2022-06-02,Research/Legal Database,4502.9,Jones Inc
+1079,74,2022-06-04,Court Fees,4803.77,Barrett-Proctor
+1080,75,2023-12-24,Investigation,13316.17,May Group
+1081,75,2024-10-31,Filing Fees,4335.36,"Munoz, Simmons and White"
+1082,75,2024-06-02,Investigation,7904.23,"Wilkins, Cruz and Perez"
+1083,75,2024-04-27,Document Review,11956.55,Lane Ltd
+1084,75,2024-02-06,Document Review,7362.92,"Adams, House and Johnston"
+1085,75,2023-11-10,Court Fees,3480.76,Carroll Ltd
+1086,75,2024-04-02,Transcript Services,1371.3,"Olson, Vaughn and Thomas"
+1087,75,2024-09-06,Travel,4254.45,Marshall-Miller
+1088,75,2024-11-13,Expert Witness,23575.14,Sanchez Ltd
+1089,75,2024-09-10,Court Fees,4128.24,"Miller, Schultz and Yates"
+1090,75,2024-03-09,Document Review,7758.68,Berger PLC
+1091,75,2024-09-26,Investigation,14904.61,Gibson-Escobar
+1092,75,2024-06-30,Research/Legal Database,2320.53,Fisher-Yu
+1093,75,2024-10-05,Deposition,8776.85,Jackson-Neal
+1094,75,2024-07-10,Travel,3768.4,Acosta-Elliott
+1095,75,2023-11-22,Document Review,11027.84,Lane-Berry
+1096,75,2024-08-04,Filing Fees,2964.58,Lamb-Weber
+1097,75,2024-02-27,Court Fees,1178.67,Martinez Inc
+1098,75,2024-10-27,Deposition,8115.67,King-Gilbert
+1099,75,2024-02-22,Filing Fees,4295.64,Smith-Rodriguez
+1100,75,2024-01-10,Transcript Services,11204.69,"Stevenson, Hopkins and Wood"
+1101,75,2024-01-10,Deposition,2472.64,"Young, White and Rose"
+1102,75,2023-11-10,Document Review,8835.06,Coffey PLC
+1103,75,2024-12-02,Research/Legal Database,749.28,Monroe Group
+1104,76,2023-01-14,Document Review,12114.93,Guerrero Ltd
+1105,76,2023-01-08,Court Fees,3948.87,Lane LLC
+1106,76,2022-12-10,Court Fees,3517.61,Campos-Wilson
+1107,76,2022-12-16,Transcript Services,7649.34,Alvarez-Alvarez
+1108,76,2023-01-23,Travel,5920.32,"Hall, Vega and Price"
+1109,76,2022-12-20,Court Fees,2890.38,"Berg, Smith and Ho"
+1110,76,2022-12-29,Investigation,4111.63,"Stewart, Moreno and Blanchard"
+1111,76,2022-12-12,Filing Fees,1550.76,"Walsh, Blanchard and Reynolds"
+1112,76,2023-01-21,Travel,4036.27,Rogers-Adams
+1113,76,2022-12-12,Transcript Services,11939.85,"Silva, Murray and Leonard"
+1114,76,2022-12-19,Mediation Services,13179.26,"Chapman, Lee and Rogers"
+1115,76,2023-01-10,Mediation Services,12191.23,Edwards Inc
+1116,76,2023-01-09,Court Fees,2877.06,Smith Inc
+1117,76,2023-01-02,Document Review,9006.95,"Griffin, Robinson and Campbell"
+1118,76,2022-12-17,Filing Fees,2915.78,Harvey Inc
+1119,76,2023-01-22,Filing Fees,2323.18,"Shannon, Robinson and Greene"
+1120,76,2022-12-13,Expert Witness,20629.25,Miller PLC
+1121,77,2024-07-22,Court Fees,4968.33,"Gallagher, Wong and Pratt"
+1122,77,2024-08-01,Research/Legal Database,1821.07,Dominguez LLC
+1123,77,2024-08-21,Deposition,3799.02,"Mayer, Fowler and Livingston"
+1124,77,2024-08-18,Document Review,1692.8,Schwartz-Contreras
+1125,77,2024-11-18,Research/Legal Database,4083.45,Martin-Jones
+1126,77,2024-11-19,Expert Witness,10330.87,Price-Ferrell
+1127,77,2024-08-15,Filing Fees,729.31,Thompson-Jones
+1128,77,2024-12-27,Transcript Services,11287.63,Bishop and Sons
+1129,78,2024-08-16,Filing Fees,518.86,Thomas Group
+1130,78,2024-06-09,Travel,5470.04,"Rodriguez, Alexander and Green"
+1131,78,2024-05-11,Court Fees,3710.88,Duncan LLC
+1132,78,2024-09-06,Mediation Services,6083.23,Mosley and Sons
+1133,78,2024-08-17,Expert Witness,14118.61,Fitzpatrick Ltd
+1134,78,2024-07-07,Expert Witness,49977.61,Graves Group
+1135,78,2024-08-05,Travel,1945.31,"Zimmerman, Wise and Mendoza"
+1136,78,2024-07-09,Investigation,8486.0,"Norman, Floyd and Fernandez"
+1137,78,2024-05-06,Transcript Services,9532.02,"Meyers, Olson and Bradley"
+1138,78,2024-10-01,Expert Witness,8608.19,Cook-Turner
+1139,78,2024-05-14,Document Review,970.29,"Davis, Nichols and Woodward"
+1140,78,2024-05-18,Expert Witness,14443.55,Hodges-Roberts
+1141,78,2024-06-07,Investigation,12292.73,"Williams, Cruz and Lee"
+1142,78,2024-08-24,Travel,1962.44,Mccoy LLC
+1143,78,2024-07-22,Investigation,11339.31,"Kim, Lopez and Johnson"
+1144,78,2024-05-10,Transcript Services,12428.22,"Allen, Price and Sparks"
+1145,78,2024-08-16,Mediation Services,6516.64,Ferguson-Flowers
+1146,78,2024-07-16,Court Fees,4480.82,Johnson Inc
+1147,78,2024-06-28,Filing Fees,4478.48,"Williams, Wilson and Roman"
+1148,78,2024-08-20,Research/Legal Database,11528.11,Bentley-Berg
+1149,78,2024-07-30,Deposition,7153.69,"Riley, Buckley and Johnson"
+1150,79,2022-02-11,Expert Witness,37479.13,"Smith, Meadows and Montgomery"
+1151,79,2022-03-03,Document Review,1928.57,"Anderson, Jackson and Williams"
+1152,79,2022-03-16,Document Review,12758.31,Bryant and Sons
+1153,79,2022-06-30,Investigation,12411.4,Meyers Inc
+1154,79,2022-02-05,Deposition,8806.02,"Lloyd, Walker and Brock"
+1155,79,2022-04-09,Expert Witness,33290.88,"Gregory, Nguyen and Daugherty"
+1156,79,2022-05-09,Court Fees,1427.15,Morris and Sons
+1157,79,2022-06-16,Investigation,5440.53,"Thompson, Brown and Hill"
+1158,79,2022-06-15,Deposition,5770.98,Horton PLC
+1159,79,2022-02-16,Court Fees,601.85,Frost Inc
+1160,79,2022-02-09,Research/Legal Database,8592.62,"Salazar, Strickland and Smith"
+1161,79,2022-04-21,Investigation,8077.5,Smith Inc
+1162,79,2022-06-05,Expert Witness,26225.32,"Eaton, Butler and Aguirre"
+1163,79,2022-06-18,Investigation,9181.79,"Martinez, Thomas and Nelson"
+1164,79,2022-04-14,Expert Witness,37177.65,Hurley PLC
+1165,79,2022-06-02,Investigation,2123.29,"White, Porter and Clements"
+1166,79,2022-05-20,Filing Fees,976.03,Bailey-Smith
+1167,79,2022-03-02,Expert Witness,29863.62,Downs Inc
+1168,79,2022-05-18,Mediation Services,2110.49,"Romero, Marshall and Sims"
+1169,79,2022-02-24,Transcript Services,7314.73,Lee and Sons
+1170,79,2022-05-31,Research/Legal Database,2381.79,Jimenez-Moore
+1171,79,2022-07-18,Travel,7091.61,Newman LLC
+1172,79,2022-02-25,Transcript Services,9689.28,Cook-Trujillo
+1173,79,2022-06-15,Filing Fees,1630.91,Garcia Inc
+1174,80,2024-12-06,Court Fees,2909.63,Moore Inc
+1175,80,2024-07-18,Investigation,5413.3,Jones and Sons
+1176,80,2024-10-02,Travel,1362.87,"Riley, Barnes and Burgess"
+1177,80,2024-11-28,Filing Fees,3018.46,Maxwell LLC
+1178,80,2024-04-27,Court Fees,4548.52,Rojas and Sons
+1179,80,2024-06-13,Expert Witness,13192.75,Jones PLC
+1180,80,2024-07-18,Document Review,8431.93,Thomas-Reilly
+1181,80,2024-07-09,Mediation Services,5811.88,Brooks-Ellis
+1182,80,2024-04-16,Deposition,5189.7,Cantrell-Harris
+1183,80,2024-03-25,Mediation Services,956.43,"Carroll, Ramirez and Rodriguez"
+1184,80,2024-07-12,Research/Legal Database,9944.31,Jackson-Cooper
+1185,80,2024-11-24,Document Review,3315.24,"Moore, Norton and Cisneros"
+1186,80,2024-11-30,Research/Legal Database,3592.67,"Cordova, Wyatt and Miller"
+1187,80,2024-11-15,Filing Fees,4838.04,Atkins-Robinson
+1188,80,2024-07-14,Research/Legal Database,14569.03,Ramirez-Blair
+1189,80,2024-10-07,Court Fees,2258.16,Wright Group
+1190,80,2024-08-18,Expert Witness,40520.39,"Shah, Mcintyre and Villanueva"
+1191,80,2024-06-27,Filing Fees,3211.09,Williams Group
+1192,80,2024-10-06,Filing Fees,2981.69,"Johnson, Schmidt and Mendoza"
+1193,80,2024-10-27,Investigation,4263.93,Chavez and Sons
+1194,81,2023-07-31,Expert Witness,22502.01,Steele Group
+1195,81,2024-12-02,Investigation,10392.48,Howard and Sons
+1196,81,2024-06-14,Deposition,1596.64,Smith Ltd
+1197,81,2023-12-03,Transcript Services,10506.36,"Stevens, Hudson and Silva"
+1198,81,2024-12-17,Travel,6202.58,Ingram-Sawyer
+1199,81,2024-01-29,Deposition,7272.83,Sims-Padilla
+1200,81,2023-06-14,Research/Legal Database,1796.92,"Jones, Barry and Cook"
+1201,81,2023-07-02,Expert Witness,38110.99,Mullins-Wolfe
+1202,81,2024-05-25,Filing Fees,4525.92,"Norton, French and Miller"
+1203,81,2024-10-24,Research/Legal Database,6131.73,"Randolph, Robertson and Kent"
+1204,81,2024-01-06,Expert Witness,26615.42,Rodriguez LLC
+1205,81,2024-03-03,Expert Witness,14791.35,Diaz and Sons
+1206,81,2024-06-14,Deposition,1417.79,"Jones, Fletcher and Harris"
+1207,81,2024-12-20,Mediation Services,11619.23,Fernandez Ltd
+1208,81,2024-03-10,Research/Legal Database,4590.0,"Pitts, Warner and Mullins"
+1209,81,2024-08-17,Travel,7325.35,Gomez-Adams
+1210,81,2024-07-03,Court Fees,3290.01,Brown-Watson
+1211,81,2024-02-25,Travel,6200.99,"Rose, Martinez and Mckinney"
+1212,81,2024-07-01,Document Review,8356.52,"Lam, Hayes and Richardson"
+1213,81,2024-06-29,Document Review,7799.14,"Lamb, Everett and Jones"
+1214,82,2024-09-13,Expert Witness,5459.85,Miller-Myers
+1215,82,2022-09-30,Court Fees,3823.66,Rodriguez LLC
+1216,82,2022-07-26,Transcript Services,12235.85,Crawford and Sons
+1217,82,2023-09-08,Court Fees,4163.21,"Johnson, Butler and Fleming"
+1218,82,2024-10-23,Deposition,8723.36,Reed-Wallace
+1219,82,2024-01-10,Expert Witness,11631.2,Lopez-Johnson
+1220,82,2024-06-15,Deposition,9204.33,"Newman, Jenkins and Cooper"
+1221,82,2024-01-11,Filing Fees,2643.22,Tucker-Wade
+1222,82,2023-09-17,Deposition,7872.86,"Wallace, Torres and Anderson"
+1223,82,2024-06-03,Mediation Services,14842.85,Mccormick and Sons
+1224,82,2023-08-02,Document Review,6362.06,Carrillo-Williams
+1225,82,2023-03-24,Travel,3079.8,Huber-Montgomery
+1226,83,2023-04-14,Deposition,3094.05,"Mitchell, Mcpherson and Franco"
+1227,83,2024-04-24,Mediation Services,1815.37,"Bauer, Martin and Wilson"
+1228,83,2024-11-23,Expert Witness,19663.32,"Martinez, Green and Lopez"
+1229,83,2024-01-23,Court Fees,4462.09,Wade LLC
+1230,83,2023-04-05,Document Review,13725.22,Fernandez-Martin
+1231,83,2023-07-23,Filing Fees,1668.1,Sullivan Group
+1232,83,2024-06-17,Research/Legal Database,7613.47,Reilly-Moore
+1233,83,2024-11-06,Transcript Services,11914.95,"Cantrell, Rivera and Thornton"
+1234,83,2023-11-22,Court Fees,1940.26,Montes-Webster
+1235,83,2024-11-23,Travel,5966.29,"Thomas, Cunningham and Meadows"
+1236,83,2023-10-30,Deposition,7700.14,"Rodriguez, Mendoza and Williams"
+1237,83,2024-04-14,Court Fees,1115.67,Parker Group
+1238,83,2024-03-02,Court Fees,4576.25,Griffin Inc
+1239,83,2023-08-09,Investigation,5277.98,"Davidson, Silva and Walker"
+1240,83,2024-10-13,Court Fees,1102.94,Gonzalez-Miller
+1241,83,2024-08-13,Transcript Services,5895.68,"Powers, Miller and Hunt"
+1242,83,2023-05-08,Transcript Services,7717.38,Morrison-Hunt
+1243,83,2023-01-30,Court Fees,2036.15,"Ward, Hernandez and Nash"
+1244,83,2023-09-09,Document Review,2744.08,Smith-Cooper
+1245,83,2023-07-27,Expert Witness,39309.23,Sawyer-Miller
+1246,83,2024-05-19,Transcript Services,7196.97,Figueroa-Perry
+1247,83,2023-10-30,Travel,7609.17,Shaffer Group
+1248,83,2024-05-20,Expert Witness,11907.87,Taylor-Matthews
+1249,83,2023-02-20,Document Review,6809.41,Turner PLC
+1250,84,2024-12-29,Document Review,6631.35,Fitzpatrick PLC
+1251,84,2024-11-28,Investigation,7294.18,Smith Ltd
+1252,84,2024-12-19,Expert Witness,21114.64,Thompson-Murray
+1253,84,2024-11-03,Investigation,1975.31,Gonzalez Group
+1254,84,2024-09-28,Investigation,3451.83,Williams-Mckenzie
+1255,84,2024-12-09,Mediation Services,7225.76,Snyder-Singh
+1256,84,2024-09-19,Deposition,4458.47,Moore LLC
+1257,84,2024-12-25,Document Review,11443.13,"Kennedy, Valdez and Stafford"
+1258,84,2024-10-15,Investigation,8207.6,Knox-Newman
+1259,84,2024-08-24,Travel,5330.39,Snyder-Arellano
+1260,84,2024-11-08,Expert Witness,14743.09,Perkins-Cunningham
+1261,84,2024-12-13,Investigation,5111.73,"Jennings, Mccann and Cardenas"
+1262,84,2024-10-09,Travel,5770.69,"Johnston, Bruce and Martin"
+1263,84,2024-08-28,Research/Legal Database,13385.68,Murray-Steele
+1264,84,2024-10-07,Document Review,12409.4,Nelson Group
+1265,84,2024-11-12,Document Review,7797.2,Williams-Carter
+1266,85,2024-06-06,Investigation,10239.92,Palmer Ltd
+1267,85,2023-09-19,Filing Fees,724.15,George and Sons
+1268,85,2024-04-13,Transcript Services,3005.0,Serrano-Cohen
+1269,85,2023-11-25,Document Review,11673.38,"Wolfe, Cox and Ferguson"
+1270,85,2023-12-24,Filing Fees,3583.63,Smith PLC
+1271,85,2023-11-14,Filing Fees,4915.69,Jenkins-Mccall
+1272,85,2023-09-07,Investigation,3196.08,Moore and Sons
+1273,85,2024-09-25,Mediation Services,12591.63,"Austin, Guerra and Fox"
+1274,85,2024-04-06,Expert Witness,25191.27,"Park, Lang and Butler"
+1275,85,2024-11-12,Filing Fees,1628.02,Fuentes Inc
+1276,85,2024-03-07,Expert Witness,25039.38,Vazquez-Taylor
+1277,85,2024-02-14,Filing Fees,3574.37,"Mills, Cordova and Jackson"
+1278,85,2023-11-27,Research/Legal Database,7434.4,"Olsen, Walker and Vincent"
+1279,85,2023-08-26,Court Fees,4368.5,Parker and Sons
+1280,85,2023-08-19,Travel,9487.71,Coleman Inc
+1281,86,2023-01-30,Mediation Services,14519.98,Todd-Williams
+1282,86,2023-02-21,Filing Fees,2641.5,"Palmer, Brown and Wilson"
+1283,86,2023-06-12,Research/Legal Database,5692.95,Turner Inc
+1284,86,2024-06-27,Research/Legal Database,3659.38,Mora and Sons
+1285,86,2024-02-21,Mediation Services,6752.94,Lopez LLC
+1286,86,2022-12-24,Mediation Services,12620.49,Singleton LLC
+1287,86,2024-11-22,Transcript Services,1255.71,Bell-Wyatt
+1288,86,2024-07-17,Expert Witness,40879.9,"Allen, Hudson and Garcia"
+1289,86,2024-02-14,Mediation Services,13818.58,Rice Ltd
+1290,86,2023-04-26,Mediation Services,14907.9,Jackson-Webster
+1291,86,2022-12-05,Transcript Services,10351.64,"Garcia, Lewis and Gordon"
+1292,87,2023-06-17,Expert Witness,36226.48,Wolfe-Lopez
+1293,87,2023-06-07,Deposition,7996.79,White LLC
+1294,87,2023-09-01,Document Review,587.38,Lewis-Perez
+1295,87,2023-01-02,Expert Witness,35928.69,Martinez-Rodriguez
+1296,87,2023-01-08,Transcript Services,11694.04,Bush-Hawkins
+1297,87,2022-12-13,Investigation,3400.21,Snyder-Cruz
+1298,87,2023-04-08,Filing Fees,3839.92,"Collins, Cherry and Wallace"
+1299,87,2023-05-05,Deposition,6365.63,Mercer-Patterson
+1300,87,2023-07-29,Investigation,6721.43,Crosby-Richardson
+1301,87,2022-12-05,Document Review,11759.42,"Vasquez, Garcia and Kim"
+1302,88,2024-09-03,Travel,7136.3,Wilson Group
+1303,88,2024-07-09,Deposition,4703.44,"Madden, Figueroa and Stafford"
+1304,88,2024-05-20,Expert Witness,38153.54,Hester-Morgan
+1305,88,2024-08-20,Mediation Services,9132.99,Martinez-Massey
+1306,88,2024-09-17,Investigation,7747.27,Hubbard-Miranda
+1307,88,2024-08-20,Deposition,4098.36,"Harding, Kelly and Estrada"
+1308,88,2024-11-05,Research/Legal Database,6826.85,Dixon-Hernandez
+1309,88,2024-07-21,Court Fees,3140.13,King Group
+1310,88,2024-06-02,Expert Witness,15855.8,Johnson Ltd
+1311,88,2024-04-25,Mediation Services,4265.24,Jimenez Inc
+1312,88,2024-11-09,Research/Legal Database,7414.42,Jacobs-Murphy
+1313,88,2024-06-18,Filing Fees,3873.11,"Davis, Jones and Walton"
+1314,88,2024-09-26,Research/Legal Database,7103.9,Harris-Bates
+1315,88,2024-07-28,Travel,2622.36,Daniels-Pacheco
+1316,88,2024-08-08,Research/Legal Database,3043.9,Cisneros Inc
+1317,89,2024-12-28,Research/Legal Database,7491.11,Reyes LLC
+1318,89,2024-11-22,Court Fees,3927.1,Stevens-Johnson
+1319,89,2024-09-05,Investigation,12536.92,Dyer-Martin
+1320,89,2024-08-03,Investigation,6675.93,Baldwin-Freeman
+1321,89,2024-05-10,Court Fees,4859.2,"Henry, Spencer and Ryan"
+1322,89,2024-08-13,Court Fees,2403.2,"Dickerson, Hunter and Myers"
+1323,89,2024-08-20,Expert Witness,40074.7,Jensen-Gomez
+1324,89,2024-12-25,Research/Legal Database,9443.43,Brown-Garza
+1325,89,2024-05-15,Mediation Services,5893.26,Bailey-Harmon
+1326,89,2024-04-19,Document Review,4388.97,"Peterson, Davis and Reed"
+1327,89,2024-07-14,Mediation Services,6360.15,Brown-Sanchez
+1328,89,2024-06-12,Mediation Services,3873.99,Watkins-Lozano
+1329,89,2024-04-29,Deposition,2581.49,Wilson-Jackson
+1330,89,2024-08-31,Court Fees,4259.96,Murray Group
+1331,89,2024-09-08,Transcript Services,614.02,Adams-Dominguez
+1332,89,2024-09-13,Transcript Services,12918.93,Gray-Myers
+1333,89,2024-09-09,Research/Legal Database,3214.12,Garcia-Leonard
+1334,89,2024-07-09,Research/Legal Database,11329.72,"Cain, Contreras and Jackson"
+1335,89,2024-06-29,Transcript Services,12023.34,Harris-Reid
+1336,89,2024-12-24,Expert Witness,9304.49,Pittman PLC
+1337,89,2024-06-07,Document Review,3173.58,Williams-Davies
+1338,89,2024-07-26,Filing Fees,1708.87,Weber Inc
+1339,89,2024-10-17,Court Fees,772.48,"Davis, Rogers and Jones"
+1340,89,2024-11-08,Mediation Services,866.46,Simmons-Reed
+1341,89,2024-05-02,Court Fees,2527.6,Wagner-Evans
+1342,90,2024-01-02,Travel,8256.01,Gonzalez-Morales
+1343,90,2023-11-21,Court Fees,2300.28,Powers-Kelley
+1344,90,2024-08-24,Travel,5010.83,"Warner, Huffman and Ray"
+1345,90,2022-09-02,Expert Witness,44967.75,"Hurley, Adams and Little"
+1346,90,2024-06-07,Expert Witness,47361.3,Michael-Barber
+1347,91,2024-08-16,Transcript Services,3375.13,Diaz and Sons
+1348,91,2024-09-11,Research/Legal Database,6492.4,"Jennings, Evans and Graham"
+1349,91,2024-09-23,Investigation,3161.33,Walters Group
+1350,91,2024-09-15,Document Review,5962.66,Lucas-Scott
+1351,91,2024-11-03,Travel,8675.3,Allen-Hernandez
+1352,91,2024-08-12,Investigation,2818.69,Marshall-Castro
+1353,91,2024-10-10,Document Review,11846.54,"Bullock, Harris and Nelson"
+1354,91,2024-08-12,Filing Fees,4905.0,Hopkins-Thompson
+1355,91,2024-12-09,Mediation Services,577.28,"Tucker, Smith and Heath"
+1356,91,2024-08-20,Travel,9621.12,"Evans, Brown and Friedman"
+1357,91,2024-12-16,Expert Witness,38364.48,"Sandoval, Davis and Hahn"
+1358,91,2024-11-21,Deposition,3340.99,Young PLC
+1359,91,2024-11-22,Research/Legal Database,13274.16,Boyd PLC
+1360,91,2024-12-23,Transcript Services,11063.65,"King, Wilkerson and Young"
+1361,92,2022-11-07,Deposition,1978.53,Murphy-Silva
+1362,92,2023-07-04,Transcript Services,3675.27,"Manning, Walls and Robinson"
+1363,92,2022-10-24,Transcript Services,3760.56,Booker Group
+1364,92,2023-07-21,Investigation,10660.36,"Brown, Ferguson and Lyons"
+1365,92,2022-10-29,Investigation,3112.64,"Coleman, Vega and Richmond"
+1366,92,2024-09-14,Court Fees,1220.29,Cox Ltd
+1367,92,2023-06-14,Transcript Services,2209.16,Smith-Rasmussen
+1368,92,2024-01-13,Filing Fees,1499.94,"Bates, Everett and Vazquez"
+1369,92,2024-06-25,Expert Witness,18430.93,King Group
+1370,92,2023-04-23,Transcript Services,12348.01,"Cox, Burnett and Martinez"
+1371,92,2024-09-03,Expert Witness,10644.74,Price-Browning
+1372,92,2023-07-07,Filing Fees,3733.37,Turner-Mayer
+1373,92,2024-05-27,Investigation,6229.43,Clark-Zamora
+1374,92,2024-10-16,Deposition,8416.57,"Stewart, Burnett and Newman"
+1375,92,2024-06-25,Investigation,13013.68,Delacruz-Morrow
+1376,92,2024-11-07,Mediation Services,9845.56,Mclaughlin-House
+1377,92,2023-05-14,Deposition,9795.07,Mcdowell-Wilkins
+1378,92,2024-07-27,Transcript Services,7594.15,"Green, Jones and Fisher"
+1379,92,2024-05-02,Transcript Services,11359.32,"Rojas, Chavez and Johnson"
+1380,92,2022-09-05,Transcript Services,5917.7,"White, Ramos and Davidson"
+1381,92,2022-07-23,Investigation,10980.4,Fuller LLC
+1382,92,2023-12-17,Mediation Services,12957.86,Moore PLC
+1383,93,2024-01-28,Document Review,12332.94,"Hines, Bradford and Jennings"
+1384,93,2024-02-21,Filing Fees,3866.83,Hayes-Russo
+1385,93,2023-08-02,Deposition,7781.84,Mcdaniel LLC
+1386,93,2024-02-23,Expert Witness,12634.08,Miller LLC
+1387,93,2023-08-17,Mediation Services,648.33,Duffy-Wilkerson
+1388,93,2023-08-30,Court Fees,3042.7,Leblanc Ltd
+1389,93,2023-12-27,Research/Legal Database,9127.82,Meadows Group
+1390,93,2023-08-22,Research/Legal Database,3199.48,"Christian, Williams and Williamson"
+1391,93,2023-12-24,Court Fees,4568.53,Davis LLC
+1392,93,2023-08-14,Document Review,13290.69,"Wilson, Higgins and Graham"
+1393,93,2024-03-31,Travel,6577.27,Wilcox-Snyder
+1394,93,2023-08-30,Document Review,4256.2,Lee LLC
+1395,93,2023-09-19,Transcript Services,13751.11,Reyes-Reynolds
+1396,93,2023-08-25,Transcript Services,3764.97,Carney LLC
+1397,93,2024-02-01,Research/Legal Database,5553.19,Barnes Group
+1398,93,2024-02-21,Travel,3225.4,Roberts LLC
+1399,93,2023-09-03,Research/Legal Database,595.13,Solomon-Wood
+1400,93,2024-01-19,Research/Legal Database,4047.84,Miller-Harrison
+1401,94,2024-10-29,Expert Witness,11928.39,"Sanders, Lewis and Reyes"
+1402,94,2024-03-26,Deposition,9152.81,"Scott, Davis and Brown"
+1403,94,2024-02-12,Deposition,4096.47,Ruiz LLC
+1404,94,2024-12-29,Expert Witness,10108.49,"Coffey, George and Goodman"
+1405,94,2023-09-26,Travel,9903.8,Wagner-James
+1406,94,2024-12-20,Document Review,5264.13,"Wood, Donaldson and Hansen"
+1407,94,2024-06-10,Expert Witness,15171.63,Jackson-Vasquez
+1408,95,2023-11-29,Transcript Services,7812.26,Anderson-Stewart
+1409,95,2024-03-23,Mediation Services,12223.77,Green LLC
+1410,95,2023-06-04,Document Review,10579.57,Porter LLC
+1411,95,2024-08-01,Travel,6614.03,Campbell-Mcdowell
+1412,95,2024-05-11,Travel,2734.73,Black-Graham
+1413,95,2023-08-16,Research/Legal Database,4770.88,"Vang, Gallagher and Hernandez"
+1414,95,2024-10-03,Travel,4547.03,"Fields, Gonzales and Lopez"
+1415,95,2023-06-10,Research/Legal Database,9085.38,Johnson LLC
+1416,95,2023-08-15,Research/Legal Database,605.02,Graham-Carney
+1417,95,2024-11-17,Mediation Services,886.46,Alexander Ltd
+1418,95,2024-04-10,Transcript Services,11326.01,Vasquez-Singleton
+1419,95,2024-10-11,Mediation Services,14997.41,Bailey and Sons
+1420,95,2024-10-12,Travel,2102.04,Conley Ltd
+1421,95,2024-03-10,Document Review,11413.55,Elliott-Alvarado
+1422,95,2023-09-13,Court Fees,1227.62,Fox PLC
+1423,95,2023-08-25,Transcript Services,1334.22,Sanchez Group
+1424,95,2024-06-19,Deposition,7762.21,Johnson-Maldonado
+1425,96,2024-03-22,Deposition,9169.06,Brooks-Hickman
+1426,96,2023-11-21,Transcript Services,9216.58,Hernandez-Miller
+1427,96,2024-04-23,Research/Legal Database,14294.99,"Castillo, Fuller and Adams"
+1428,96,2024-03-18,Court Fees,1141.89,Booker-Douglas
+1429,96,2024-05-19,Investigation,6321.58,Meza-Cooke
+1430,96,2024-05-10,Court Fees,2665.05,"Anderson, Boyer and Solis"
+1431,96,2023-12-29,Document Review,9025.97,Manning PLC
+1432,96,2024-05-19,Document Review,2820.77,Davis-Scott
+1433,96,2023-12-20,Expert Witness,22276.89,Davis-Phelps
+1434,96,2023-12-03,Transcript Services,11735.67,Mitchell-Goodwin
+1435,96,2024-03-17,Document Review,9793.3,Evans Group
+1436,96,2024-04-03,Transcript Services,3445.67,Mckee-Munoz
+1437,96,2024-01-14,Investigation,5457.52,Collier PLC
+1438,96,2023-12-11,Court Fees,3136.81,Mcclure-Alvarez
+1439,96,2024-02-26,Research/Legal Database,6235.09,Davis-Henderson
+1440,96,2024-01-16,Court Fees,3663.46,Hamilton Group
+1441,96,2023-11-18,Court Fees,2667.28,"Peterson, Ford and Walker"
+1442,97,2024-03-22,Filing Fees,1076.49,Arias PLC
+1443,97,2024-01-30,Filing Fees,4347.37,"Miller, Mcdonald and Miller"
+1444,97,2024-07-04,Document Review,7365.06,Hernandez-Anderson
+1445,97,2024-10-04,Research/Legal Database,10182.81,Mills LLC
+1446,97,2023-12-06,Mediation Services,9628.55,"Jones, Williams and Rodriguez"
+1447,97,2023-07-29,Filing Fees,1633.44,Marshall Ltd
+1448,97,2023-12-06,Court Fees,4537.85,Kelly-Richards
+1449,97,2024-06-04,Research/Legal Database,10667.68,Wilson Ltd
+1450,97,2023-09-01,Transcript Services,6672.99,Cameron Inc
+1451,97,2022-09-23,Investigation,12225.45,"Evans, Matthews and Gibson"
+1452,97,2024-03-07,Travel,1238.05,"Morton, Peterson and Hull"
+1453,97,2024-07-12,Transcript Services,9099.83,Lopez Ltd
+1454,98,2024-12-12,Document Review,5073.37,Savage-Rodriguez
+1455,98,2023-08-25,Research/Legal Database,4421.99,Foster Inc
+1456,98,2022-08-06,Travel,2495.94,Stevens-Sullivan
+1457,98,2024-01-03,Court Fees,782.58,"Guzman, Tucker and Montgomery"
+1458,98,2024-12-03,Travel,8740.54,Vazquez-Mccarty
+1459,98,2024-01-21,Deposition,1089.4,Miller-Taylor
+1460,98,2022-08-26,Court Fees,1719.08,Horton and Sons
+1461,98,2024-08-03,Research/Legal Database,1955.33,Castillo and Sons
+1462,98,2023-12-25,Court Fees,1847.81,Wilkinson-Garrison
+1463,98,2023-08-29,Expert Witness,28284.11,Turner Group
+1464,98,2022-07-12,Investigation,7534.16,Johnson-Martin
+1465,98,2022-07-16,Transcript Services,7184.43,"Wallace, Washington and Smith"
+1466,98,2023-05-27,Research/Legal Database,4283.46,Harris PLC
+1467,98,2024-07-03,Transcript Services,14620.46,Williams-Smith
+1468,98,2023-12-05,Deposition,7231.82,"Reynolds, Perry and Simpson"
+1469,98,2023-10-11,Document Review,12969.56,"Spencer, Roberts and Freeman"
+1470,98,2023-07-05,Research/Legal Database,14575.84,"Hardy, Mcconnell and Stein"
+1471,98,2024-08-12,Mediation Services,8406.21,Klein PLC
+1472,98,2022-02-25,Document Review,9610.1,"Stewart, Brown and Orozco"
+1473,98,2023-04-23,Deposition,7303.71,Wilson-Dean
+1474,98,2023-12-21,Mediation Services,11972.65,Terry-Smith
+1475,98,2022-12-07,Transcript Services,3114.82,Harrison Group
+1476,99,2022-11-19,Document Review,11689.08,Matthews Ltd
+1477,99,2022-12-05,Investigation,7643.25,"Castaneda, Espinoza and Mcdonald"
+1478,99,2023-02-22,Filing Fees,2717.19,"Dawson, Moyer and Whitaker"
+1479,99,2023-01-23,Filing Fees,4232.82,"Ward, Kennedy and Maddox"
+1480,99,2022-11-09,Travel,9654.78,Campbell Ltd
+1481,100,2022-08-26,Research/Legal Database,9039.22,Anderson-Gonzalez
+1482,100,2023-11-15,Mediation Services,6734.98,Leon Group
+1483,100,2023-03-01,Court Fees,2110.86,Hawkins Inc
+1484,100,2023-04-17,Transcript Services,14169.96,Kelly-Moore
+1485,100,2024-05-25,Research/Legal Database,5434.25,"Johnson, Brown and Jordan"
+1486,100,2023-11-26,Mediation Services,10149.93,Hoffman Group
+1487,100,2023-01-20,Filing Fees,1737.22,Glover-Hammond
+1488,100,2024-04-05,Mediation Services,5336.38,"Adams, Hernandez and Vaughn"
+1489,100,2023-08-30,Mediation Services,11891.35,"Garcia, Williams and Shah"
+1490,100,2024-04-30,Deposition,7617.17,Villegas PLC
+1491,100,2023-11-19,Mediation Services,3285.53,Colon Inc
+1492,100,2023-08-23,Mediation Services,2991.05,Soto and Sons
+1493,101,2024-12-06,Filing Fees,3697.71,Chandler Ltd
+1494,101,2024-07-30,Investigation,2457.15,"Jimenez, Harrell and Moore"
+1495,101,2024-07-09,Research/Legal Database,760.85,Martinez and Sons
+1496,101,2024-07-29,Mediation Services,4358.82,Hammond-Smith
+1497,101,2024-11-15,Investigation,2317.27,Peterson-Wagner
+1498,101,2024-04-23,Transcript Services,11794.32,Espinoza-Perry
+1499,101,2024-09-20,Deposition,3746.29,Hernandez PLC
+1500,101,2024-07-24,Travel,8760.37,Taylor Group
+1501,101,2024-07-22,Deposition,7634.02,Villanueva-Crane
+1502,101,2024-08-19,Court Fees,4035.81,"Cox, Johnson and Thomas"
+1503,101,2024-04-02,Filing Fees,1259.48,"Acevedo, Miller and Edwards"
+1504,101,2024-12-26,Research/Legal Database,3002.9,Hamilton Group
+1505,101,2024-10-25,Deposition,1077.61,"Nielsen, Hernandez and Andrews"
+1506,101,2024-12-24,Court Fees,2899.78,"Lloyd, Liu and Kaufman"
+1507,101,2024-07-24,Deposition,7564.02,"Haynes, Russo and Griffith"
+1508,102,2023-10-15,Filing Fees,1256.01,Smith-Ramirez
+1509,102,2023-12-26,Document Review,6984.72,Graves Group
+1510,102,2024-02-03,Mediation Services,6462.24,"Weber, Montgomery and Ramos"
+1511,102,2023-10-26,Transcript Services,11526.95,"Sullivan, Gonzalez and Turner"
+1512,102,2023-07-15,Research/Legal Database,9868.73,Price-Higgins
+1513,102,2024-04-21,Court Fees,4329.87,"Braun, Campbell and Davis"
+1514,102,2024-01-03,Research/Legal Database,11997.32,"Peterson, Reid and Johnson"
+1515,102,2024-04-25,Travel,9298.52,"Vargas, Allen and Schroeder"
+1516,102,2024-03-01,Court Fees,1793.63,"Rodriguez, Brown and Watson"
+1517,102,2024-01-28,Transcript Services,3037.55,Martinez-Sherman
+1518,102,2024-05-12,Expert Witness,40462.75,Evans-Doyle
+1519,102,2023-12-01,Transcript Services,10681.4,Trujillo PLC
+1520,102,2024-01-07,Filing Fees,2274.89,"Wade, Richard and Hall"
+1521,102,2023-10-10,Investigation,1076.48,"Glover, Espinoza and Chambers"
+1522,102,2024-02-26,Filing Fees,2293.26,"Mclaughlin, Garcia and Black"
+1523,102,2023-09-05,Document Review,13819.13,Gibson-Thomas
+1524,102,2023-11-22,Deposition,8452.28,Miller-Brown
+1525,102,2024-04-24,Expert Witness,48329.29,Lewis-Miller
+1526,102,2024-02-14,Deposition,4872.78,Chapman-Stone
+1527,102,2023-11-11,Research/Legal Database,1467.92,Silva-Fields
+1528,102,2024-05-30,Document Review,9881.73,"Galvan, Burns and Mcpherson"
+1529,102,2024-04-03,Expert Witness,37272.94,Wagner Group
+1530,102,2024-02-25,Transcript Services,1585.63,Faulkner PLC
+1531,102,2024-04-16,Court Fees,3087.14,Benson Group
+1532,102,2023-12-08,Travel,4336.62,"Moore, Hansen and Dorsey"
+1533,103,2022-05-05,Mediation Services,9478.21,Rodriguez-Wood
+1534,103,2022-09-20,Research/Legal Database,2824.67,"Hernandez, Watson and Ritter"
+1535,103,2022-10-01,Investigation,1857.87,Johnson-Thomas
+1536,103,2023-10-26,Transcript Services,3721.8,Williams-Shannon
+1537,103,2024-01-20,Expert Witness,36267.25,White Ltd
+1538,103,2023-03-01,Filing Fees,4842.91,Kelley Inc
+1539,103,2024-01-04,Mediation Services,2581.71,Olson-Collins
+1540,103,2023-01-30,Investigation,10056.6,Harrington-Alvarez
+1541,103,2023-09-04,Deposition,4599.77,"Anderson, Taylor and Fields"
+1542,103,2023-10-08,Filing Fees,999.04,"Cole, Cline and Nguyen"
+1543,103,2023-11-08,Filing Fees,4239.29,"Hanson, Hughes and Mccullough"
+1544,104,2022-12-26,Investigation,14646.44,Rubio Group
+1545,104,2023-03-11,Research/Legal Database,6168.37,"Davis, Martin and Johnson"
+1546,104,2023-02-19,Travel,7378.4,"Parker, Brewer and Schneider"
+1547,104,2022-11-08,Deposition,1092.91,"Weaver, Todd and Bernard"
+1548,104,2023-01-30,Transcript Services,5220.68,Shaw-Smith
+1549,104,2023-02-25,Investigation,3015.23,"White, Smith and Buchanan"
+1550,105,2023-05-03,Filing Fees,905.59,"Combs, Riley and Miller"
+1551,105,2023-12-05,Filing Fees,3465.66,Morales-Williams
+1552,105,2024-08-07,Travel,7059.67,Morgan and Sons
+1553,105,2023-09-07,Travel,9847.35,"Stewart, Scott and Wilson"
+1554,105,2023-01-14,Travel,8078.51,Mitchell and Sons
+1555,105,2023-05-11,Court Fees,555.94,Moore Group
+1556,105,2024-03-23,Transcript Services,4255.14,Mendez LLC
+1557,105,2023-03-16,Court Fees,4842.49,"Brown, Price and Flores"
+1558,105,2023-09-06,Document Review,2489.64,Scott-David
+1559,105,2024-09-04,Travel,7438.75,Harris PLC
+1560,105,2024-01-13,Filing Fees,2070.35,Romero-Gordon
+1561,105,2024-10-12,Document Review,2186.41,Brown-Marshall
+1562,105,2023-09-01,Travel,5137.9,Johnson-Schultz
+1563,106,2024-11-29,Investigation,10048.14,Adams PLC
+1564,106,2024-09-04,Filing Fees,2855.12,Hines Ltd
+1565,106,2024-10-14,Investigation,14289.82,Carroll-Griffin
+1566,106,2024-11-05,Expert Witness,23989.54,"Harris, Faulkner and Brooks"
+1567,106,2024-12-25,Travel,8110.35,Medina Group
+1568,106,2024-12-17,Transcript Services,4738.6,"Hayes, Smith and Marshall"
+1569,106,2024-10-30,Transcript Services,14632.83,Delgado-Jackson
+1570,106,2024-01-25,Document Review,13259.99,Nelson-King
+1571,106,2024-09-06,Court Fees,2630.22,Kirby-Lewis
+1572,106,2024-11-03,Deposition,1900.78,Williams-Stevenson
+1573,106,2024-07-25,Mediation Services,6900.01,Davis-Hale
+1574,106,2024-10-30,Court Fees,4261.52,"Hawkins, Ramirez and Reynolds"
+1575,106,2024-08-11,Investigation,9485.98,Henson-Dougherty
+1576,106,2024-08-20,Transcript Services,3237.39,"Chavez, Sanchez and Bird"
+1577,106,2024-05-06,Document Review,10611.33,Haley-Murphy
+1578,106,2024-11-29,Expert Witness,44699.22,Lucas Inc
+1579,106,2024-08-11,Document Review,8625.25,Valenzuela Ltd
+1580,106,2024-03-06,Investigation,4960.96,"Woodard, Warner and Farmer"
+1581,106,2024-07-16,Document Review,1627.66,"Curtis, Ryan and Stafford"
+1582,107,2024-11-23,Research/Legal Database,3675.85,Chambers-Gomez
+1583,107,2024-11-22,Deposition,4855.61,"Howard, Thompson and Tate"
+1584,107,2024-10-29,Deposition,8165.18,Martinez LLC
+1585,107,2024-12-17,Mediation Services,12446.76,Smith-Paul
+1586,107,2024-11-11,Transcript Services,4205.16,"Morse, Howard and Davis"
+1587,107,2024-10-12,Transcript Services,11532.4,Stokes-Walker
+1588,107,2024-12-26,Expert Witness,12447.85,Johnson-Vasquez
+1589,107,2024-10-31,Document Review,11704.31,"Clark, Gonzalez and Nicholson"
+1590,107,2024-08-29,Deposition,7708.22,Carroll-Snyder
+1591,107,2024-09-30,Filing Fees,4289.3,"Rodgers, Chambers and Morrison"
+1592,107,2024-07-14,Research/Legal Database,6561.31,"Anderson, Brown and Green"
+1593,107,2024-10-03,Transcript Services,1101.21,Ibarra Ltd
+1594,107,2024-11-16,Investigation,3007.87,Abbott Inc
+1595,107,2024-12-29,Mediation Services,6791.16,"Byrd, Mendez and Becker"
+1596,107,2024-12-07,Document Review,1416.68,Pace Ltd
+1597,107,2024-10-24,Expert Witness,49066.38,"Williams, Mcmillan and Reynolds"
+1598,107,2024-12-29,Expert Witness,31802.91,Martinez-Holmes
+1599,107,2024-09-18,Travel,5507.74,"Blake, Stephenson and Walker"
+1600,107,2024-08-04,Deposition,6632.39,Patel-Stewart
+1601,107,2024-08-28,Deposition,5335.38,Miller-Armstrong
+1602,108,2024-08-08,Research/Legal Database,1824.87,"Perez, Norris and Rosario"
+1603,108,2024-12-18,Document Review,3899.61,Martin LLC
+1604,108,2024-08-14,Transcript Services,9249.39,"Davis, Castillo and Morton"
+1605,108,2024-10-31,Expert Witness,31169.8,"Mcconnell, Pittman and Wright"
+1606,108,2024-10-14,Travel,5292.6,Wall-Underwood
+1607,108,2024-10-20,Court Fees,1678.33,Harding PLC
+1608,108,2024-11-04,Filing Fees,724.6,Garrett PLC
+1609,108,2024-08-23,Investigation,12773.23,Rangel Group
+1610,108,2024-09-20,Filing Fees,3816.68,"Brown, Anderson and Ellison"
+1611,108,2024-10-09,Document Review,3720.87,Bishop-Reynolds
+1612,108,2024-08-20,Mediation Services,14364.68,Hansen LLC
+1613,108,2024-12-08,Mediation Services,4297.9,Davis-Walton
+1614,108,2024-09-08,Travel,5113.33,"Cobb, Hanson and Chavez"
+1615,109,2023-12-22,Filing Fees,870.59,Hobbs-Harvey
+1616,109,2023-09-26,Investigation,12727.0,"Logan, Gibson and Murphy"
+1617,109,2023-06-15,Deposition,8906.23,Smith Ltd
+1618,109,2023-03-20,Document Review,13493.41,Strong and Sons
+1619,109,2024-04-21,Investigation,2404.92,Kelly-Olson
+1620,109,2024-04-09,Filing Fees,3897.58,Sanchez Inc
+1621,109,2023-03-15,Filing Fees,2990.54,Silva-Palmer
+1622,109,2024-05-01,Court Fees,2154.84,Collins-Mcclure
+1623,109,2024-07-27,Document Review,13292.89,Harrison PLC
+1624,109,2023-09-28,Court Fees,2837.6,Cordova-Holmes
+1625,109,2024-05-05,Mediation Services,11324.9,Brown PLC
+1626,109,2024-08-26,Transcript Services,986.59,"Trevino, Henderson and Gonzalez"
+1627,109,2023-06-21,Expert Witness,11711.87,Glover LLC
+1628,109,2023-06-13,Investigation,13905.29,Neal-Holden
+1629,109,2024-03-26,Research/Legal Database,8864.54,Christian-Knight
+1630,109,2023-09-23,Court Fees,549.92,Barnes-Martin
+1631,109,2023-12-15,Mediation Services,4966.95,Crawford Inc
+1632,110,2024-12-02,Investigation,9922.28,"Hall, Hanson and Allen"
+1633,110,2024-12-09,Mediation Services,6083.35,Aguirre-Bennett
+1634,110,2024-11-13,Document Review,14656.25,Cox Inc
+1635,110,2024-11-09,Deposition,4707.08,"Wilson, Roberts and Lee"
+1636,110,2024-11-27,Filing Fees,649.7,Williams-Johnson
+1637,110,2024-10-27,Expert Witness,15255.21,Robinson LLC
+1638,111,2024-10-30,Investigation,4371.63,Abbott-Sanchez
+1639,111,2024-07-07,Filing Fees,3164.63,Cameron Inc
+1640,111,2024-05-29,Travel,2901.47,"Taylor, Pena and Dyer"
+1641,111,2024-08-07,Filing Fees,2673.71,Torres and Sons
+1642,111,2024-08-14,Investigation,10155.14,Guerrero-Pugh
+1643,111,2024-12-25,Expert Witness,41784.05,"Keith, Johns and Jones"
+1644,111,2024-06-25,Investigation,10662.22,Norton and Sons
+1645,111,2024-09-19,Court Fees,2965.97,"Brooks, Greene and Rowland"
+1646,111,2024-07-17,Research/Legal Database,3154.03,Hines PLC
+1647,111,2024-07-05,Research/Legal Database,6599.13,"Phillips, Hernandez and Wright"
+1648,111,2024-10-10,Investigation,13712.76,Salas-York
+1649,111,2024-12-24,Document Review,11753.47,Clark-Miller
+1650,112,2023-07-17,Expert Witness,39699.38,"Mendez, Jackson and Hughes"
+1651,112,2023-09-06,Investigation,7867.24,"Brooks, Stone and White"
+1652,112,2023-08-16,Mediation Services,6748.16,"Neal, Baldwin and Simpson"
+1653,112,2023-06-23,Travel,5521.43,Little-Gibbs
+1654,112,2023-08-08,Deposition,7086.28,Robinson and Sons
+1655,112,2023-07-15,Expert Witness,22424.49,Foster LLC
+1656,112,2023-07-12,Travel,6153.77,Duncan-Walls
+1657,112,2023-07-06,Travel,3742.12,"Miller, Walton and Phillips"
+1658,112,2023-07-23,Research/Legal Database,10597.45,Silva Group
+1659,112,2023-07-23,Transcript Services,13092.64,Simmons-Mcdonald
+1660,112,2023-07-10,Mediation Services,11461.11,Stewart-Reyes
+1661,112,2023-06-12,Filing Fees,608.32,Baker Inc
+1662,112,2023-07-04,Deposition,8189.38,Phillips PLC
+1663,112,2023-07-23,Deposition,8633.44,"Miller, Hill and Perez"
+1664,112,2023-06-04,Document Review,8779.52,Johnson-Gonzalez
+1665,112,2023-06-14,Research/Legal Database,12512.32,Wright-Mcgee
+1666,112,2023-08-23,Investigation,1350.9,Lee-Munoz
+1667,112,2023-06-06,Mediation Services,6627.52,"Singh, Gaines and Smith"
+1668,112,2023-06-26,Court Fees,2952.79,Logan-Powell
+1669,112,2023-07-09,Filing Fees,3572.57,"Todd, Smith and Valdez"
+1670,112,2023-09-19,Investigation,931.22,Grimes and Sons
+1671,112,2023-06-17,Filing Fees,1426.7,"Clark, Hall and Matthews"
+1672,112,2023-07-27,Expert Witness,39314.15,Sharp-Murray
+1673,112,2023-08-26,Filing Fees,3933.53,Singleton-Patterson
+1674,113,2024-12-12,Expert Witness,26355.5,Clark-Cole
+1675,113,2024-08-10,Transcript Services,8929.64,Taylor-Russo
+1676,113,2024-05-20,Mediation Services,12669.93,"Smith, Cochran and Flowers"
+1677,113,2024-05-31,Court Fees,3528.07,Simmons-Goodwin
+1678,113,2024-10-15,Transcript Services,12337.82,"Medina, Nguyen and Johnson"
+1679,113,2024-10-22,Research/Legal Database,7612.8,Hernandez LLC
+1680,113,2024-08-13,Mediation Services,2731.82,"Mcintyre, Berry and Myers"
+1681,113,2024-06-14,Deposition,9691.98,Brown-Hughes
+1682,113,2024-07-14,Travel,7953.54,Hudson-Hayes
+1683,113,2024-11-27,Travel,5172.85,Jackson Ltd
+1684,113,2024-08-08,Investigation,11194.3,Serrano PLC
+1685,113,2024-07-18,Expert Witness,29025.21,Gonzalez Group
+1686,113,2024-05-13,Document Review,9355.82,Carter PLC
+1687,113,2024-03-05,Research/Legal Database,6375.76,Wood Inc
+1688,113,2024-04-07,Document Review,2787.16,Myers-Mayo
+1689,113,2024-03-24,Travel,7461.67,Mendoza-Jones
+1690,113,2024-12-16,Transcript Services,8265.65,Anderson and Sons
+1691,113,2024-05-22,Travel,9752.29,"Ortega, Moore and Andrews"
+1692,113,2024-05-22,Court Fees,3535.57,Shaw Ltd
+1693,113,2024-07-09,Travel,9618.77,Smith and Sons
+1694,113,2024-07-04,Document Review,10462.77,Jacobs-Wright
+1695,113,2024-05-28,Transcript Services,10538.77,"Suarez, Stevens and Johnston"
+1696,113,2024-10-07,Court Fees,1770.25,Lucas-Ellison
+1697,114,2023-04-07,Transcript Services,14686.72,"Sparks, Myers and Colon"
+1698,114,2023-06-06,Investigation,888.37,Wright-Yoder
+1699,114,2023-05-23,Filing Fees,3194.66,Cruz-Hopkins
+1700,114,2023-05-19,Court Fees,3276.19,Long Inc
+1701,114,2023-03-25,Mediation Services,6868.24,Hill Ltd
+1702,114,2023-04-30,Expert Witness,21553.9,"Hendricks, Wolfe and Bowen"
+1703,114,2023-03-23,Transcript Services,8192.28,Jenkins-Gill
+1704,114,2023-03-11,Document Review,3864.0,Jones-Garcia
+1705,114,2023-05-27,Mediation Services,11266.24,Ortiz-Martin
+1706,114,2023-03-21,Document Review,10050.99,Murray Inc
+1707,114,2023-05-12,Travel,8305.51,"Brady, James and Reese"
+1708,114,2023-06-07,Research/Legal Database,11850.75,Johnson-King
+1709,114,2023-05-21,Court Fees,2596.59,Murphy Ltd
+1710,114,2023-04-21,Mediation Services,2118.87,Jones-Kelley
+1711,114,2023-03-26,Investigation,7778.97,Taylor-Hoover
+1712,114,2023-06-05,Expert Witness,22386.41,Roberson PLC
+1713,114,2023-03-09,Filing Fees,4792.32,Martinez-Figueroa
+1714,114,2023-03-17,Document Review,10118.19,"Gallagher, Byrd and Hernandez"
+1715,114,2023-04-08,Court Fees,2046.83,Klein Ltd
+1716,114,2023-04-29,Mediation Services,8908.53,Horton-Copeland
+1717,114,2023-06-02,Expert Witness,9633.03,"Bates, Keller and Garcia"
+1718,114,2023-05-18,Document Review,13296.02,Williams-Smith
+1719,114,2023-05-28,Transcript Services,13854.62,Mcfarland LLC
+1720,115,2024-10-26,Mediation Services,1850.73,Davis Group
+1721,115,2023-01-28,Expert Witness,13987.09,Rogers and Sons
+1722,115,2024-05-13,Investigation,11733.3,Walker Inc
+1723,115,2024-08-06,Court Fees,2641.79,"Jackson, Jackson and Perry"
+1724,115,2023-03-26,Transcript Services,14671.23,Morris-Sims
+1725,115,2024-04-03,Filing Fees,3338.65,"Foster, Patterson and Hall"
+1726,115,2023-03-25,Expert Witness,25081.99,Thompson-Morales
+1727,115,2023-08-24,Expert Witness,14161.42,Lewis-Robinson
+1728,115,2024-04-27,Mediation Services,9622.01,Santos-Wood
+1729,116,2023-06-13,Mediation Services,9789.02,Jenkins PLC
+1730,116,2024-03-02,Court Fees,2544.18,Marquez PLC
+1731,116,2023-08-16,Filing Fees,1176.0,Greene Ltd
+1732,116,2024-06-29,Research/Legal Database,9209.26,"Middleton, Wise and Anderson"
+1733,116,2023-08-18,Filing Fees,2976.21,"Stewart, York and Olson"
+1734,116,2023-11-23,Document Review,12577.39,"Barr, Cole and Dixon"
+1735,117,2024-12-25,Deposition,7770.39,"Matthews, Mcneil and Hall"
+1736,117,2024-12-22,Expert Witness,34723.1,Parker Ltd
+1737,117,2024-12-18,Expert Witness,25593.95,Harvey Inc
+1738,117,2024-12-12,Mediation Services,7860.81,Phillips-Hernandez
+1739,117,2024-12-13,Transcript Services,14506.14,Young Ltd
+1740,117,2024-12-22,Transcript Services,3165.84,Stevenson-Murphy
+1741,117,2024-12-15,Investigation,9654.52,"Buchanan, Williams and Conner"
+1742,117,2024-12-18,Court Fees,838.68,Christensen-Perez
+1743,117,2024-12-25,Mediation Services,531.64,Allen-Ryan
+1744,117,2024-12-28,Transcript Services,10438.63,"Mcneil, Solis and Horton"
+1745,117,2024-12-13,Transcript Services,13326.1,Boyd-White
+1746,117,2024-12-22,Filing Fees,4363.61,Kane Inc
+1747,117,2024-12-29,Research/Legal Database,12097.23,Walters and Sons
+1748,117,2024-12-29,Filing Fees,2263.61,Davis PLC
+1749,117,2024-12-21,Expert Witness,30086.12,Young Inc
+1750,117,2024-12-18,Mediation Services,2435.3,Collins-Griffith
+1751,117,2024-12-14,Expert Witness,15804.85,Obrien LLC
+1752,117,2024-12-15,Court Fees,2553.3,Faulkner-Harris
+1753,117,2024-12-27,Research/Legal Database,14916.85,Miller-Kaufman
+1754,117,2024-12-17,Filing Fees,1375.78,Ruiz Group
+1755,117,2024-12-20,Document Review,4568.86,"Hamilton, Moore and Mckay"
+1756,118,2024-07-16,Deposition,8227.62,Simmons-Miller
+1757,118,2024-11-30,Filing Fees,3335.96,Larson-Hernandez
+1758,118,2024-10-03,Research/Legal Database,9807.91,James-Torres
+1759,118,2024-05-13,Deposition,9984.88,"Obrien, Jones and Taylor"
+1760,118,2024-07-12,Investigation,13549.86,Hendricks Inc
+1761,118,2024-02-16,Court Fees,1303.89,"Cross, Brooks and Sullivan"
+1762,118,2024-06-25,Document Review,12252.34,Waller-Brooks
+1763,118,2024-07-19,Research/Legal Database,4824.72,"Archer, Jones and Dyer"
+1764,118,2024-12-28,Deposition,2934.55,Cruz PLC
+1765,118,2024-04-04,Transcript Services,769.23,Krueger-Wise
+1766,118,2024-10-11,Court Fees,4724.55,Hicks-Burns
+1767,119,2024-07-10,Travel,5126.76,"Brown, Cruz and Coleman"
+1768,119,2023-11-15,Travel,1080.59,Johnson-Li
+1769,119,2024-06-09,Mediation Services,13687.35,"Johnson, Wade and Hernandez"
+1770,119,2024-05-26,Transcript Services,7044.56,"Hernandez, Wright and Lane"
+1771,119,2024-06-26,Expert Witness,16246.65,Smith Inc
+1772,119,2024-06-16,Filing Fees,3420.61,Sanders-Willis
+1773,119,2024-11-02,Investigation,511.15,"Kent, Liu and Martin"
+1774,119,2024-02-20,Document Review,4013.1,"Turner, Ponce and Barrett"
+1775,119,2024-01-27,Deposition,2196.62,Gross-Goodwin
+1776,120,2024-10-10,Expert Witness,20836.88,Rodriguez PLC
+1777,120,2024-05-04,Travel,7285.61,Olsen-Adams
+1778,120,2022-08-31,Filing Fees,1651.29,"Sanders, Parker and Benitez"
+1779,120,2024-06-15,Court Fees,3649.61,Davis Ltd
+1780,120,2023-04-12,Investigation,11951.71,Pena-Quinn
+1781,120,2022-07-20,Document Review,10355.21,Lopez-Taylor
+1782,120,2023-06-25,Travel,8863.34,"Fry, Hayes and Olsen"
+1783,120,2022-08-05,Document Review,12685.8,Brady and Sons
+1784,120,2022-10-23,Mediation Services,8428.37,Alexander-Durham
+1785,120,2022-05-14,Court Fees,2085.25,"Martin, Carter and Gray"
+1786,120,2022-11-11,Transcript Services,7050.66,Johnson-Young
+1787,120,2023-06-24,Investigation,4107.16,Smith LLC
+1788,120,2024-04-07,Deposition,3488.01,Ortega Inc
+1789,120,2022-05-01,Filing Fees,2350.01,"Conner, Bennett and Meyer"
+1790,121,2024-12-03,Research/Legal Database,3846.91,Frederick-Kennedy
+1791,121,2023-09-07,Expert Witness,22152.18,Rogers-Maldonado
+1792,121,2023-09-11,Investigation,9262.63,Montoya-Everett
+1793,121,2024-05-02,Transcript Services,14567.26,Bishop-Hester
+1794,121,2024-09-29,Filing Fees,1776.67,Smith Ltd
+1795,121,2023-10-24,Court Fees,1082.06,Johnson Inc
+1796,121,2024-09-27,Transcript Services,5000.97,Tapia-Walton
+1797,121,2023-07-05,Investigation,14532.96,Montgomery-Hopkins
+1798,121,2023-12-16,Research/Legal Database,2455.88,Keller-Smith
+1799,121,2024-04-12,Expert Witness,47809.21,Smith-Ward
+1800,121,2023-02-08,Research/Legal Database,9270.07,"Nguyen, Wallace and Lawson"
+1801,122,2024-06-28,Research/Legal Database,2903.89,"Bauer, Bailey and Crosby"
+1802,122,2024-12-12,Filing Fees,3036.54,Hatfield-Vincent
+1803,122,2024-12-01,Research/Legal Database,660.65,"Cruz, Lawson and Joseph"
+1804,122,2024-11-20,Filing Fees,2291.7,"Glover, Moran and Johnson"
+1805,122,2024-07-28,Investigation,14255.1,Turner Ltd
+1806,122,2024-12-29,Transcript Services,8959.4,Jackson-Griffin
+1807,122,2024-04-01,Research/Legal Database,3242.59,"Fernandez, Sanchez and Jackson"
+1808,122,2024-12-13,Deposition,4392.6,"Davis, Graham and Baldwin"
+1809,122,2024-04-15,Transcript Services,13675.88,Orr-Miranda
+1810,122,2024-05-04,Transcript Services,10030.91,Wade-Lynn
+1811,122,2024-09-20,Research/Legal Database,9025.82,"Taylor, Nichols and Swanson"
+1812,122,2024-03-24,Transcript Services,11971.32,"Cook, Walker and Johnston"
+1813,122,2024-12-07,Mediation Services,4095.25,Schneider Group
+1814,122,2024-12-03,Deposition,7763.46,"Fitzgerald, James and May"
+1815,122,2024-08-17,Investigation,13044.84,Stokes-Walker
+1816,122,2024-04-01,Filing Fees,3001.9,Rodriguez LLC
+1817,122,2024-10-11,Investigation,10796.68,Garner Inc
+1818,123,2024-11-23,Transcript Services,3215.72,Castaneda Group
+1819,123,2024-11-24,Filing Fees,555.61,Collins PLC
+1820,123,2024-11-20,Court Fees,1611.77,Whitney-Flores
+1821,123,2024-11-05,Mediation Services,3003.67,"Peck, Martinez and Alvarado"
+1822,123,2024-11-25,Mediation Services,14239.14,Foster PLC
+1823,123,2024-12-18,Document Review,13480.59,Thomas-Hahn
+1824,123,2024-12-16,Travel,1860.81,Frazier-Hernandez
+1825,123,2024-10-29,Travel,6428.1,"Ortega, Solis and Warner"
+1826,123,2024-11-26,Travel,9784.43,Shaw-Barker
+1827,123,2024-10-28,Transcript Services,1727.25,"Berry, Welch and Lewis"
+1828,123,2024-10-30,Research/Legal Database,6335.54,Brown-Patrick
+1829,123,2024-10-18,Expert Witness,5198.86,"Clark, Oconnor and Cochran"
+1830,123,2024-12-04,Court Fees,1803.17,Leblanc and Sons
+1831,123,2024-12-18,Expert Witness,34356.71,"Myers, Joyce and Hopkins"
+1832,123,2024-12-17,Investigation,13984.22,Kelley LLC
+1833,123,2024-11-10,Research/Legal Database,12681.1,Mooney-Todd
+1834,123,2024-11-08,Court Fees,4804.63,"Acosta, Campbell and Leblanc"
+1835,123,2024-12-04,Document Review,11247.27,"Long, Anderson and Goodwin"
+1836,123,2024-11-24,Travel,8676.16,Horn Ltd
+1837,124,2024-09-24,Transcript Services,1525.4,"Martin, Taylor and Dominguez"
+1838,124,2024-09-22,Document Review,2214.03,Clark Ltd
+1839,124,2024-09-09,Travel,5649.28,"Smith, Barber and Johnston"
+1840,124,2024-11-15,Transcript Services,7687.74,Bennett Group
+1841,124,2024-11-16,Research/Legal Database,13566.43,Howe Inc
+1842,124,2024-10-01,Mediation Services,7316.12,White-Williams
+1843,124,2024-12-28,Expert Witness,31614.65,"Morgan, Hamilton and Hernandez"
+1844,124,2024-11-22,Mediation Services,6804.29,Johnson and Sons
+1845,124,2024-10-07,Deposition,8495.41,Watts-Blevins
+1846,124,2024-11-12,Filing Fees,1837.05,Parsons-Esparza
+1847,124,2024-11-14,Research/Legal Database,4804.35,Strickland Ltd
+1848,124,2024-10-05,Expert Witness,19827.79,"Delgado, Richardson and Wilson"
+1849,124,2024-08-24,Research/Legal Database,1306.36,May-Kerr
+1850,124,2024-09-13,Research/Legal Database,3886.22,"Berry, Armstrong and Hill"
+1851,125,2023-09-30,Expert Witness,30660.25,"White, Washington and Newman"
+1852,125,2023-05-21,Investigation,14903.23,"Martinez, Nguyen and Reeves"
+1853,125,2023-11-19,Filing Fees,3238.84,"Lopez, Hess and Smith"
+1854,125,2023-07-12,Court Fees,3300.73,"Logan, Moreno and Brown"
+1855,125,2023-11-08,Document Review,8601.14,"Reeves, Tyler and Martinez"
+1856,125,2023-10-04,Transcript Services,6309.84,"Merritt, White and George"
+1857,125,2023-02-02,Transcript Services,14132.39,"West, Edwards and Williams"
+1858,125,2023-07-20,Mediation Services,13857.65,"Martin, Hart and York"
+1859,125,2022-12-02,Expert Witness,34206.57,Hunter LLC
+1860,125,2024-01-02,Deposition,4620.68,Henderson Ltd
+1861,125,2022-11-18,Research/Legal Database,13250.53,Williams-Bautista
+1862,125,2023-12-07,Court Fees,2632.36,Hopkins-Wallace
+1863,126,2023-05-15,Travel,6651.53,"Edwards, Bartlett and Shea"
+1864,126,2023-05-31,Expert Witness,25185.65,"Clark, Garcia and Weiss"
+1865,126,2022-11-11,Filing Fees,2340.68,Thomas and Sons
+1866,126,2023-12-08,Mediation Services,6743.89,"Arnold, Vargas and Ramirez"
+1867,126,2023-08-06,Deposition,9803.54,Jones-Scott
+1868,126,2023-01-29,Research/Legal Database,11486.59,Ross Inc
+1869,126,2023-12-01,Document Review,12818.82,"Coleman, Neal and Herrera"
+1870,126,2022-08-13,Expert Witness,18932.9,"Adams, Schultz and Brewer"
+1871,126,2023-07-29,Document Review,7615.91,"Sandoval, Hoover and Jacobs"
+1872,126,2023-02-19,Court Fees,3698.7,Stewart Group
+1873,126,2023-01-28,Deposition,3029.84,"Wright, Nelson and Schmidt"
+1874,126,2023-07-13,Court Fees,3454.92,Jones-Bowman
+1875,126,2023-01-19,Investigation,10076.9,Strickland-Thomas
+1876,126,2023-09-13,Deposition,8653.78,Smith-Bennett
+1877,126,2023-12-15,Court Fees,557.3,Lynn-Patton
+1878,126,2022-09-11,Investigation,7607.78,"Chandler, Parker and Nicholson"
+1879,127,2023-09-23,Research/Legal Database,1562.48,"Bailey, Armstrong and Campbell"
+1880,127,2023-04-08,Deposition,1558.99,Mosley and Sons
+1881,127,2023-05-14,Filing Fees,887.72,White-Shaffer
+1882,127,2024-02-15,Transcript Services,11546.03,"Arnold, Macias and Powell"
+1883,127,2023-12-11,Research/Legal Database,14506.97,Smith-Palmer
+1884,127,2023-01-09,Research/Legal Database,10577.64,Thomas PLC
+1885,127,2024-03-30,Transcript Services,11291.06,Sellers Ltd
+1886,127,2024-09-30,Transcript Services,9165.49,"Waters, Gregory and Barnes"
+1887,127,2023-08-30,Court Fees,3158.54,Andersen-Lindsey
+1888,127,2023-10-03,Mediation Services,7522.05,Cisneros-Meyer
+1889,127,2024-03-17,Travel,5136.6,Torres Inc
+1890,128,2023-06-13,Document Review,11110.55,Townsend-Bruce
+1891,128,2023-02-15,Document Review,12850.87,Blair Inc
+1892,128,2022-08-23,Document Review,4488.39,Miller LLC
+1893,128,2023-01-16,Investigation,4655.86,Stokes-Smith
+1894,128,2023-06-13,Transcript Services,501.24,"Romero, Cross and Castillo"
+1895,128,2023-01-01,Document Review,7654.04,"Barron, Wolfe and Sullivan"
+1896,128,2023-02-08,Expert Witness,24976.92,"Smith, Coleman and Ferguson"
+1897,128,2022-10-29,Mediation Services,6531.75,"Guerrero, Knapp and Kidd"
+1898,128,2023-06-12,Research/Legal Database,11729.77,"Lynch, Lawson and Oconnell"
+1899,128,2023-03-02,Deposition,9878.01,"Mckee, Thompson and Richardson"
+1900,128,2022-08-11,Expert Witness,36132.27,Farley-Henderson
+1901,129,2023-06-12,Filing Fees,1946.09,Booker-Morgan
+1902,129,2023-12-30,Transcript Services,1533.74,"Rosales, Hodge and Roberts"
+1903,129,2023-08-21,Investigation,9633.19,Lewis-Rojas
+1904,129,2023-10-17,Mediation Services,12873.32,Leblanc Ltd
+1905,129,2023-09-11,Deposition,1808.46,Walls PLC
+1906,129,2024-04-22,Travel,9649.12,Kelly PLC
+1907,129,2023-08-05,Research/Legal Database,13026.23,Gomez-Smith
+1908,129,2024-05-20,Transcript Services,5533.14,Morales Inc
+1909,129,2022-12-07,Document Review,5599.29,Gonzalez-Rice
+1910,129,2024-05-25,Travel,9744.4,Martinez-Freeman
+1911,129,2023-01-13,Expert Witness,32225.83,"Wright, Ruiz and Brooks"
+1912,129,2023-06-02,Court Fees,3012.55,Herrera LLC
+1913,129,2022-12-12,Deposition,5579.95,Douglas-Gonzales
+1914,129,2023-01-02,Deposition,4116.85,"Hamilton, Howard and Harrell"
+1915,129,2023-02-11,Court Fees,3780.14,Mitchell and Sons
+1916,129,2023-06-22,Court Fees,1944.32,"Rivera, Johnson and Wade"
+1917,129,2024-06-28,Investigation,4278.29,"Bird, Wilson and Burns"
+1918,129,2023-08-29,Transcript Services,6189.81,"Klein, Nguyen and Duran"
+1919,129,2024-05-14,Deposition,3239.89,"Barber, Harmon and Petersen"
+1920,129,2022-12-28,Court Fees,4648.21,Sparks and Sons
+1921,130,2023-03-11,Investigation,12408.24,"Smith, Cohen and Williams"
+1922,130,2023-09-10,Expert Witness,7276.03,Bray-Mclaughlin
+1923,130,2023-05-26,Expert Witness,31452.45,Campbell-Miller
+1924,130,2023-05-24,Expert Witness,37257.1,"Hernandez, Dixon and Wright"
+1925,130,2023-08-24,Deposition,9035.1,Gamble-Wright
+1926,130,2023-09-07,Court Fees,2928.09,Wells Inc
+1927,131,2024-10-19,Travel,6437.86,"Carr, Lopez and Bond"
+1928,131,2024-10-01,Mediation Services,2669.36,Perez and Sons
+1929,131,2024-08-07,Court Fees,4119.22,Mooney-Hickman
+1930,131,2024-08-13,Expert Witness,35643.77,"Gonzalez, Lin and James"
+1931,131,2024-09-06,Transcript Services,6047.97,"Schultz, Hall and Rogers"
+1932,132,2024-08-24,Expert Witness,15734.63,"Simmons, Williams and Rodriguez"
+1933,132,2024-07-27,Deposition,9238.05,Dawson-Wright
+1934,132,2024-12-05,Mediation Services,8542.9,Williams Inc
+1935,132,2024-10-08,Document Review,9610.96,Lewis-Kennedy
+1936,132,2024-12-08,Expert Witness,34703.22,Jordan LLC
+1937,132,2024-12-18,Mediation Services,8337.03,Cook-Rodriguez
+1938,132,2024-10-10,Research/Legal Database,6180.26,"Arnold, Atkins and Rivera"
+1939,132,2024-10-28,Research/Legal Database,9317.17,Paul-Chapman
+1940,132,2024-09-24,Deposition,1814.89,Santos and Sons
+1941,132,2024-09-19,Filing Fees,1771.18,Eaton and Sons
+1942,133,2022-12-10,Transcript Services,3496.38,"Martinez, Willis and Barr"
+1943,133,2022-12-12,Travel,7501.37,Lee Group
+1944,133,2023-01-11,Deposition,7487.5,Mcmahon PLC
+1945,133,2022-11-08,Research/Legal Database,3401.27,"Wells, Juarez and Ferguson"
+1946,133,2022-10-18,Travel,6444.11,Lee PLC
+1947,133,2022-12-19,Investigation,4849.73,"Hester, Jacobson and West"
+1948,133,2022-12-19,Expert Witness,27641.19,Jones-Barnes
+1949,133,2023-01-12,Mediation Services,13550.04,"Gibbs, Jackson and Hill"
+1950,133,2023-01-16,Filing Fees,2693.22,Williams-Knight
+1951,133,2022-12-28,Mediation Services,10937.6,"Lee, Olsen and Simpson"
+1952,133,2022-11-29,Transcript Services,8596.64,"Mata, Martin and Christensen"
+1953,133,2022-11-13,Expert Witness,31846.14,Morales-Nelson
+1954,133,2022-10-22,Expert Witness,49057.16,Armstrong PLC
+1955,133,2022-12-17,Court Fees,3197.68,"Gibson, Zimmerman and Warren"
+1956,133,2022-11-04,Transcript Services,1843.52,Phillips LLC
+1957,133,2022-12-01,Document Review,13051.96,Walker PLC
+1958,133,2022-10-28,Court Fees,913.44,Bowman LLC
+1959,133,2023-01-11,Research/Legal Database,12255.97,Marks-Williams
+1960,134,2023-12-14,Court Fees,933.12,Nichols Inc
+1961,134,2023-05-02,Mediation Services,4497.32,"Jacobs, Wood and Miller"
+1962,134,2023-06-09,Deposition,6047.89,"Baker, Anderson and Villanueva"
+1963,134,2022-09-02,Deposition,2467.08,Garrett Inc
+1964,134,2023-08-29,Filing Fees,1584.36,Cross LLC
+1965,134,2022-06-13,Court Fees,1001.47,Medina PLC
+1966,134,2022-04-26,Filing Fees,645.57,"Watts, Bautista and Scott"
+1967,134,2023-04-16,Investigation,12081.45,"Pierce, Montoya and Walker"
+1968,134,2022-08-15,Research/Legal Database,2627.73,"Soto, Garrison and Foster"
+1969,134,2022-12-14,Deposition,3033.01,"Barber, Richardson and Barrera"
+1970,134,2022-04-17,Investigation,10332.75,Stevens and Sons
+1971,134,2022-06-21,Investigation,7422.4,Harding-White
+1972,134,2022-08-24,Document Review,5768.7,Martin-Thompson
+1973,134,2022-11-09,Document Review,4795.86,"Lopez, Thomas and Simmons"
+1974,134,2022-12-20,Expert Witness,43859.44,"Waller, Garcia and Rose"
+1975,134,2023-06-24,Research/Legal Database,13818.74,Morrison Group
+1976,134,2022-11-02,Travel,1719.35,Serrano Ltd
+1977,135,2024-11-12,Document Review,6160.82,Wright Inc
+1978,135,2023-07-09,Court Fees,4202.93,"Greene, Sparks and Smith"
+1979,135,2024-07-30,Transcript Services,5414.9,"Fitzgerald, Morgan and Zimmerman"
+1980,135,2023-05-22,Travel,6189.21,Malone-Stafford
+1981,135,2024-08-16,Filing Fees,4443.8,Rivera-Moore
+1982,135,2023-02-03,Investigation,12156.64,"Adams, Stephens and Smith"
+1983,135,2023-01-25,Filing Fees,1095.22,"Phillips, Hunt and Copeland"
+1984,136,2023-02-07,Research/Legal Database,4098.86,Johnson Group
+1985,136,2023-08-05,Transcript Services,5950.94,Rios-Perez
+1986,136,2024-08-02,Expert Witness,21348.59,Mcdaniel-Espinoza
+1987,136,2024-08-19,Expert Witness,11204.06,Jackson-Rodriguez
+1988,136,2023-01-08,Filing Fees,831.53,Howard-Gilbert
+1989,136,2023-01-21,Mediation Services,4867.5,Huang PLC
+1990,136,2023-02-14,Research/Legal Database,5922.57,Moreno-Greene
+1991,136,2024-03-09,Mediation Services,13654.63,Barry Ltd
+1992,136,2023-06-04,Expert Witness,14723.68,Bailey-Garcia
+1993,136,2024-08-30,Filing Fees,2826.21,"Wood, Baker and Meadows"
+1994,136,2024-06-04,Expert Witness,19878.98,Hensley and Sons
+1995,136,2024-05-20,Expert Witness,22701.68,Flores Group
+1996,136,2023-09-19,Expert Witness,22830.2,Briggs-Wilson
+1997,136,2023-09-05,Travel,4905.75,"Ramirez, Davis and Cooley"
+1998,136,2023-03-08,Expert Witness,21693.41,Gomez-Snyder
+1999,136,2023-10-15,Research/Legal Database,11098.54,Guzman-Fields
+2000,136,2023-02-04,Court Fees,3411.41,"Dorsey, Reyes and Dunn"
+2001,136,2023-11-26,Filing Fees,1696.92,Patel-Underwood
+2002,137,2022-10-15,Transcript Services,8402.77,"Espinoza, Rose and Frank"
+2003,137,2023-04-12,Court Fees,549.27,Warner and Sons
+2004,137,2022-10-05,Travel,6279.77,Mcknight Inc
+2005,137,2022-10-06,Transcript Services,2214.85,Rosario-Mccall
+2006,137,2022-06-01,Research/Legal Database,1351.18,Ward-Atkinson
+2007,138,2024-11-13,Expert Witness,11442.31,Phillips and Sons
+2008,138,2024-11-25,Research/Legal Database,837.93,"Bonilla, Durham and Sanchez"
+2009,138,2024-11-24,Document Review,5415.01,Burgess Inc
+2010,138,2024-12-22,Travel,7906.53,"Thomas, Quinn and Horton"
+2011,138,2024-08-29,Investigation,11476.15,Miles Ltd
+2012,138,2024-10-02,Transcript Services,7278.62,Monroe-Harrell
+2013,138,2024-06-06,Transcript Services,5816.69,Thomas-Sanchez
+2014,138,2024-06-02,Court Fees,3085.15,Hernandez-White
+2015,138,2024-11-06,Research/Legal Database,14553.05,"Rose, Rush and Harrison"
+2016,138,2024-11-01,Expert Witness,7229.25,Harrington-Dominguez
+2017,138,2024-07-31,Mediation Services,6740.55,Brown Ltd
+2018,138,2024-06-06,Research/Legal Database,13014.08,Gordon Inc
+2019,139,2024-05-28,Deposition,9255.08,Frazier-Liu
+2020,139,2024-07-23,Investigation,14049.45,Ellison-Shaw
+2021,139,2024-09-17,Deposition,3320.11,Huynh-Nelson
+2022,139,2024-02-09,Document Review,14731.5,Spence-Martinez
+2023,139,2024-03-23,Transcript Services,14301.38,"Brown, Long and Carson"
+2024,139,2024-12-22,Expert Witness,19356.02,"Skinner, Velasquez and Mcdonald"
+2025,139,2024-04-28,Mediation Services,14458.34,"Sullivan, James and Brown"
+2026,139,2024-05-19,Document Review,10555.54,Lee-Rodriguez
+2027,139,2024-02-03,Deposition,3026.16,"Maxwell, Rogers and Allen"
+2028,139,2024-03-05,Court Fees,1059.6,Jones PLC
+2029,139,2024-01-10,Expert Witness,33377.98,Lopez-Harris
+2030,139,2024-12-05,Court Fees,3732.65,Adams PLC
+2031,139,2024-07-27,Transcript Services,6144.7,"Downs, Webb and Williams"
+2032,139,2024-02-09,Deposition,5764.53,Smith-Kelly
+2033,139,2024-04-17,Document Review,13351.57,Porter-Edwards
+2034,139,2024-05-26,Document Review,11550.29,Dickson-Park
+2035,139,2024-02-10,Filing Fees,4911.58,Mosley-Gordon
+2036,139,2024-07-05,Research/Legal Database,13070.86,Johnson Group
+2037,139,2024-06-26,Transcript Services,12015.93,Roberts and Sons
+2038,140,2023-04-26,Research/Legal Database,2288.55,Mcclure Inc
+2039,140,2023-10-23,Transcript Services,7678.1,Wilkerson Ltd
+2040,140,2023-04-08,Deposition,7294.7,"Martin, Stuart and Black"
+2041,140,2023-05-27,Filing Fees,554.32,"Mills, Mack and West"
+2042,140,2022-04-25,Filing Fees,961.47,Ward-Chase
+2043,140,2022-11-10,Filing Fees,4281.6,"Schroeder, Hughes and Clark"
+2044,140,2023-03-09,Document Review,8355.53,Rubio PLC
+2045,140,2023-03-21,Expert Witness,25144.02,Davis-Smith
+2046,140,2023-06-21,Document Review,7009.19,Payne-Novak
+2047,140,2023-07-01,Research/Legal Database,11487.66,Porter Group
+2048,140,2022-08-24,Filing Fees,572.16,Martin-Ramirez
+2049,140,2022-09-26,Travel,4179.88,Jones Ltd
+2050,140,2023-06-25,Court Fees,2146.88,Andersen-Good
+2051,140,2023-06-19,Deposition,1244.56,Santos-Taylor
+2052,140,2022-04-20,Deposition,9594.04,"Freeman, Cox and Mitchell"
+2053,140,2022-10-27,Expert Witness,8053.32,"Stark, Anderson and Richardson"
+2054,141,2024-01-10,Court Fees,2404.22,Brooks-Fleming
+2055,141,2023-09-15,Court Fees,1922.15,Rich-Esparza
+2056,141,2023-04-07,Expert Witness,20608.75,"Brown, Gibbs and Lyons"
+2057,141,2023-10-04,Investigation,8795.18,Farrell LLC
+2058,141,2023-08-01,Deposition,2160.54,"Ross, Jones and Price"
+2059,141,2023-08-30,Document Review,4882.22,Bailey Group
+2060,141,2023-11-01,Travel,3207.65,Rodriguez-White
+2061,141,2023-04-30,Deposition,3768.32,Tate-Gonzalez
+2062,141,2023-07-15,Transcript Services,4347.55,Peterson-Munoz
+2063,141,2023-06-05,Filing Fees,4858.83,"Alvarez, Ramirez and Johnson"
+2064,141,2023-05-16,Deposition,2924.15,Thomas-Lewis
+2065,141,2023-10-06,Deposition,7249.57,"Schroeder, Brown and Stokes"
+2066,142,2023-02-27,Transcript Services,1289.01,Lewis-Lewis
+2067,142,2022-09-19,Investigation,2285.07,"Henderson, King and Thompson"
+2068,142,2022-10-14,Court Fees,3913.12,Sullivan-Evans
+2069,142,2023-02-10,Mediation Services,9739.76,Warren-Caldwell
+2070,142,2022-11-08,Mediation Services,6268.96,Davis Group
+2071,142,2022-11-25,Document Review,12790.38,Martin-Bailey
+2072,142,2022-12-11,Filing Fees,3113.31,Nichols-Bowers
+2073,142,2023-04-04,Filing Fees,1985.44,Gomez-Schwartz
+2074,142,2022-12-05,Court Fees,2991.78,Hoffman PLC
+2075,142,2022-10-26,Travel,8929.96,"Contreras, Jensen and Morris"
+2076,142,2023-04-09,Transcript Services,7675.99,"Newton, Doyle and Stewart"
+2077,142,2022-10-16,Mediation Services,7170.09,Peck-Porter
+2078,142,2022-11-20,Mediation Services,14345.26,"Russell, Meyer and Smith"
+2079,142,2022-12-18,Deposition,7179.98,Walters Ltd
+2080,142,2023-04-05,Expert Witness,39739.85,Johnson Ltd
+2081,142,2023-04-07,Travel,9944.38,Horton-Schroeder
+2082,142,2023-01-18,Investigation,12789.69,Bailey and Sons
+2083,142,2023-04-06,Court Fees,2939.27,"Friedman, Wood and Cox"
+2084,142,2022-11-17,Travel,8699.85,Shaw-Parrish
+2085,143,2024-10-01,Court Fees,3036.48,"Duarte, Gutierrez and Bell"
+2086,143,2024-11-09,Research/Legal Database,870.23,Mills-Hubbard
+2087,143,2024-04-09,Deposition,4892.38,Ellis LLC
+2088,143,2024-04-28,Travel,2953.12,"Martin, Graham and Mitchell"
+2089,143,2024-09-19,Research/Legal Database,10507.95,"Kim, Campbell and Oliver"
+2090,143,2024-12-08,Transcript Services,10629.74,Cowan Inc
+2091,143,2024-04-01,Travel,8075.21,Jensen Group
+2092,143,2024-04-06,Research/Legal Database,3549.83,"Walton, Ho and Garcia"
+2093,143,2024-07-17,Filing Fees,1800.93,"Shaffer, Contreras and Christian"
+2094,143,2024-05-08,Expert Witness,13371.95,Arnold-Wilson
+2095,143,2024-11-17,Mediation Services,13862.61,Bell Group
+2096,143,2024-07-07,Deposition,3160.66,"Padilla, Figueroa and Smith"
+2097,143,2024-06-26,Research/Legal Database,12324.42,Romero LLC
+2098,143,2024-11-24,Investigation,5952.9,Parker-Orr
+2099,143,2024-12-03,Transcript Services,9964.74,"Allen, Mccullough and Perry"
+2100,143,2024-03-10,Document Review,2897.4,Gibbs PLC
+2101,143,2024-11-07,Investigation,13817.47,"Stewart, Jackson and Armstrong"
+2102,143,2024-07-13,Transcript Services,14029.25,"Beltran, Lee and Newman"
+2103,143,2024-11-09,Research/Legal Database,3745.6,"Patterson, Ayers and Myers"
+2104,143,2024-10-10,Mediation Services,13078.26,Strong-Holmes
+2105,143,2024-07-15,Research/Legal Database,1177.64,Mckinney and Sons
+2106,143,2024-08-04,Travel,7174.09,"Ray, Myers and Gill"
+2107,143,2024-12-05,Expert Witness,30885.42,"Moore, Morris and Davis"
+2108,143,2024-03-13,Document Review,10486.73,Fuller PLC
+2109,143,2024-04-20,Expert Witness,7936.64,"Zimmerman, Knapp and Miller"
+2110,144,2023-10-31,Travel,3051.58,"Gross, Lucero and Walters"
+2111,144,2024-07-30,Research/Legal Database,7985.85,Allen and Sons
+2112,144,2023-09-02,Document Review,2505.35,"Pittman, Barber and Roman"
+2113,144,2023-10-28,Document Review,7672.34,Hopkins-Hill
+2114,144,2024-11-16,Court Fees,3220.92,"Johnson, Mercer and Camacho"
+2115,144,2023-04-27,Mediation Services,2665.59,"Martinez, Thomas and Green"
+2116,144,2023-06-14,Transcript Services,631.85,Snyder LLC
+2117,144,2024-10-31,Investigation,5305.29,Myers Group
+2118,144,2024-08-11,Deposition,8758.16,Jones-Chung
+2119,144,2023-04-03,Deposition,8584.67,"Barnes, Preston and Schultz"
+2120,144,2023-12-18,Deposition,2141.54,White Inc
+2121,144,2024-10-25,Filing Fees,759.11,"Bradley, Obrien and Johnson"
+2122,144,2024-12-14,Investigation,5192.31,Webb-Mendez
+2123,144,2024-02-22,Transcript Services,10501.03,Boyd LLC
+2124,144,2024-11-10,Transcript Services,1506.88,Obrien PLC
+2125,144,2023-02-25,Mediation Services,14411.28,"Hodges, Robinson and Diaz"
+2126,144,2024-10-22,Court Fees,632.55,Murphy and Sons
+2127,144,2023-04-08,Filing Fees,4048.71,"Case, Adams and Olson"
+2128,144,2024-11-28,Travel,2921.0,Erickson-Pearson
+2129,144,2023-12-29,Research/Legal Database,3172.42,Graham-Potts
+2130,144,2024-11-07,Filing Fees,4968.03,Thompson-Mcdaniel
+2131,144,2024-10-14,Research/Legal Database,13747.36,Hayden-Garcia
+2132,144,2024-08-10,Investigation,7016.3,"Collins, Bauer and Mckay"
+2133,144,2024-01-12,Investigation,3665.99,Henderson-Burgess
+2134,145,2023-11-27,Filing Fees,4490.16,"Rodriguez, Reyes and Gonzalez"
+2135,145,2023-10-02,Mediation Services,10647.73,"Weiss, Cole and Preston"
+2136,145,2023-12-14,Expert Witness,47972.37,Matthews-Carter
+2137,145,2023-11-28,Filing Fees,4678.61,"Clements, Moreno and Sanders"
+2138,145,2023-09-02,Investigation,910.02,Jordan-Lopez
+2139,145,2023-09-18,Investigation,550.01,Sandoval LLC
+2140,145,2023-09-06,Mediation Services,5741.84,Martinez-Flores
+2141,146,2022-04-17,Filing Fees,4089.07,Lewis-Bradley
+2142,146,2022-10-29,Deposition,6529.26,Hoffman Group
+2143,146,2022-10-06,Research/Legal Database,9546.62,Rose Inc
+2144,146,2023-03-29,Document Review,2461.44,"Franklin, Ware and Heath"
+2145,146,2022-05-27,Document Review,1729.81,"Fisher, Avila and Stewart"
+2146,146,2022-10-29,Expert Witness,33814.09,Williams Group
+2147,146,2023-02-18,Document Review,11054.91,Fisher-Martinez
+2148,146,2022-07-27,Research/Legal Database,13518.2,Garza-Young
+2149,146,2022-04-24,Document Review,768.29,Schneider PLC
+2150,146,2023-12-22,Filing Fees,2629.59,Mitchell-Skinner
+2151,146,2022-12-19,Deposition,5557.06,"Hull, Williams and Newman"
+2152,146,2022-05-24,Filing Fees,2540.49,Gallegos Group
+2153,147,2024-01-17,Deposition,6122.57,Stewart-Reed
+2154,147,2022-11-15,Expert Witness,42883.58,Snyder-Williams
+2155,147,2023-04-10,Filing Fees,4236.83,Snyder-Davidson
+2156,147,2024-05-20,Expert Witness,42924.63,Pace-Garcia
+2157,147,2023-02-19,Travel,7359.3,Taylor LLC
+2158,147,2024-04-17,Travel,8243.65,"Graham, Jackson and Lee"
+2159,147,2024-05-15,Deposition,6708.63,Cabrera-Medina
+2160,147,2022-09-27,Filing Fees,4473.67,"Parrish, Green and Glover"
+2161,147,2022-12-06,Document Review,14215.03,Jones-Murphy
+2162,148,2023-10-14,Document Review,8818.31,Nelson-Jackson
+2163,148,2022-11-18,Document Review,5068.39,Wilson-Flores
+2164,148,2022-11-25,Investigation,9862.49,"Barron, Church and Gutierrez"
+2165,148,2023-06-21,Travel,1940.38,Boyd and Sons
+2166,148,2023-09-20,Travel,9828.46,"Henry, Ramirez and Barton"
+2167,148,2023-07-15,Transcript Services,10351.17,Baker LLC
+2168,148,2023-12-21,Transcript Services,12660.32,Hansen-Salas
+2169,149,2024-01-08,Transcript Services,11949.11,"Foley, Neal and Jones"
+2170,149,2023-12-17,Document Review,9181.76,Smith and Sons
+2171,149,2023-12-14,Mediation Services,6695.12,Lopez-Garcia
+2172,149,2023-11-10,Transcript Services,11231.35,"Gill, Palmer and Edwards"
+2173,149,2024-02-13,Deposition,8324.81,"Gibson, Moore and Wagner"
+2174,149,2024-02-09,Expert Witness,44004.89,Rangel Group
+2175,149,2024-02-17,Transcript Services,10681.9,"Palmer, Deleon and Lopez"
+2176,149,2023-11-19,Travel,2286.3,Parks PLC
+2177,149,2024-01-06,Filing Fees,3987.85,Murray Inc
+2178,149,2024-01-19,Filing Fees,1834.69,Smith Group
+2179,149,2023-11-08,Research/Legal Database,2410.93,Alvarez PLC
+2180,149,2023-12-12,Travel,9778.24,Wilson-Pierce
+2181,149,2023-11-29,Document Review,13451.23,Hernandez PLC
+2182,150,2023-06-25,Research/Legal Database,1962.24,Brown-Nelson
+2183,150,2022-08-04,Mediation Services,8993.0,"Reyes, Reilly and Lee"
+2184,150,2022-11-01,Mediation Services,12180.93,Wheeler PLC
+2185,150,2023-12-14,Court Fees,3472.4,"Hamilton, Maldonado and Lucas"
+2186,150,2024-11-20,Court Fees,1982.95,Wilson Inc
+2187,150,2023-11-12,Document Review,8654.58,Jones Inc
+2188,150,2023-01-24,Deposition,3051.81,"Lyons, Sullivan and Long"
+2189,150,2022-12-01,Expert Witness,5183.77,"Adams, Harris and Floyd"

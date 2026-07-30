@@ -1,0 +1,151 @@
+matter_id,matter_name,practice_area,case_type,lead_attorney_id,start_date,end_date,case_outcome,budgeted_cost,settlement_award_amount,client_name
+1,"Patent Infringement - Mcclure, Ward and Lee",Employment,Wrongful Termination,10,2024-06-27,2024-12-31,Won,342333.38,1396577.99,Williams and Sons
+2,Wrongful Termination - Wyatt Inc,IP,Breach of Contract,6,2024-04-26,2024-12-31,Won,193582.6,1329959.13,Ramirez-Reid
+3,Trademark - Kelly-Santiago,Corporate,Shareholder Dispute,8,2023-02-04,2024-12-31,Settled,853376.75,1472959.62,"Zuniga, Wong and Lynch"
+4,"Contract Dispute - Sanchez, Ford and Nelson",Litigation,Lease Negotiation,6,2022-07-07,,Pending,1021547.8,,"Watts, Robinson and Nguyen"
+5,Wrongful Termination - Perez Inc,Litigation,Wrongful Termination,2,2024-04-21,2024-12-31,Settled,340366.44,1782800.79,Morales-Jones
+6,"Patent Infringement - Walter, Edwards and Rios",Real Estate,Regulatory,11,2024-09-26,2024-12-31,Lost,998764.54,,Wilkerson-Day
+7,Product Liability - Wright PLC,Real Estate,Employment Dispute,8,2022-06-06,2022-12-20,Won,301683.4,3426225.11,"Baker, Richards and Hurst"
+8,M&A - Osborn and Sons,Litigation,Breach of Contract,1,2023-03-14,2023-12-03,Settled,697022.37,4383074.46,"Snyder, Campos and Callahan"
+9,Product Liability - Conner Group,Employment,Patent Infringement,11,2022-06-17,2023-02-19,Lost,426930.06,,"Brown, James and Ferrell"
+10,"Regulatory - Valencia, Smith and Le",Real Estate,Trademark,4,2023-08-03,2024-01-22,Lost,551777.95,,"Dyer, Potter and Mack"
+11,Patent Infringement - Graham-Chavez,Real Estate,Commercial Lease,7,2023-01-08,,Pending,558541.22,,"Liu, Baker and Mason"
+12,Patent Infringement - Harrell LLC,Employment,Breach of Contract,1,2022-07-15,2024-09-25,Settled,1382209.36,327003.25,"Romero, Gonzalez and Brooks"
+13,"Contract Dispute - Sellers, George and Burns",Corporate,Product Liability,8,2022-06-26,2024-03-27,Dismissed,741403.72,,Hickman LLC
+14,Lease Negotiation - Humphrey Inc,Employment,Patent Infringement,5,2022-09-20,,Pending,1268939.25,,Dennis Inc
+15,"Shareholder Dispute - Cannon, Anderson and Alvarez",Litigation,Shareholder Dispute,12,2024-12-06,2024-12-31,Dismissed,478873.54,,"Martin, Rose and Obrien"
+16,"Employment Dispute - Campos, Vaughn and Marquez",Litigation,Wrongful Termination,5,2024-11-21,2024-12-31,Settled,1197815.37,3814928.89,Carney-Santos
+17,"Commercial Lease - Hayes, Wright and Brown",Corporate,M&A,9,2023-04-25,,Pending,1236494.9,,Chapman and Sons
+18,Breach of Contract - Jones Ltd,Corporate,M&A,5,2023-10-07,2024-12-31,Lost,434671.82,,Perez Inc
+19,Patent Infringement - Palmer LLC,Litigation,Product Liability,2,2024-07-30,2024-12-31,Dismissed,1648578.78,,"Washington, Ryan and Cummings"
+20,"Trademark - Kennedy, Mueller and Aguirre",Litigation,Shareholder Dispute,3,2024-08-24,2024-12-31,Dismissed,366747.96,,Davis Ltd
+21,Wrongful Termination - Jenkins-Shields,Employment,Shareholder Dispute,5,2023-04-18,2024-12-31,Won,633409.6,2262915.85,Nunez Ltd
+22,Employment Dispute - Chandler-Mcbride,Real Estate,Employment Dispute,2,2022-04-18,2023-01-03,Won,300790.97,45882.29,Wright and Sons
+23,M&A - Henderson LLC,Real Estate,Employment Dispute,2,2023-08-11,2024-05-01,Settled,781779.46,1399601.55,Wright-Leblanc
+24,"Breach of Contract - Garcia, Pearson and Fernandez",Real Estate,Commercial Lease,9,2023-05-01,2024-01-05,Dismissed,125883.13,,Novak and Sons
+25,M&A - Olson-Hancock,Employment,Wrongful Termination,8,2022-07-02,2024-10-12,Won,1331498.32,2123657.33,Martin Inc
+26,M&A - House-Glover,Corporate,Trademark,1,2024-12-14,2024-12-31,Dismissed,1062688.73,,Henderson-Bernard
+27,"Commercial Lease - Stanley, Tucker and Lee",Litigation,Trademark,2,2024-12-25,2024-12-31,Lost,438508.79,,Novak PLC
+28,Commercial Lease - Adkins Inc,Real Estate,M&A,8,2024-03-16,2024-12-31,Won,246672.63,262435.76,Silva PLC
+29,"Employment Dispute - Moore, Yu and Miller",Litigation,Trademark,1,2024-10-03,,Pending,603021.66,,Jones Inc
+30,Patent Infringement - Powell PLC,Employment,Contract Dispute,4,2024-01-10,2024-12-31,Dismissed,1053898.63,,Riley Inc
+31,Regulatory - Sandoval-Cunningham,Real Estate,Product Liability,8,2023-11-10,2024-09-06,Dismissed,273282.83,,Donovan-Harris
+32,Breach of Contract - Baker and Sons,Real Estate,Contract Dispute,4,2024-02-24,2024-08-30,Dismissed,235421.7,,"Brewer, Bryant and Hickman"
+33,Shareholder Dispute - Ellis PLC,Litigation,Contract Dispute,1,2024-10-21,2024-12-31,Lost,367670.96,,Jones and Sons
+34,M&A - Mahoney Inc,Litigation,Trademark,2,2023-07-08,,Pending,1061457.99,,Wood and Sons
+35,"M&A - Warner, Carr and Archer",Employment,Product Liability,4,2023-04-25,2024-12-28,Settled,786875.59,2922524.72,"Rice, Contreras and Spencer"
+36,Regulatory - Mcmillan and Sons,IP,Employment Dispute,6,2024-10-17,,Pending,564171.7,,Wilson-Rodriguez
+37,Wrongful Termination - Campbell-Clark,Corporate,Contract Dispute,3,2023-08-29,2024-11-06,Lost,743294.71,,Harris-Walters
+38,Employment Dispute - King-Odonnell,Real Estate,Lease Negotiation,10,2022-10-17,2024-08-13,Dismissed,1406925.93,,Davis Group
+39,Patent Infringement - Smith and Sons,Employment,Shareholder Dispute,2,2024-06-27,2024-12-31,Won,908256.16,3520664.23,"Whitney, Martin and Ramos"
+40,"Shareholder Dispute - Smith, Jones and Ware",IP,Product Liability,11,2024-02-12,,Pending,507387.63,,Gardner LLC
+41,Shareholder Dispute - Jordan Inc,Litigation,Lease Negotiation,5,2023-09-30,2024-03-15,Settled,97013.55,1415963.79,Diaz-Fitzpatrick
+42,Lease Negotiation - Nolan and Sons,Real Estate,Commercial Lease,6,2024-11-30,2024-12-31,Won,339512.52,1263095.05,"Wright, Garcia and Deleon"
+43,Contract Dispute - Dickson-Brady,IP,Patent Infringement,11,2024-08-26,2024-12-28,Settled,291460.25,3189195.75,Hancock and Sons
+44,Shareholder Dispute - White LLC,Corporate,M&A,12,2024-08-23,2024-12-31,Lost,347505.93,,Pham-Shields
+45,Breach of Contract - Moore-Haynes,Real Estate,Patent Infringement,3,2024-06-06,2024-12-31,Settled,837336.56,2154635.7,Brennan-Garrison
+46,Contract Dispute - Bailey-Hoover,IP,Employment Dispute,6,2022-09-01,2023-08-12,Settled,876316.88,3413512.77,Walker Ltd
+47,Breach of Contract - Ramirez-Jones,Litigation,Employment Dispute,9,2022-07-31,2023-08-27,Settled,919238.59,4324382.42,Bell-Hicks
+48,"Trademark - Rivera, Johnson and Wiley",Litigation,Lease Negotiation,1,2024-01-15,2024-12-31,Won,219105.35,804397.24,White-Estes
+49,Commercial Lease - Carlson LLC,IP,Lease Negotiation,1,2022-10-18,2023-12-13,Settled,927503.03,4104476.54,"Hartman, Graham and Joyce"
+50,"Lease Negotiation - Lee, Williams and Graham",Corporate,Lease Negotiation,1,2022-05-07,2023-01-20,Won,569091.31,1762219.18,"Frost, Ryan and Ball"
+51,"Wrongful Termination - Gonzalez, Reynolds and Rush",Corporate,M&A,7,2024-03-23,,Pending,608878.34,,Hanson-Alvarado
+52,M&A - Hunter-Estrada,Real Estate,Trademark,10,2022-05-17,2022-12-15,Lost,761389.94,,Powell-Phillips
+53,M&A - Ortega-Gray,Employment,Breach of Contract,6,2022-05-20,2024-07-04,Lost,699708.1,,"Orr, Gilbert and Turner"
+54,Shareholder Dispute - Torres and Sons,Litigation,Wrongful Termination,1,2023-08-23,2024-06-08,Won,641190.79,2162174.02,Floyd-Lawson
+55,Lease Negotiation - Ramos-Lewis,Real Estate,Lease Negotiation,6,2022-12-19,2024-10-17,Lost,948265.31,,Leon-Moyer
+56,"Employment Dispute - Miller, Robertson and Schultz",Employment,Product Liability,7,2024-03-16,2024-12-31,Dismissed,702300.87,,Davis-Crane
+57,Lease Negotiation - Walker-Gonzalez,Employment,Shareholder Dispute,12,2022-09-15,2024-09-07,Dismissed,1348448.47,,Williams Group
+58,Breach of Contract - Gibson Ltd,IP,Commercial Lease,5,2023-11-01,2024-10-07,Settled,218549.58,2214512.22,"Lee, Horton and Snyder"
+59,"Regulatory - Watts, Stafford and Dalton",Litigation,Product Liability,8,2022-09-25,2024-03-31,Won,1003337.14,433129.73,Osborne and Sons
+60,"Employment Dispute - Holmes, Williams and Wright",IP,Employment Dispute,11,2022-07-12,,Pending,1112161.13,,Bryant Group
+61,"Breach of Contract - Larson, Dodson and Vance",Corporate,Commercial Lease,1,2024-01-01,2024-06-29,Won,48743.49,2078060.64,"Briggs, Mcclain and Simmons"
+62,Trademark - Merritt-Manning,Litigation,Patent Infringement,4,2024-09-20,,Pending,463148.21,,Cole-Walton
+63,Regulatory - Cannon-Boyd,Real Estate,Commercial Lease,2,2024-07-08,2024-12-31,Settled,1247201.2,260589.74,"Allen, Gonzales and Reeves"
+64,Product Liability - Flores-Fernandez,Real Estate,Shareholder Dispute,2,2022-09-14,2024-12-31,Won,808549.4,2981307.07,Hernandez Group
+65,"Shareholder Dispute - Lewis, Perry and Rivera",Employment,Patent Infringement,12,2024-01-30,2024-12-31,Dismissed,1251851.85,,Perry-Clark
+66,"Lease Negotiation - Shah, Smith and Gilmore",Real Estate,Commercial Lease,5,2023-04-06,2024-08-08,Dismissed,886320.23,,"James, Smith and Bell"
+67,Lease Negotiation - Medina-Navarro,IP,Wrongful Termination,8,2024-04-05,2024-12-31,Won,88837.22,4466203.9,"Hurst, Freeman and Nelson"
+68,Regulatory - Rogers-Shelton,Litigation,M&A,3,2023-06-16,2023-12-04,Settled,181091.82,2080190.8,Ramsey-Pittman
+69,"Trademark - Ferguson, Meadows and Vargas",Employment,Breach of Contract,8,2024-10-03,2024-12-31,Lost,556281.93,,"Johnson, Day and Taylor"
+70,Wrongful Termination - Green LLC,IP,Trademark,10,2023-05-21,2024-12-31,Settled,633817.91,4268705.27,Gibson LLC
+71,Employment Dispute - Ramirez-Bean,Employment,Employment Dispute,12,2024-04-13,2024-12-31,Dismissed,958882.94,,King-Miller
+72,"Product Liability - Williams, Crane and Walker",Employment,Regulatory,8,2022-01-22,2023-05-13,Lost,55810.52,,Harrington Ltd
+73,Shareholder Dispute - Herring and Sons,Corporate,Trademark,8,2022-02-14,2024-07-23,Won,1583622.25,2963544.95,Howell and Sons
+74,"Patent Infringement - Wilson, Gould and Marshall",Corporate,Lease Negotiation,11,2022-05-19,2022-09-11,Settled,289341.71,1901728.28,Wang-Jackson
+75,"Lease Negotiation - Higgins, Strickland and Martin",Employment,Lease Negotiation,6,2023-10-27,2024-12-31,Won,413212.96,4176205.47,Rodriguez-Johnson
+76,"Wrongful Termination - Odonnell, Brooks and David",Litigation,Product Liability,12,2022-12-08,2023-01-26,Dismissed,311141.23,,Jones Ltd
+77,Employment Dispute - Garcia LLC,Litigation,Contract Dispute,11,2024-06-28,2024-12-31,Settled,97242.26,3110464.93,"Burke, Martinez and Riggs"
+78,Employment Dispute - Patel-Stanley,Employment,Regulatory,8,2024-05-06,2024-10-12,Won,485288.36,1288656.05,Hunter LLC
+79,M&A - Short-Garcia,Litigation,Lease Negotiation,10,2022-01-14,2022-08-03,Lost,476915.12,,Reid-Poole
+80,Trademark - Thompson-Boyd,Employment,Regulatory,1,2024-02-14,2024-12-31,Settled,1257829.32,999665.59,"Nelson, Morton and Medina"
+81,Regulatory - Petersen-Vargas,IP,Product Liability,12,2023-06-14,,Pending,1063584.86,,Christian-Rivas
+82,Contract Dispute - Sanchez-Marshall,IP,Shareholder Dispute,2,2022-04-05,,Pending,1497552.67,,"Barnett, Rogers and Snyder"
+83,Contract Dispute - Lewis-Salinas,Employment,Commercial Lease,6,2022-12-22,2024-11-28,Dismissed,128607.11,,Ramirez-Carlson
+84,"Regulatory - Smith, Vaughan and Miller",Litigation,Trademark,6,2024-08-21,2024-12-31,Settled,737983.44,888923.44,"Russell, Peters and Allen"
+85,"Shareholder Dispute - Henry, Mcguire and Davis",Employment,Commercial Lease,11,2023-06-06,,Pending,366185.24,,Sullivan and Sons
+86,"Employment Dispute - Wood, Tran and Cooper",Corporate,Lease Negotiation,12,2022-12-02,2024-12-31,Dismissed,1020239.94,,"Pierce, Bell and Chavez"
+87,Wrongful Termination - Martinez and Sons,Corporate,Commercial Lease,8,2022-12-02,2023-09-07,Dismissed,510306.17,,Wilson-Herrera
+88,Wrongful Termination - Lee Ltd,IP,Breach of Contract,8,2024-04-14,2024-11-16,Lost,181365.48,,Hill-Lawrence
+89,"Employment Dispute - Campbell, Garcia and Lee",Employment,Commercial Lease,1,2024-04-12,2024-12-31,Lost,694997.39,,Ward LLC
+90,"Commercial Lease - Martinez, Williams and Brown",Employment,Contract Dispute,4,2022-01-16,,Pending,1379276.56,,Terry-Martinez
+91,Product Liability - Garcia-Smith,Real Estate,Wrongful Termination,4,2024-08-08,2024-12-31,Settled,396923.18,2371569.84,Harrison-Alexander
+92,Wrongful Termination - King Group,IP,Regulatory,6,2022-07-21,,Pending,753664.54,,Short Group
+93,"Employment Dispute - Soto, Brown and Hernandez",IP,M&A,5,2023-06-23,2024-04-25,Dismissed,245211.51,,"Avery, Miller and Wright"
+94,Commercial Lease - Obrien-Gibbs,IP,Regulatory,12,2023-09-04,,Pending,234285.44,,Rowe Group
+95,Employment Dispute - Evans-Chapman,IP,Employment Dispute,9,2023-05-09,,Pending,801225.63,,Torres-Oliver
+96,"Lease Negotiation - Garcia, Farmer and Garrett",Corporate,Contract Dispute,5,2023-10-30,2024-05-30,Lost,26813.97,,Guerrero-Moore
+97,Commercial Lease - Moore Group,Corporate,Contract Dispute,5,2022-07-10,,Pending,1223843.41,,Norris-Harrison
+98,Patent Infringement - Mann-Warner,Corporate,Lease Negotiation,5,2022-02-05,,Pending,937003.88,,Jones-Hall
+99,"Product Liability - Lawrence, Lara and Gonzalez",Corporate,Patent Infringement,2,2022-10-17,2023-03-12,Dismissed,288885.31,,Stephens Ltd
+100,Employment Dispute - Serrano-Jones,Corporate,Shareholder Dispute,10,2022-06-13,2024-10-20,Won,1594418.27,3824572.79,Sparks PLC
+101,"Shareholder Dispute - Morse, Gonzales and Harrison",Employment,Commercial Lease,10,2024-03-31,,Pending,696921.44,,Lyons-Bender
+102,Breach of Contract - Kim-George,Corporate,Breach of Contract,10,2023-07-03,2024-06-01,Dismissed,948179.75,,Navarro-Munoz
+103,M&A - Hayden PLC,Litigation,Employment Dispute,4,2022-01-29,2024-04-19,Settled,1019744.61,877329.61,"Sampson, Key and Chambers"
+104,Commercial Lease - Hines and Sons,IP,Contract Dispute,1,2022-10-23,2023-05-01,Settled,319579.05,1165066.41,Stone-Ramos
+105,"Lease Negotiation - Graham, Olsen and Costa",Real Estate,Product Liability,8,2022-11-01,2024-11-19,Lost,136970.37,,Bailey-Cook
+106,Lease Negotiation - Rivera Ltd,Litigation,M&A,2,2024-01-04,2024-12-31,Won,629516.49,307593.82,Roberts-Landry
+107,"Commercial Lease - Johnson, Miller and King",Corporate,Commercial Lease,12,2024-06-09,2024-12-31,Lost,1138447.28,,Cordova Group
+108,Commercial Lease - Sandoval PLC,Employment,M&A,7,2024-08-05,2024-12-31,Lost,1436420.6,,Gutierrez-Lopez
+109,Breach of Contract - Garrett-Wolf,IP,Contract Dispute,1,2023-02-01,,Pending,1299587.72,,Adams and Sons
+110,Contract Dispute - Gilmore-Washington,IP,Breach of Contract,11,2024-10-12,2024-12-31,Settled,723125.49,210756.05,Dudley PLC
+111,"Patent Infringement - Moore, Pierce and Tran",Real Estate,Trademark,9,2024-05-25,2024-12-31,Won,790175.16,3177575.75,Walker Inc
+112,Product Liability - Holland and Sons,Corporate,Patent Infringement,8,2023-05-21,2023-09-21,Dismissed,241327.25,,Cantu-Carter
+113,Trademark - Davenport-Baird,Real Estate,Contract Dispute,12,2024-02-12,2024-12-31,Lost,565118.72,,Bryant and Sons
+114,"Trademark - Romero, Suarez and Shields",Real Estate,Contract Dispute,6,2023-02-25,2023-06-25,Dismissed,177623.53,,Barton-Dickerson
+115,"Wrongful Termination - Adams, Smith and Barber",Real Estate,Commercial Lease,8,2023-01-08,,Pending,633398.75,,"Carpenter, Keller and Grimes"
+116,Lease Negotiation - Reed-Arnold,Employment,Regulatory,1,2023-05-04,2024-12-31,Dismissed,352682.65,,"Bennett, Cantu and Kane"
+117,Employment Dispute - Armstrong and Sons,Litigation,Lease Negotiation,1,2024-12-09,2024-12-31,Dismissed,692249.22,,Williams-Garner
+118,M&A - Hughes-Alvarado,Employment,M&A,1,2024-02-12,,Pending,528917.79,,"Pollard, Simpson and Johnson"
+119,"Trademark - Rivera, Garcia and Kirk",Employment,Commercial Lease,12,2023-07-05,2024-12-26,Won,379386.33,1226217.22,Fox Group
+120,Shareholder Dispute - Ortiz Ltd,Litigation,M&A,3,2022-01-17,,Pending,783151.01,,Jones LLC
+121,"Lease Negotiation - Sanders, Miller and Murphy",Corporate,Lease Negotiation,7,2023-01-06,2024-12-31,Lost,573630.41,,"Villarreal, James and Stewart"
+122,Patent Infringement - Brennan-Johnson,Employment,Shareholder Dispute,10,2024-02-26,2024-12-31,Lost,1009017.53,,Young Ltd
+123,Commercial Lease - Francis Group,IP,Employment Dispute,6,2024-10-05,2024-12-31,Dismissed,574708.96,,Hodges Ltd
+124,Contract Dispute - Jackson-Evans,IP,Regulatory,7,2024-08-13,2024-12-31,Won,334127.91,2370151.49,Williams Inc
+125,Patent Infringement - Jordan-Sanchez,Employment,Contract Dispute,11,2022-11-18,2024-01-17,Dismissed,862015.3,,Knight-Sparks
+126,Commercial Lease - Lynch Group,Corporate,Shareholder Dispute,10,2022-07-06,2024-01-01,Won,430037.7,4553103.97,"Vega, Jimenez and Aguilar"
+127,"Patent Infringement - King, Scott and Smith",Corporate,Commercial Lease,3,2022-09-12,2024-10-20,Settled,655201.97,3909811.2,Santana-Byrd
+128,Wrongful Termination - Landry-Huerta,Real Estate,Trademark,10,2022-06-22,2023-07-03,Lost,709381.13,,Fowler-Coleman
+129,Shareholder Dispute - Gonzalez-Cruz,Corporate,Breach of Contract,12,2022-10-01,2024-08-02,Lost,1262628.42,,Rodriguez-James
+130,Employment Dispute - Haney-Phillips,Corporate,Trademark,11,2023-01-29,2023-10-26,Settled,600824.46,4891905.26,"Foster, Smith and Grimes"
+131,Contract Dispute - Lozano Ltd,IP,Contract Dispute,3,2024-05-02,2024-12-31,Settled,814250.48,1473905.2,Wall-Leach
+132,Product Liability - Lawson LLC,Litigation,Patent Infringement,3,2024-04-29,2024-12-31,Lost,296967.22,,Fields PLC
+133,"Employment Dispute - Saunders, Becker and Taylor",Employment,Breach of Contract,10,2022-10-02,2023-01-20,Won,568323.06,724157.42,Berger Ltd
+134,Commercial Lease - Johnson-Diaz,IP,Product Liability,5,2022-02-13,2023-12-28,Dismissed,675283.95,,Davis LLC
+135,Breach of Contract - Thompson-Anderson,IP,Product Liability,3,2022-12-24,,Pending,139589.43,,"Walter, Diaz and Shaw"
+136,Trademark - Scott Group,Employment,M&A,5,2022-10-26,2024-10-31,Dismissed,705392.75,,Francis-Morgan
+137,Regulatory - Taylor and Sons,IP,Contract Dispute,10,2022-05-07,2023-07-01,Won,399790.79,4889942.98,"Ramsey, Whitney and Coffey"
+138,Regulatory - Davis-Foster,Corporate,Breach of Contract,1,2024-05-31,2024-12-31,Dismissed,532105.01,,Herrera-Gibson
+139,"Wrongful Termination - Baker, James and Little",Litigation,Product Liability,5,2024-01-07,2024-12-31,Dismissed,1332797.29,,Rodriguez-Hall
+140,"Product Liability - Murphy, Bishop and Holland",Litigation,Product Liability,5,2022-01-28,2023-11-24,Won,965391.02,494848.01,"Colon, Blankenship and Turner"
+141,Patent Infringement - Williams Inc,Corporate,Lease Negotiation,8,2023-03-24,2024-03-04,Settled,51325.67,1640328.44,Ferrell-Wilson
+142,"Wrongful Termination - Taylor, Chavez and Santiago",Real Estate,Shareholder Dispute,4,2022-09-15,2023-04-12,Dismissed,117565.11,,"Horton, Fernandez and Matthews"
+143,Commercial Lease - Pena-Bass,IP,Regulatory,3,2024-03-06,2024-12-31,Lost,463601.64,,"Russell, Lynn and Johnson"
+144,Employment Dispute - Wallace-Young,Employment,Shareholder Dispute,2,2023-02-10,2024-12-31,Lost,799149.42,,Garcia-Jennings
+145,"Commercial Lease - Howard, Sanders and Lopez",IP,Product Liability,7,2023-08-20,2023-12-20,Lost,22442.22,,Rush Group
+146,M&A - May PLC,Litigation,Commercial Lease,7,2022-04-11,2023-12-30,Lost,1123544.07,,Williams LLC
+147,Product Liability - Buchanan and Sons,Corporate,Product Liability,9,2022-09-24,2024-07-19,Settled,481298.76,4121038.2,Gallegos PLC
+148,Contract Dispute - Li and Sons,IP,Commercial Lease,7,2022-08-15,2024-07-09,Lost,194888.52,,Schroeder-Kramer
+149,Commercial Lease - Garrison-Thomas,IP,Product Liability,4,2023-10-15,2024-02-21,Settled,601945.17,4747410.03,Fernandez and Sons
+150,Trademark - Anderson LLC,Corporate,Commercial Lease,7,2022-05-01,,Pending,1093281.29,,Chapman Inc
