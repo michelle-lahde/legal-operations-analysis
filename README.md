@@ -8,7 +8,6 @@ This project demonstrates advanced SQL analytics applied to law firm operations 
 - Advanced SQL (CTEs, Window Functions, Complex Joins, Date Calculations)
 - Business analytics (profitability analysis, utilization metrics, variance analysis)
 - Data interpretation and storytelling
-- GitHub documentation and reproducibility
 
 ---
 
@@ -227,4 +226,4 @@ This project is part of my data analytics portfolio.
 
 **Skills:** SQL, Python, Data Analysis, Business Intelligence, MySQL, Tableau, Power BI
 
-**GitHub:** [link to your GitHub repo]
+**GitHub:** https://github.com/michelle-lahde
