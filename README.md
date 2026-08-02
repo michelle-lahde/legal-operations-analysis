@@ -1,8 +1,13 @@
-# Legal Operations Analytics Project
+# Legal Operations Analytics Project: SQL + Python Exploratory Data Analysis
 
 ## Overview
 
-This project demonstrates advanced SQL analytics applied to law firm operations data. Using a synthetic dataset of 150 legal matters spanning 2022–2024, I developed five interdependent SQL queries to uncover profitability drivers, attorney efficiency, cost management patterns, and timeline trends.
+This project analyzes a simulated legal operations dataset to identify trends in litigation costs, matter efficiency, attorney workload, and budget performance.
+
+The project began as a SQL-based business analysis and was expanded into a Python exploratory data analysis (EDA) notebook that applies statistical testing, correlation analysis, and machine learning techniques to uncover deeper operational insights.
+
+The goal is to demonstrate an end-to-end analytics workflow similar to what a Business Analyst, Operations Analyst, or Data Analyst would perform.
+
 
 **Key Skills Demonstrated:**
 - Advanced SQL (CTEs, Window Functions, Complex Joins, Date Calculations)
