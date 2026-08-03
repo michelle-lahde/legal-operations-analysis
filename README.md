@@ -286,4 +286,4 @@ This project is part of my data analytics portfolio.
 
 **Skills:** SQL, Python, Data Analysis, Business Intelligence, MySQL, Tableau, Power BI
 
-**GitHub:** [link to your GitHub repo]
+**GitHub:** https://github.com/michelle-lahde
