@@ -1,18 +1,32 @@
-# Legal Operations Analytics Project: SQL + Python Exploratory Data Analysis
+# Legal Operations Analytics Project
 
 ## Overview
 
-This project analyzes a simulated legal operations dataset to identify trends in litigation costs, matter efficiency, attorney workload, and budget performance.
-
-The project began as a SQL-based business analysis and was expanded into a Python exploratory data analysis (EDA) notebook that applies statistical testing, correlation analysis, and machine learning techniques to uncover deeper operational insights.
-
-The goal is to demonstrate an end-to-end analytics workflow similar to what a Business Analyst, Operations Analyst, or Data Analyst would perform.
-
+This project demonstrates **advanced SQL and Python analytics** applied to law firm operations data. Using a synthetic dataset of 150 legal matters spanning 2022–2024, I developed five interdependent SQL queries combined with exploratory data analysis (EDA) using statistical hypothesis testing, correlation analysis, and data segmentation.
 
 **Key Skills Demonstrated:**
-- Advanced SQL (CTEs, Window Functions, Complex Joins, Date Calculations)
-- Business analytics (profitability analysis, utilization metrics, variance analysis)
-- Data interpretation and storytelling
+- **Advanced SQL** (CTEs, Window Functions, Complex Joins, Date Calculations)
+- **Python Analytics** (Hypothesis Testing, Statistical Analysis, K-Means Clustering, PCA)
+- **Business Analytics** (Profitability analysis, utilization metrics, cost variance analysis)
+- **Statistical Rigor** (ANOVA, t-tests, correlation analysis, significance testing)
+- **Data-Driven Insights** (Converting findings into actionable business recommendations)
+- **GitHub Documentation and Reproducibility**
+
+---
+
+## Analytical Approach
+
+This project combines **SQL and Python** for comprehensive legal operations analysis:
+
+**SQL Layer:** 5 advanced queries (CTEs, window functions, multi-table joins) aggregate matters, billing, and expenses to answer business questions about profitability, utilization, cost overruns, and timelines. See `/sql_queries/` for full query code with detailed comments explaining each step.
+
+**Python Layer (Jupyter Notebook):** Exploratory data analysis using statistical hypothesis testing, correlation analysis, and machine learning to validate SQL findings and identify hidden patterns:
+- **ANOVA test** confirms practice areas differ significantly in cycle time (p < 0.05)
+- **Correlation analysis** reveals weak predictors of cost overruns (suggesting systemic issues)
+- **K-Means clustering** segments 150 matters into 3 distinct risk profiles
+- **PCA visualization** shows cluster separation and structure in 2D space
+
+The notebook runs end-to-end and produces multiple visualizations (boxplots, correlation heatmaps, scatter plots, clustering diagrams) that support business conclusions.
 
 ---
 
@@ -154,18 +168,45 @@ The goal is to demonstrate an end-to-end analytics workflow similar to what a Bu
 
 ---
 
-## How to Use This Project
+## How to Reproduce This Analysis
 
-### 1. Set Up Database
-```sql
--- Create tables (schema.sql)
--- Import CSVs or use Python loader
+### Option 1: Run Python EDA Notebook (Complete Analysis)
+
+**Prerequisites:**
+- Python 3.8+ with Jupyter installed
+- Libraries: pandas, numpy, scipy, scikit-learn, matplotlib, seaborn
+
+**Setup:**
+```bash
+pip install jupyter pandas numpy scipy scikit-learn matplotlib seaborn
 ```
 
-### 2. Run Queries
-Each `.sql` file is standalone and can be executed in MySQL Workbench or any SQL IDE. No dependencies between queries; each can run independently.
+**Run the Analysis:**
+1. Open Jupyter Lab: `jupyter lab`
+2. Navigate to `legal_ops_eda.ipynb`
+3. Run all cells top-to-bottom
+4. Notebook will produce visualizations and statistical test results
+5. Runtime: ~2-3 minutes
 
-### 3. Interpret Results
+**Output:**
+- Correlation heatmap and scatter plots
+- ANOVA test results and p-values
+- K-Means clustering visualization (2D PCA projection)
+- Cluster profiles and segmentation analysis
+- Enriched CSV saved to `/output/legal_ops_analysis_with_clusters.csv`
+
+---
+
+### Option 2: Run SQL Queries Only
+
+**Setup:**
+1. Load data into MySQL using `schema.sql`
+2. Import the 4 CSV files from `/data/`
+
+**Execute:**
+Each `.sql` file in `/sql_queries/` can run independently in MySQL Workbench or any SQL IDE.
+
+**Interpret Results:**
 Refer to the comments in each `.sql` file for:
 - Business context (what question we're answering)
 - Technical notes (why we wrote it this way)
@@ -173,13 +214,22 @@ Refer to the comments in each `.sql` file for:
 
 ---
 
+### Option 3: Quick Review (No Setup Required)
+
+1. Read `README.md` (this file) for overview
+2. Scan `findings.md` for key insights and business impact
+3. Review visualizations embedded in findings
+
+---
+
 ## Files in This Repo
 
 ```
 legal-ops-analytics/
-├── README.md (this file)
-├── findings.md (detailed insights and recommendations)
-├── schema.sql (CREATE TABLE statements)
+├── README.md (this file — project overview and methodology)
+├── findings.md (detailed insights, business impact, and recommendations)
+├── legal_ops_eda.ipynb (Python EDA with statistical analysis and clustering)
+├── schema.sql (CREATE TABLE statements for database setup)
 ├── /sql_queries/
 │   ├── 1_profitability_by_practice_area.sql
 │   ├── 2_attorney_utilization_by_seniority.sql
@@ -187,11 +237,16 @@ legal-ops-analytics/
 │   ├── 4_case_cycle_time_analysis.sql
 │   └── 5_expense_distribution.sql
 └── /data/
-    ├── attorneys.csv
-    ├── matters.csv
-    ├── billing.csv
-    └── expenses.csv
+    ├── attorneys.csv (12 attorney records)
+    ├── matters.csv (150 legal matter records)
+    ├── billing.csv (5,157 billing transaction records)
+    └── expenses.csv (2,189 expense records)
 ```
+
+**Key Files:**
+- `legal_ops_eda.ipynb` — Run this to reproduce statistical analysis, visualizations, and clustering segmentation
+- `/sql_queries/` — 5 SQL files showing advanced query techniques; can run independently in MySQL
+- `findings.md` — Complete analysis narrative with quantified business impact
 
 ---
 
@@ -231,4 +286,4 @@ This project is part of my data analytics portfolio.
 
 **Skills:** SQL, Python, Data Analysis, Business Intelligence, MySQL, Tableau, Power BI
 
-**GitHub:** https://github.com/michelle-lahde
+**GitHub:** [link to your GitHub repo]
