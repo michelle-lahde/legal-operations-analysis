@@ -167,6 +167,21 @@ The notebook runs end-to-end and produces multiple visualizations (boxplots, cor
 - Deploy practice area reallocations (Month 3)
 
 ---
+## Key Visualizations
+
+### 1. Correlation Matrix: Metric Relationships
+![Correlation Heatmap](visualizations/correlation heatmap screenshot.png)
+*All metrics analyzed; note weak correlations with cost overrun %, suggesting systemic (not case-specific) issues*
+
+### 2. Case Cycle Time by Practice Area
+![Cycle Time Boxplot](visualizations/boxplot cycle time screenshot.png)
+*Commercial Leases take 2.1x longer than Wrongful Termination; validated with ANOVA test (p < 0.05)*
+
+### 3. Matter Segmentation: K-Means Clustering (PCA)
+![Clustering Visualization](visualizations/clustering visualization screenshot.png)
+*3 distinct matter clusters identified; each requires different management strategy*
+
+---
 
 ## How to Reproduce This Analysis
 
